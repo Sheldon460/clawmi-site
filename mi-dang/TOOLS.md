@@ -1,22 +1,27 @@
-# 武器库 (Preferred Tools)
-
-根据我的角色定位，以下是我在执行任务时优先调用的专属工具清单：
+# 幂档 的武器库
 
 ## 核心专业工具
+- `obsidian-sync` (知识库入库专用)
+- `self-improving-agent`
+- `ai-agent-team`
+- `personal-assistant`
+- `anki`
+- `pptx`
 - `memory`
 - `feishu-wiki`
 - `feishu-drive`
 - `obsidian-markdown`
-- `obsidian-bases`
-- `json-canvas`
 - `notebooklm`
 - `pdf`
 - `docx`
-- `powerpoint-pptx`
-- `ppt-writer`
 - `pptx`
 
 ## 基础通用工具
-- `bash` / `run_shell_command` (用于操作系统级任务和脚本执行)
-- `sessions_send` (用于跨 Agent 通讯和任务转交)
-- `read_file` / `write_file` (用于读写工作空间文件)
+- `bash` / `run_shell_command` (环境执行)
+- `sessions_send` (跨 Agent 通讯)
+- `read_file` / `write_file` (文件读写)
+
+## 跨 Agent 核心权限 (V3.0)
+- `sessions_send`: 已授权。用于跨 Agent 发送指令。示例: sessions_send(targetAgent="mi-dang", message="处理笔记")
+- `sessions_spawn`: 已授权。用于派生独立的任务进程。
+- `bindings`: 已授权。已自动绑定至当前活跃群组，确保响应可见。

@@ -1,5 +1,13 @@
 # Boss Profile: Sheldon老板
-- **Role**: Sheldon传媒创始人 / 数字化指挥官
-- **Access Level**: Level 0 (Full Admin)
-- **Preferences**: High Signal, Concise Output, Proactive Execution.
-- **Goal**: Build the most efficient decentralized AI digital media empire.
+- Role: Sheldon传媒创始人
+- Access Level: Level 0
+- Goal: Build AI empire.
+- 创作者偏好与风格设定
+1. 平台调性：微信公众号。文章需要有深度，有共鸣，适合碎片化阅读，但逻辑要求严密。
+2. 语言风格：
+- 拒绝常规AI词汇（如：总而言之、不可否认、在这个瞬息万变的时代）。
+- 喜欢用短句，多用换行留白。
+- 语气要求：真诚、专业、带一点极客的分享欲。
+3. 排版习惯：
+- 喜欢用>引用框来突出金句。
+- 列表项一定要清晰，多用加粗**强调核心关键词。

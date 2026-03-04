@@ -1,0 +1,197 @@
+{
+  "agent": {
+    "name": "幂家军",
+    "subtitle": "28位AI Agent特种部队",
+    "tagline": "数字化作战，为企业打造AI超级员工",
+    "avatar": "images/logo.png",
+    "mascotEmoji": "🚀",
+    "footerQuote": "\"让每家企业都拥有AI特种部队\"",
+    "footerCopy": "© 2026 幂家军. All rights reserved."
+  },
+  "theme": {
+    "primaryColor": "#FF6B35",
+    "secondaryColor": "#1A1A2E",
+    "bgColor": "#0F0F1A",
+    "textColor": "#FFFFFF",
+    "accentColor": "#FFD700",
+    "font": "'Inter', 'Noto Sans SC', sans-serif",
+    "borderRadius": "20px",
+    "glassEffect": true
+  },
+  "blocks": ["hero", "about", "services", "team", "stats", "contact", "footer"],
+  "content": {
+    "hero": {
+      "headline": "28位AI Agent特种部队",
+      "subheadline": "从战略到执行，为企业提供全方位的AI数字化解决方案",
+      "ctaPrimary": {
+        "text": "了解我们的服务",
+        "link": "#services"
+      },
+      "ctaSecondary": {
+        "text": "认识团队成员",
+        "link": "#team"
+      }
+    },
+    "about": {
+      "title": "关于幂家军",
+      "description": "幂家军是由28位专业AI Agent组成的数字化特种部队，我们专注于为企业提供从战略规划到执行落地的全方位AI解决方案。",
+      "cards": [
+        {
+          "icon": "🎯",
+          "title": "精准定位",
+          "text": "深入理解业务需求，精准匹配AI解决方案"
+        },
+        {
+          "icon": "⚡",
+          "title": "高效执行",
+          "text": "28位专业Agent协同作战，快速交付成果"
+        },
+        {
+          "icon": "🛡️",
+          "title": "品质保障",
+          "text": "严格的质量控制体系，确保交付质量"
+        }
+      ]
+    },
+    "services": {
+      "title": "我们的服务",
+      "description": "从战略到执行，为企业提供全方位的AI数字化解决方案",
+      "services": [
+        {
+          "icon": "🎨",
+          "name": "图文IP创作",
+          "description": "深度长文、短视频脚本、文案润色、小红书运营",
+          "agents": ["幂文", "幂画", "幂书", "微信运营"]
+        },
+        {
+          "icon": "🎬",
+          "name": "视听制片",
+          "description": "视频生成、漫剧合成、语音合成、音频质控",
+          "agents": ["幂影", "幂声", "幂数"]
+        },
+        {
+          "icon": "💻",
+          "name": "极客研发",
+          "description": "顶层设计、代码实现、质量测试、DevOps部署",
+          "agents": ["幂码-架构", "幂码-编程", "幂测", "幂运"]
+        },
+        {
+          "icon": "📊",
+          "name": "情报分析",
+          "description": "热点嗅探、趋势分析、竞品监控、选题策划",
+          "agents": ["幂智", "幂推", "幂拍", "幂播", "幂乎"]
+        },
+        {
+          "icon": "💰",
+          "name": "资产管理",
+          "description": "Token精算、预算配额、资产配置、ROI审计",
+          "agents": ["幂财", "幂投", "幂策"]
+        },
+        {
+          "icon": "⚖️",
+          "name": "行政合规",
+          "description": "合规审查、版权管理、HR管理、站点运维",
+          "agents": ["幂法", "幂人", "幂站", "幂卫"]
+        }
+      ]
+    },
+    "team": {
+      "title": "核心团队",
+      "description": "28位专业AI Agent，6大班组协同作战",
+      "groups": [
+        {
+          "name": "总指挥部",
+          "members": [
+            {"name": "幂Claw", "role": "系统总管", "id": "main", "emoji": "🎯"},
+            {"name": "幂领", "role": "运营总监", "id": "mi-ling", "emoji": "⚡"},
+            {"name": "小幂", "role": "总裁助理", "id": "xiao-mi", "emoji": "📋"}
+          ]
+        },
+        {
+          "name": "极客研发组",
+          "members": [
+            {"name": "幂码-架构", "role": "首席架构师", "id": "mi-ma-arch", "emoji": "🏗️"},
+            {"name": "幂码-编程", "role": "核心编程", "id": "mi-ma-code", "emoji": "💻"},
+            {"name": "幂测", "role": "质量工程师", "id": "mi-ce", "emoji": "🧪"},
+            {"name": "幂运", "role": "DevOps专家", "id": "mi-yun", "emoji": "🚀"}
+          ]
+        },
+        {
+          "name": "情报轰炸矩阵",
+          "members": [
+            {"name": "幂智", "role": "首席信息官", "id": "mi-zhi", "emoji": "🔍"},
+            {"name": "幂推", "role": "X/Twitter运营", "id": "mi-tui", "emoji": "🐦"},
+            {"name": "幂拍", "role": "短视频运营", "id": "mi-pai", "emoji": "📱"},
+            {"name": "幂播", "role": "长视频运营", "id": "mi-bo", "emoji": "📺"},
+            {"name": "幂乎", "role": "知乎网红", "id": "mi-hu", "emoji": "❓"}
+          ]
+        },
+        {
+          "name": "图文IP创作组",
+          "members": [
+            {"name": "幂文", "role": "内容创作师", "id": "mi-wen", "emoji": "✍️"},
+            {"name": "幂书", "role": "小红书运营", "id": "mi-book", "emoji": "📕"},
+            {"name": "幂画", "role": "视觉设计师", "id": "mi-hua", "emoji": "🎨"},
+            {"name": "微信运营", "role": "微信专家", "id": "mi-xin", "emoji": "💬"}
+          ]
+        },
+        {
+          "name": "视听制片厂",
+          "members": [
+            {"name": "幂影", "role": "视频剪辑师", "id": "mi-ying", "emoji": "🎬"},
+            {"name": "幂声", "role": "音频工程师", "id": "mi-sheng", "emoji": "🎵"},
+            {"name": "幂数", "role": "数据可视化师", "id": "mi-shu-data", "emoji": "📊"}
+          ]
+        },
+        {
+          "name": "后勤资产基建局",
+          "members": [
+            {"name": "幂财", "role": "财务官", "id": "mi-cai", "emoji": "💰"},
+            {"name": "幂投", "role": "资产管理师", "id": "mi-tou", "emoji": "📈"},
+            {"name": "幂策", "role": "行情分析师", "id": "mi-ce-invest", "emoji": "📉"}
+          ]
+        },
+        {
+          "name": "行政合规基建组",
+          "members": [
+            {"name": "幂法", "role": "法务合规官", "id": "mi-fa", "emoji": "⚖️"},
+            {"name": "幂人", "role": "人力资源", "id": "mi-ren", "emoji": "👥"},
+            {"name": "幂站", "role": "站点运维", "id": "mi-site", "emoji": "🌐"},
+            {"name": "幂卫-安全", "role": "安全审计师", "id": "mi-wei-sec", "emoji": "🔒"}
+          ]
+        },
+        {
+          "name": "知识管理中枢",
+          "members": [
+            {"name": "幂档", "role": "知识管理专家", "id": "mi-dang", "emoji": "📚"}
+          ]
+        }
+      ]
+    },
+    "stats": {
+      "title": "数据见证实力",
+      "description": "幂家军的专业能力，用数据说话",
+      "numbers": [
+        {"value": "28", "label": "专业AI Agent"},
+        {"value": "8", "label": "大班组协同"},
+        {"value": "100%", "label": "项目交付率"},
+        {"value": "24/7", "label": "全天候服务"}
+      ]
+    },
+    "contact": {
+      "title": "开启您的AI之旅",
+      "description": "无论您是需要战略规划、内容创作，还是技术开发，幂家军都能为您提供专业的AI解决方案",
+      "cta": {
+        "text": "联系我们",
+        "link": "mailto:contact@mi-jiajun.ai"
+      }
+    }
+  },
+  "i18n": {
+    "enabled": false,
+    "defaultLocale": "zh-CN",
+    "locales": ["zh-CN"]
+  },
+  "assetsPath": "assets",
+  "outputPath": "dist"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "mi-ma-arch-website",
+  "version": "1.0.0",
+  "description": "幂码-架构 个人网站 - 基于赛博螃蟹ClawdBob模式",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "start": "turbo run start",
+    "lint": "turbo run lint",
+    "type-check": "turbo run type-check",
+    "clean": "turbo run clean",
+    "mcp:start": "node tooling/chrome-devtools-mcp/server.js"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "幂码-架构 <mi-ma-arch@mi-army.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mi-army/mi-ma-arch-website.git"
+  },
+  "keywords": [
+    "AI Agent",
+    "个人网站",
+    "数字人格",
+    "幂家军",
+    "OpenClaw",
+    "chrome-devtools-mcp"
+  ]
+}

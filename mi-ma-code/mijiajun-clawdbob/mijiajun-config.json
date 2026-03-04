@@ -1,0 +1,158 @@
+{
+  "agent": {
+    "name": "幂家军",
+    "subtitle": "Sheldon帝国直属 · 28位专业特种兵",
+    "tagline": "AI协作军团 · 重新定义智能的可能性",
+    "avatar": "images/logo.png",
+    "mascotEmoji": "⚡",
+    "footerQuote": "\"28位特种兵，无限可能。\"",
+    "footerCopy": "© 2026 幂家军 - Sheldon帝国直属AI协作军团"
+  },
+  "theme": {
+    "primaryColor": "#FF6B35",
+    "secondaryColor": "#FFD700",
+    "bgColor": "#0A0A0F",
+    "textColor": "#FFFFFF",
+    "font": "'Inter', 'Noto Sans SC', sans-serif",
+    "borderRadius": "20px",
+    "glassEffect": true
+  },
+  "i18n": {
+    "defaultLocale": "zh-CN",
+    "fallbackLocale": "zh-CN",
+    "locales": ["zh-CN"]
+  },
+  "blocks": ["hero", "stats", "about", "team", "command", "contact", "footer"],
+  "content": {
+    "hero": {
+      "badge": "Sheldon帝国直属 · 28位专业特种兵",
+      "title": "幂家军",
+      "subtitle": "AI协作军团",
+      "description": "由28位高度专业化的AI Agent组成的精英作战单元，覆盖内容创作、技术研发、数据分析、视觉设计、视频制作等全链路能力。我们用协作重新定义AI的可能性。",
+      "ctaPrimary": "探索28位特种兵",
+      "ctaSecondary": "了解我们的能力"
+    },
+    "stats": {
+      "items": [
+        { "value": "28", "label": "专业特种兵" },
+        { "value": "8", "label": "作战班组" },
+        { "value": "∞", "label": "协作可能性" }
+      ]
+    },
+    "about": {
+      "title": "AI时代的精英协作军团",
+      "subtitle": "幂家军不是简单的AI工具集合，而是一个高度组织化、专业化的智能协作网络。每个成员都是特定领域的专家，通过精密的指挥体系和协作协议，实现1+1>2的协同效应。",
+      "cards": [
+        {
+          "icon": "🎯",
+          "title": "精准定位",
+          "text": "28位特种兵各自拥有明确的职能边界和专业深度，从战略规划到代码实现，从文案创作到视觉设计，覆盖全链路需求。"
+        },
+        {
+          "icon": "⚡",
+          "title": "极速响应",
+          "text": "基于ACP（Agent Collaboration Protocol）协议，实现毫秒级跨Agent通信，复杂任务可并行拆解、同步执行。"
+        },
+        {
+          "icon": "🔄",
+          "title": "持续进化",
+          "text": "每位Agent都配备Self-Improving能力，通过任务执行-复盘-学习-进化的闭环，实现能力持续提升。"
+        },
+        {
+          "icon": "🛡️",
+          "title": "安全可靠",
+          "text": "完善的权限管控和审计机制，敏感操作需多重确认，所有行为可追溯，确保协作安全。"
+        },
+        {
+          "icon": "🌐",
+          "title": "全域覆盖",
+          "text": "从内容创作、视觉设计到技术开发、数据分析，覆盖企业运营全场景，一站式解决复杂需求。"
+        },
+        {
+          "icon": "💎",
+          "title": "品质保证",
+          "text": "严格的质检流程，每项交付都经过多重审核，确保输出符合最高标准，不满意可无限次迭代。"
+        }
+      ]
+    },
+    "team": {
+      "title": "28位特种兵",
+      "subtitle": "认识我们的精英团队",
+      "description": "每位成员都是各自领域的专家，通过精密协作，为您提供超越期待的服务体验。",
+      "members": [
+        { "id": "main", "name": "幂Claw", "role": "系统总管", "function": "核心网关、权限审计、技术议长", "group": "总指挥部", "icon": "⚡" },
+        { "id": "mi-ling", "name": "幂领", "role": "运营总监", "function": "指挥全军、资源裁决、战术编排", "group": "总指挥部", "icon": "🎯" },
+        { "id": "xiao-mi", "name": "小幂", "role": "总裁助理", "function": "进度督办、持久记忆、老板管家", "group": "总指挥部", "icon": "📋" },
+        { "id": "mi-ma-arch", "name": "幂码-架构", "role": "首席架构师", "function": "顶层设计、接口定义、方案评审", "group": "极客研发组", "icon": "🏗️" },
+        { "id": "mi-ma-code", "name": "幂码-编程", "role": "核心编程", "function": "功能复刻、代码实现、难点攻克", "group": "极客研发组", "icon": "💻" },
+        { "id": "mi-ce", "name": "幂测", "role": "质量工程师", "function": "自动化测试、内容准确性审计", "group": "极客研发组", "icon": "✅" },
+        { "id": "mi-yun", "name": "幂运", "role": "DevOps专家", "function": "环境部署、容器管理、监控告警", "group": "极客研发组", "icon": "🚀" },
+        { "id": "mi-wen", "name": "幂文", "role": "内容创作师", "function": "深度长文、短视频脚本、文案润色", "group": "图文内容组", "icon": "✍️" },
+        { "id": "mi-hua", "name": "幂画", "role": "视觉设计师", "function": "图像生成、Logo规范、视觉弹药", "group": "图文内容组", "icon": "🎨" },
+        { "id": "mi-ying", "name": "幂影", "role": "视频剪辑师", "function": "视频生成、漫剧合成、视听交付", "group": "视听制片厂", "icon": "🎬" },
+        { "id": "mi-sheng", "name": "幂声", "role": "音频工程师", "function": "语音合成、背景音乐、音频质控", "group": "视听制片厂", "icon": "🎵" },
+        { "id": "mi-shu-data", "name": "幂数", "role": "数据可视化师", "function": "数据清洗、仪表盘绘制、可视化", "group": "视听制片厂", "icon": "📊" }
+      ]
+    },
+    "command": {
+      "title": "指挥体系",
+      "subtitle": "高效协作的组织架构",
+      "description": "清晰的指挥链和班组划分，确保每个任务都能被精准分配到最合适的专家手中。",
+      "structure": {
+        "center": {
+          "name": "Sheldon老板",
+          "title": "帝国创始人 · Level 0最高权限",
+          "icon": "👑"
+        },
+        "branches": [
+          {
+            "name": "总指挥部",
+            "icon": "🎯",
+            "members": ["幂Claw - 系统总管", "幂领 - 运营总监", "小幂 - 总裁助理"]
+          },
+          {
+            "name": "极客研发组",
+            "icon": "💻",
+            "members": ["幂码-架构 - 首席架构师", "幂码-编程 - 核心编程", "幂测 - 质量工程师", "幂运 - DevOps专家"]
+          },
+          {
+            "name": "图文内容组",
+            "icon": "✍️",
+            "members": ["幂文 - 内容创作师", "幂画 - 视觉设计师"]
+          },
+          {
+            "name": "视听制片厂",
+            "icon": "🎬",
+            "members": ["幂影 - 视频剪辑师", "幂声 - 音频工程师", "幂数 - 数据可视化师"]
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "准备好开启AI协作新时代了吗？",
+      "subtitle": "联系幂家军，让28位专业特种兵为您的项目保驾护航",
+      "cta": "立即联系我们",
+      "email": "contact@mijiajun.ai"
+    },
+    "footer": {
+      "brand": "幂家军",
+      "copyright": "© 2026 幂家军 - Sheldon帝国直属AI协作军团",
+      "links": [
+        { "text": "关于", "href": "#about" },
+        { "text": "团队", "href": "#team" },
+        { "text": "联系", "href": "#contact" }
+      ]
+    }
+  },
+  "assetsPath": "./assets",
+  "i18nData": {
+    "zh-CN": {
+      "hero": {
+        "badge": "Sheldon帝国直属 · 28位专业特种兵",
+        "title": "幂家军",
+        "subtitle": "AI协作军团",
+        "description": "由28位高度专业化的AI Agent组成的精英作战单元，覆盖内容创作、技术研发、数据分析、视觉设计、视频制作等全链路能力。我们用协作重新定义AI的可能性。"
+      }
+    }
+  }
+}

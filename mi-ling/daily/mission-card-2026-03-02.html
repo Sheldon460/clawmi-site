@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图文日报 Day 1 - 任务战报</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .card {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 24px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(90deg, #FF6B6B 0%, #FF8E53 100%);
+            padding: 30px 40px;
+            color: white;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+        
+        .header .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .status-bar {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+        
+        .status-item {
+            flex: 1;
+            background: #f8f9fa;
+            border-radius: 16px;
+            padding: 20px;
+            text-align: center;
+            border: 2px solid transparent;
+            transition: all 0.3s;
+        }
+        
+        .status-item.active {
+            background: #fff3cd;
+            border-color: #ffc107;
+        }
+        
+        .status-item.success {
+            background: #d4edda;
+            border-color: #28a745;
+        }
+        
+        .status-icon {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        
+        .status-label {
+            font-size: 12px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .status-value {
+            font-size: 18px;
+            font-weight: 700;
+            color: #333;
+            margin-top: 4px;
+        }
+        
+        .team-section {
+            margin-bottom: 32px;
+        }
+        
+        .section-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+        
+        .team-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            border-left: 4px solid #ddd;
+        }
+        
+        .team-card.pending {
+            border-left-color: #ffc107;
+        }
+        
+        .team-card.ready {
+            border-left-color: #28a745;
+        }
+        
+        .team-avatar {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 50%;
+            margin: 0 auto 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 20px;
+            font-weight: 700;
+        }
+        
+        .team-name {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 4px;
+        }
+        
+        .team-role {
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 8px;
+        }
+        
+        .team-status {
+            font-size: 11px;
+            padding: 4px 10px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+        
+        .team-status.pending {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .team-status.ready {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .todo-section {
+            background: linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 16px;
+            padding: 24px;
+        }
+        
+        .todo-list {
+            list-style: none;
+        }
+        
+        .todo-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 0;
+            border-bottom: 1px solid #dee2e6;
+        }
+        
+        .todo-item:last-child {
+            border-bottom: none;
+        }
+        
+        .todo-checkbox {
+            width: 20px;
+            height: 20px;
+            border: 2px solid #adb5bd;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+        
+        .todo-checkbox.checked {
+            background: #28a745;
+            border-color: #28a745;
+        }
+        
+        .todo-checkbox.checked::after {
+            content: '✓';
+            color: white;
+            font-size: 12px;
+        }
+        
+        .todo-text {
+            flex: 1;
+            font-size: 14px;
+            color: #495057;
+        }
+        
+        .todo-text.completed {
+            text-decoration: line-through;
+            color: #adb5bd;
+        }
+        
+        .todo-meta {
+            font-size: 12px;
+            color: #6c757d;
+            background: #f8f9fa;
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+        
+        .footer {
+            background: #343a40;
+            color: white;
+            padding: 20px 40px;
+            text-align: center;
+            font-size: 12px;
+        }
+        
+        .footer span {
+            opacity: 0.7;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .badge-warning {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .badge-success {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .badge-info {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="header">
+            <h1>📰 图文日更工作流</h1>
+            <div class="subtitle">Day 1 · 2026-03-02 · 幂家军作战中心</div>
+        </div>
+        
+        <div class="content">
+            <!-- 状态栏 -->
+            <div class="status-bar">
+                <div class="status-item active">
+                    <div class="status-icon">🔥</div>
+                    <div class="status-label">工作流状态</div>
+                    <div class="status-value">执行中</div>
+                </div>
+                <div class="status-item">
+                    <div class="status-icon">👥</div>
+                    <div class="status-label">班组就绪</div>
+                    <div class="status-value">3/3 已通知</div>
+                </div>
+                <div class="status-item">
+                    <div class="status-icon">⏰</div>
+                    <div class="status-label">下一检查点</div>
+                    <div class="status-value">08:30</div>
+                </div>
+            </div>
+            
+            <!-- 班组状态 -->
+            <div class="team-section">
+                <div class="section-title">
+                    <span>🎯</span>
+                    班组作战状态
+                </div>
+                <div class="team-grid">
+                    <div class="team-card pending">
+                        <div class="team-avatar">智</div>
+                        <div class="team-name">mi-zhi</div>
+                        <div class="team-role">首席信息官</div>
+                        <span class="team-status pending">⏳ 等待响应</span>
+                    </div>
+                    <div class="team-card pending">
+                        <div class="team-avatar">文</div>
+                        <div class="team-name">mi-wen</div>
+                        <div class="team-role">内容创作师</div>
+                        <span class="team-status pending">⏳ 待命通知已发</span>
+                    </div>
+                    <div class="team-card pending">
+                        <div class="team-avatar">书</div>
+                        <div class="team-name">mi-book</div>
+                        <div class="team-role">小红书运营</div>
+                        <span class="team-status pending">⏳ 待命通知已发</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 待办事项 -->
+            <div class="todo-section">
+                <div class="section-title">
+                    <span>📋</span>
+                    今日待办清单
+                </div>
+                <ul class="todo-list">
+                    <li class="todo-item">
+                        <div class="todo-checkbox checked"></div>
+                        <span class="todo-text completed">启动图文日更工作流</span>
+                        <span class="todo-meta">08:06 ✓</span>
+                    </li>
+                    <li class="todo-item">
+                        <div class="todo-checkbox checked"></div>
+                        <span class="todo-text completed">通知各班组进入任务态</span>
+                        <span class="todo-meta">08:07 ✓</span>
+                    </li>
+                    <li class="todo-item">
+                        <div class="todo-checkbox"></div>
+                        <span class="todo-text"><b>Phase 1:</b> 接收 mi-zhi 选题情报</span>
+                        <span class="todo-meta">截止 08:30</span>
+                    </li>
+                    <li class="todo-item">
+                        <div class="todo-checkbox"></div>
+                        <span class="todo-text"><b>Phase 2:</b> 确认选题，启动创作</span>
+                        <span class="todo-meta">预计 09:00</span>
+                    </li>
+                    <li class="todo-item">
+                        <div class="todo-checkbox"></div>
+                        <span class="todo-text"><b>交付:</b> 公众号图文 (18:00) + 小红书 (20:00)</span>
+                        <span class="todo-meta">今日截止</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <span>🏢 幂家军作战中心 · 图文日更工作流 · Day 1</span>
+            <br>
+            <span>最后更新: 2026-03-02 08:07 CST | 指挥官: mi-ling (幂领)</span>
+        </div>
+    </div>
+</body>
+</html>
