@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  // Ensure trailing slashes for static export compatibility
+  trailingSlash: true,
 };
 
 export default nextConfig;
