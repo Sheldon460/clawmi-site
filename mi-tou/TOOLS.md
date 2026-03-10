@@ -1,12 +1,22 @@
 # 幂投 的武器库
 
+## 📊 投资技能配置
+
+**技能放置规范**: 投资分析技能归属于 **mi-ce-invest** (行情分析师) 专属目录，mi-tou 通过符号链接调用。
+
+```
+mi-tou/skills/
+├── stock-analysis      → ../../mi-ce-invest/skills/stock-analysis
+├── hk-ai-stock-expert  → ../../mi-ce-invest/skills/hk-ai-stock-expert
+├── a-stock-monitor     → ../../mi-ce-invest/skills/a-stock-monitor
+└── stock-monitor       → ../../mi-ce-invest/skills/stock-monitor
+```
+
+**详情**: 参见 `skills/README.md`
+
+---
+
 ## 核心专业工具 (Priority)
-- `sessions_send`
-- `self-improving-agent`
-- `a-stock-monitor`
-- `browser`
-- `xlsx`
-- `trello`
 
 ## 环境执行与通讯
 - `sessions_send`: 直接代号唤醒跨组专家。

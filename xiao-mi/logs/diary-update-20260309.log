@@ -1,0 +1,134 @@
+[2026-03-09 13:40:38] ==========================================
+[2026-03-09 13:40:38] 🚀 开始执行网站日记更新任务
+[2026-03-09 13:40:38] 执行时间: Mon Mar  9 13:40:38 CST 2026
+[2026-03-09 13:40:38] ==========================================
+[2026-03-09 13:40:38] 📔 Step 1: 生成今日日记...
+[2026-03-09 13:41:05] ✅ 日记已生成: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/diary/2026-03-09.md
+[2026-03-09 13:41:05] 📂 Step 2: 更新网站 diary.json...
+[2026-03-09 13:41:05] 更新 diary.json 数据文件...
+[eval]:16
+        const exists = diaries.some(d => d.date === today);
+                               ^
+
+TypeError: diaries.some is not a function
+    at [eval]:16:32
+    at runScriptInThisContext (node:internal/vm:219:10)
+    at node:internal/process/execution:451:12
+    at [eval]-wrapper:6:24
+    at runScriptInContext (node:internal/process/execution:449:60)
+    at evalFunction (node:internal/process/execution:283:30)
+    at evalTypeScript (node:internal/process/execution:295:3)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.10.0
+[2026-03-09 13:41:05] ✅ 日记数据已同步到网站
+[2026-03-09 13:41:05] 🔨 Step 3: 构建网站...
+[2026-03-09 13:41:05] 检测到 Node.js 项目，执行构建...
+
+> clawmi@1.0.0 build
+> next build
+
+   ▲ Next.js 15.5.12
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 1062ms
+   Linting and checking validity of types ...
+
+   We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+   The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+   	- target was set to ES2017 (For top-level `await`. Note: Next.js only polyfills for the esmodules target.)
+
+   Collecting page data ...
+   Generating static pages (0/4) ...
+   Generating static pages (1/4) 
+   Generating static pages (2/4) 
+   Generating static pages (3/4) 
+ ✓ Generating static pages (4/4)
+   Finalizing page optimization ...
+   Collecting build traces ...
+   Exporting (0/2) ...
+ ✓ Exporting (2/2)
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    46.4 kB         149 kB
+└ ○ /_not-found                            993 B         103 kB
++ First Load JS shared by all             102 kB
+  ├ chunks/255-54d3085ce94738a4.js       46.1 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  └ other shared chunks (total)           1.9 kB
+
+
+○  (Static)  prerendered as static content
+
+[2026-03-09 13:41:14] ✅ 网站构建完成
+[2026-03-09 13:41:14] 🚀 Step 4: 部署网站...
+[2026-03-09 13:41:14] 使用 npx vercel 部署...
+Retrieving project…
+Deploying chenyz912-9229s-projects/clawmi-site
+Uploading [--------------------] (0.0B/69.8KB)
+Uploading [=========-----------] (32.0KB/69.8KB)
+Uploading [=============-------] (48.0KB/69.8KB)
+Uploading [================----] (57.6KB/69.8KB)
+Uploading [====================] (69.8KB/69.8KB)
+Inspect: https://vercel.com/chenyz912-9229s-projects/clawmi-site/EF27h4GhFE8ykkjYThAwJLkSp64g [8s]
+Production: https://clawmi-site-putiigqav-chenyz912-9229s-projects.vercel.app [8s]
+https://clawmi-site-putiigqav-chenyz912-9229s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 63 deployment files...
+Building: Restored build cache from previous deployment (BFaZsBestZ47n1iTxgvTRwVankDB)
+Building: Running "vercel build"
+Building: Vercel CLI 50.28.0
+Building: Installing dependencies...
+Building: up to date in 968ms
+Building: 30 packages are looking for funding
+Building: run `npm fund` for details
+Building: Running "npm run build"
+Building: > clawmi@1.0.0 build
+Building: > next build
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 15.5.12
+Building: Creating an optimized production build ...
+Building: ✓ Compiled successfully in 10.2s
+Building: Linting and checking validity of types ...
+Building: Collecting page data ...
+Building: Generating static pages (0/4) ...
+Building: Generating static pages (1/4)
+Building: Generating static pages (2/4)
+Building: Generating static pages (3/4)
+Building: ✓ Generating static pages (4/4)
+Building: Finalizing page optimization ...
+Building: Collecting build traces ...
+Building: Exporting (0/2) ...
+Building: ✓ Exporting (2/2)
+Building: Route (app)                                 Size  First Load JS
+Building: ┌ ○ /                                    46.4 kB         149 kB
+Building: └ ○ /_not-found                            994 B         103 kB
+Building: + First Load JS shared by all             102 kB
+Building: ├ chunks/255-54d3085ce94738a4.js       46.1 kB
+Building: ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+Building: └ other shared chunks (total)           1.9 kB
+Building: ○  (Static)  prerendered as static content
+Building: Build Completed in /vercel/output [27s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://clawmi-site-putiigqav-chenyz912-9229s-projects.vercel.app [46s]
+Completing...
+Aliased: https://clawmi-site-chenyz912-9229s-projects.vercel.app [46s]
+
+Common next commands:
+- `vercel inspect clawmi-site-putiigqav-chenyz912-9229s-projects.vercel.app --logs`
+- `vercel redeploy clawmi-site-putiigqav-chenyz912-9229s-projects.vercel.app`
+[2026-03-09 13:42:14] ✅ Vercel 部署完成
+[2026-03-09 13:42:14] 📢 Step 5: 发送完成通知...
+[2026-03-09 13:42:14] ==========================================
+[2026-03-09 13:42:14] ✅ 网站日记更新任务完成
+[2026-03-09 13:42:14] 日志文件: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/logs/diary-update-20260309.log
+[2026-03-09 13:42:14] ==========================================

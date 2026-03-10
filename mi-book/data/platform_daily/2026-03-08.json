@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-08",
+  "platform": "xiaohongshu",
+  "account": "mi-book",
+  "posts": [
+    {
+      "id": "post_001",
+      "title": "Notion+Python效率神器，2小时变2分钟",
+      "type": "viral_copy",
+      "source": "原创",
+      "publish_time": "18:08",
+      "images_count": 4,
+      "metrics": {
+        "likes": 0,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0,
+        "new_followers": 0
+      },
+      "status": "published",
+      "notes": "首次完整实战，使用 xiaohongshu-ops skill"
+    },
+    {
+      "id": "post_002",
+      "title": "小红书运营工具包上线",
+      "type": "viral_copy",
+      "source": "复刻-飞书技能包",
+      "publish_time": "20:41",
+      "images_count": 4,
+      "metrics": {
+        "likes": 0,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0,
+        "new_followers": 0
+      },
+      "status": "published",
+      "notes": "Viral Copy 复刻实战，验证爆款结构复刻方法论"
+    }
+  ],
+  "daily_summary": {
+    "total_posts": 2,
+    "total_likes": 0,
+    "total_collects": 0,
+    "total_comments": 0,
+    "key_learnings": [
+      "Viral Copy 方法论验证有效：保留结构，替换主题",
+      "标题长度需严格控制，预留缓冲空间",
+      "Imagen 生图稳定，3:4比例适合小红书",
+      "视觉设计耗时占比38%，可优化"
+    ],
+    "next_actions": [
+      "建立爆款标题模板库（10个）",
+      "建立封面设计风格库（5种）",
+      "优化视觉生成流程（并行化）"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "feed_id": "6997ddaa000000000a03e274",
+      "xsec_token": "AB09ez87lcq6Ps5KT8b53gnRX9A-7USKB0zVdscp3ewcA=",
+      "title": "🔥 2026 职场人必看｜5 个免费 AI 神器",
+      "publish_time": "2026-03-10T00:27:00+08:00",
+      "checkpoints": {
+        "24h": null,
+        "72h": null,
+        "7d": null
+      },
+      "history": []
+    },
+    {
+      "feed_id": "post_002",
+      "xsec_token": "pending",
+      "title": "OpenClaw 效率工具包上线🚀",
+      "publish_time": "2026-03-10T01:30:00+08:00",
+      "checkpoints": {
+        "24h": null,
+        "72h": null,
+        "7d": null
+      },
+      "history": []
+    }
+  ],
+  "config": {
+    "check_interval_hours": 1,
+    "alert_threshold": {
+      "likes_drop_percent": 50,
+      "comments_spike_percent": 200
+    },
+    "notify_channels": ["feishu"]
+  },
+  "last_updated": "2026-03-10T01:35:00+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "smart-collect",
+  "version": "1.0.0",
+  "description": "智能收藏回顾系统 - 艾宾浩斯记忆曲线驱动的知识管理工具",
+  "main": "smart-collect.js",
+  "scripts": {
+    "add": "node shoucang-add.js",
+    "review": "node shoucang-review.js",
+    "cli": "node smart-collect.js"
+  },
+  "keywords": ["knowledge-management", "spaced-repetition", "bookmark"],
+  "author": "幂档 (mi-dang)",
+  "license": "MIT"
+}

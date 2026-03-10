@@ -1,0 +1,61 @@
+{
+  "positive_global_styles": [
+    "electronic",
+    "upbeat",
+    "energetic",
+    "modern synth",
+    "driving rhythm"
+  ],
+  "negative_global_styles": [
+    "acoustic",
+    "slow",
+    "ambient",
+    "lo-fi",
+    "melancholic"
+  ],
+  "sections": [
+    {
+      "section_name": "Intro",
+      "positive_local_styles": [
+        "rising synth arpeggio",
+        "building energy",
+        "layered textures"
+      ],
+      "negative_local_styles": [
+        "heavy drums",
+        "distorted bass"
+      ],
+      "duration_ms": 4000,
+      "lines": []
+    },
+    {
+      "section_name": "Main Theme",
+      "positive_local_styles": [
+        "full drums",
+        "punchy bass",
+        "bright synth leads",
+        "catchy melody"
+      ],
+      "negative_local_styles": [
+        "minimal percussion",
+        "muddy mix"
+      ],
+      "duration_ms": 8000,
+      "lines": []
+    },
+    {
+      "section_name": "Outro",
+      "positive_local_styles": [
+        "gradual fade",
+        "clean ending",
+        "satisfying resolution"
+      ],
+      "negative_local_styles": [
+        "abrupt cut",
+        "unresolved tension"
+      ],
+      "duration_ms": 3000,
+      "lines": []
+    }
+  ]
+}

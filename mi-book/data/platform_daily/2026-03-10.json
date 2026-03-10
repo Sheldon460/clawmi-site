@@ -1,0 +1,68 @@
+{
+  "date": "2026-03-10",
+  "platform": "xiaohongshu",
+  "account": "ai-report",
+  "posts": [
+    {
+      "id": "post_001",
+      "title": "🔥 2026 职场人必看｜5 个免费 AI 神器",
+      "type": "original",
+      "source": "原创测试",
+      "publish_time": "00:27",
+      "images_count": 1,
+      "metrics": {
+        "likes": 0,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0,
+        "new_followers": 0
+      },
+      "status": "published",
+      "notes": "首次技能恢复测试，验证发布 API"
+    },
+    {
+      "id": "post_002",
+      "title": "OpenClaw 效率工具包上线🚀",
+      "type": "viral_copy",
+      "source": "复刻 - 飞书技能包上线",
+      "publish_time": "01:30",
+      "images_count": 1,
+      "metrics": {
+        "likes": 0,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0,
+        "new_followers": 0
+      },
+      "status": "published",
+      "notes": "完整六步闭环 SOP 验证，Viral Copy 复刻测试"
+    }
+  ],
+  "daily_summary": {
+    "total_posts": 2,
+    "total_likes": 0,
+    "total_collects": 0,
+    "total_comments": 0,
+    "key_learnings": [
+      "完整六步闭环 SOP 可行，13 分钟完成",
+      "Viral Copy 复刻方法有效，结构清晰",
+      "xiaohongshu-mcp API 稳定可靠",
+      "视觉设计需集成 AI 工具（当前用 PIL 简陋）",
+      "数据追踪需自动化（当前手动记录）"
+    ],
+    "next_actions": [
+      "安装 canghe-xhs-images 技能",
+      "建立封面模板库（3 种风格）",
+      "创建数据追踪自动化",
+      "监控发布后数据（24 小时/72 小时/7 天）",
+      "建立选题库（储备 20 个选题）"
+    ],
+    "sop_test": {
+      "version": "V2.1",
+      "status": "passed",
+      "total_time_minutes": 13,
+      "issues_found": 5,
+      "improvements_suggested": 4
+    }
+  }
+}

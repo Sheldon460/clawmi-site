@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "chirp3-hd": {
+      "command": "mcp-chirp3-go"
+    },
+    "lyria": {
+      "command": "mcp-lyria-go"
+    }
+  },
+  "imports": []
+}
