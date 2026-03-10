@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "xiaohongshu-mcp": {
+      "command": "./xiaohongshu-mcp-server",
+      "cwd": "/Volumes/My house/Users/Sheldon/.openclaw/extensions/feishu-openclaw-plugin/skills/xiaohongshu-mcp/"
+    }
+  },
+  "imports": []
+}

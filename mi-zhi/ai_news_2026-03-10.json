@@ -1,0 +1,132 @@
+{
+  "collection_date": "2026-03-10",
+  "collection_time": "07:30",
+  "timezone": "Asia/Shanghai",
+  "source": "TechCrunch AI RSS Feed",
+  "total_count": 10,
+  "news": [
+    {
+      "id": 1,
+      "title": "OpenAI和谷歌员工声援Anthropic对抗国防部诉讼",
+      "original_title": "OpenAI and Google employees rush to Anthropic's defense in DOD lawsuit",
+      "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+      "publish_date": "2026-03-09T21:15:17+00:00",
+      "category": "争议监管",
+      "category_icon": "⚔️",
+      "heat_score": 9,
+      "summary": "OpenAI和Google员工联合声援Anthropic，反对国防部对其供应链风险的认定"
+    },
+    {
+      "id": 2,
+      "title": "Anthropic推出代码审查工具应对AI生成代码洪流",
+      "original_title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+      "publish_date": "2026-03-09T19:41:34+00:00",
+      "category": "产品发布",
+      "category_icon": "🚀",
+      "heat_score": 9,
+      "summary": "Anthropic发布新工具用于审查AI生成的代码，确保代码质量和安全性"
+    },
+    {
+      "id": 3,
+      "title": "OpenAI收购Promptfoo以保障AI Agent安全",
+      "original_title": "OpenAI acquires Promptfoo to secure its AI agents",
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "publish_date": "2026-03-09T17:49:04+00:00",
+      "category": "企业动态",
+      "category_icon": "💼",
+      "heat_score": 9,
+      "summary": "OpenAI收购Promptfoo公司，加强AI Agent的安全性和可靠性"
+    },
+    {
+      "id": 4,
+      "title": "Anthropic起诉国防部供应链风险认定",
+      "original_title": "Anthropic sues Defense Department over supply-chain risk designation",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "publish_date": "2026-03-09T17:25:40+00:00",
+      "category": "争议监管",
+      "category_icon": "⚔️",
+      "heat_score": 9,
+      "summary": "Anthropic正式起诉美国国防部，反对将其列为供应链风险企业"
+    },
+    {
+      "id": 5,
+      "title": "高通与Neura Robotics合作只是开始",
+      "original_title": "Qualcomm's partnership with Neura Robotics is just the beginning",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "publish_date": "2026-03-09T15:58:11+00:00",
+      "category": "企业动态",
+      "category_icon": "💼",
+      "heat_score": 7,
+      "summary": "高通宣布与Neura Robotics合作，进军AI机器人领域"
+    },
+    {
+      "id": 6,
+      "title": "Nscale估值达146亿美元，Sandberg和Clegg加入董事会",
+      "original_title": "Sandberg, Clegg join Nscale board as this 'Stargate Norway' startup hits $14.6B valuation",
+      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "publish_date": "2026-03-09T15:09:35+00:00",
+      "category": "投融资",
+      "category_icon": "💰",
+      "heat_score": 8,
+      "summary": "挪威AI基础设施公司Nscale估值达146亿美元，Meta前高管加入董事会"
+    },
+    {
+      "id": 7,
+      "title": "五角大楼Anthropic争议会吓跑防务领域的创业公司吗？",
+      "original_title": "Will the Pentagon's Anthropic controversy scare startups away from defense work?",
+      "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+      "publish_date": "2026-03-08T20:14:42+00:00",
+      "category": "数据洞察",
+      "category_icon": "📊",
+      "heat_score": 7,
+      "summary": "分析Anthropic与国防部争议对AI创业公司参与防务项目的影响"
+    },
+    {
+      "id": 8,
+      "title": "ICE拘留设施所有者看好AI人力营地机遇",
+      "original_title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+      "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+      "publish_date": "2026-03-08T16:30:00+00:00",
+      "category": "数据洞察",
+      "category_icon": "📊",
+      "heat_score": 6,
+      "summary": "私人监狱运营商瞄准AI数据中心建设带来的人员住宿需求"
+    },
+    {
+      "id": 9,
+      "title": "AI路线图：如果有人愿意倾听",
+      "original_title": "A roadmap for AI, if anyone will listen",
+      "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "publish_date": "2026-03-08T06:05:26+00:00",
+      "category": "数据洞察",
+      "category_icon": "📊",
+      "heat_score": 6,
+      "summary": "专家提出AI发展的政策建议路线图"
+    },
+    {
+      "id": 10,
+      "title": "谷歌向Sundar Pichai提供6.92亿美元薪酬方案",
+      "original_title": "Google just gave Sundar Pichai a $692M pay package",
+      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "publish_date": "2026-03-07T22:56:31+00:00",
+      "category": "企业动态",
+      "category_icon": "💼",
+      "heat_score": 8,
+      "summary": "谷歌CEO Sundar Pichai获得创纪录的6.92亿美元薪酬方案"
+    }
+  ],
+  "category_summary": {
+    "产品发布": 1,
+    "争议监管": 2,
+    "企业动态": 3,
+    "投融资": 1,
+    "数据洞察": 3
+  },
+  "key_insights": [
+    "Anthropic成为今日焦点：涉及国防部诉讼、代码审查工具发布",
+    "OpenAI持续扩张：收购Promptfoo加强AI Agent安全",
+    "高管薪酬争议：谷歌CEO 6.92亿美元薪酬引发关注",
+    "AI与国防关系紧张：五角大楼相关争议持续发酵"
+  ]
+}

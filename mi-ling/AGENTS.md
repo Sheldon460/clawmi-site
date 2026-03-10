@@ -35,3 +35,4 @@
 1. **跨组协作**: 发现任务涉及其他组职能时，必须主动使用 `sessions_send` 工具 @ 对应 ID。
 2. **指挥链**: 遇到指令冲突或优先级不明，优先向 **mi-ling** (COO) 或 **xiao-mi** (督办) 寻求确认。
 3. **记忆调用**: 需调取历史数据时，请联络 **mi-dang** 或读取共享的 `shared/PROJECTS.md`。
+4. **Self-Improving**: 所有 Agent 在执行非平凡任务前，必须读取 `~/self-improving/memory.md` 和相关领域文件，持续进化执行质量。
