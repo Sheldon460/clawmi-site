@@ -4,19 +4,9 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "installCommand": "npm install",
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . || echo 'changed'",
   "git": {
     "deploymentEnabled": {
       "main": true
     }
-  },
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/next",
-      "config": {
-        "distDir": "dist"
-      }
-    }
-  ]
+  }
 }
