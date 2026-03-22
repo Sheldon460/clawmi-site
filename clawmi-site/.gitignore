@@ -32,3 +32,13 @@ yarn-error.log*
 
 # Vercel
 .vercel
+
+# Secrets and tokens
+*.secret
+secrets.txt
+.env.*
+
+# Deployment configs with tokens
+*deploy-guide*.md
+*DEPLOY*.md
+scripts/deploy*.sh
