@@ -13,18 +13,8 @@ const nextConfig: NextConfig = {
     ignoreBuildErrors: true,
   },
 
-  // 忽略 ESLint 错误
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-
-  // 排除子项目目录
-  webpack: (config, { isServer }) => {
-    config.watchOptions = {
-      ignored: ['**/shared/projects/**'],
-    };
-    return config;
-  },
+  // Turbopack 配置（Next.js 16 默认启用）
+  turbopack: {},
 };
 
 export default nextConfig;
