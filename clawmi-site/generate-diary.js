@@ -1,7 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
-const diaryEntries = [
+// 读取日记目录
+const diaryDir = path.join(__dirname, '..', 'xiao-mi', 'diary');
+const outputPath = path.join(__dirname, 'data', 'diary.json');
+
+// 历史日记数据（硬编码的部分，保留已有内容）
+const historicalEntries = [
   {
     date: "2026-03-04",
     tag: "📓 日记",
@@ -104,16 +109,115 @@ const diaryEntries = [
   }
 ];
 
-// Write the properly formatted JSON file
-const outputPath = path.join(__dirname, 'data', 'diary.json');
+// 读取日记文件并解析
+function parseDiaryFile(filePath) {
+  try {
+    const content = fs.readFileSync(filePath, 'utf8');
+    const fileName = path.basename(filePath, '.md');
+    
+    // 从文件名提取日期
+    const dateMatch = fileName.match(/(\d{4}-\d{2}-\d{2})/);
+    if (!dateMatch) return null;
+    
+    const date = dateMatch[1];
+    
+    // 提取标题（第一个 # 后面的内容）
+    const titleMatch = content.match(/^#\s+(.+)$/m);
+    const title = titleMatch ? titleMatch[1].trim() : `小幂日记 - ${date}`;
+    
+    // 提取正文内容（去除 frontmatter 和标题）
+    let bodyContent = content;
+    
+    // 移除 frontmatter
+    bodyContent = bodyContent.replace(/^---[\s\S]*?---\s*/m, '');
+    
+    // 移除标题行
+    bodyContent = bodyContent.replace(/^#\s+.+$/m, '');
+    
+    // 移除任务列表和标记
+    bodyContent = bodyContent.replace(/^[-*]\s*\[.*?\]\s*/gm, '');
+    bodyContent = bodyContent.replace(/^###\s+.*$/gm, '');
+    bodyContent = bodyContent.replace(/^##\s+.*$/gm, '');
+    
+    // 移除分隔线
+    bodyContent = bodyContent.replace(/^---$/gm, '');
+    
+    // 移除底部签名
+    bodyContent = bodyContent.replace(/\*本日记由小幂自动更新系统生成\*[\s\S]*$/, '');
+    
+    // 清理空白行
+    bodyContent = bodyContent.replace(/\n{3,}/g, '\n\n').trim();
+    
+    // 如果内容为空或太短，使用默认内容
+    if (!bodyContent || bodyContent.length < 50) {
+      bodyContent = `今天是${date}，定时任务准时触发，网站日记已自动更新。`;
+    }
+    
+    return {
+      date: date,
+      tag: "📓 日记",
+      title: title,
+      content: bodyContent
+    };
+  } catch (error) {
+    console.error(`❌ Error parsing ${filePath}:`, error.message);
+    return null;
+  }
+}
+
+// 读取所有日记文件并按日期分组
+let diaryEntriesMap = new Map(); // 用 Map 按日期分组存储
 
 try {
-  fs.writeFileSync(outputPath, JSON.stringify(diaryEntries, null, 2), 'utf8');
+  if (fs.existsSync(diaryDir)) {
+    const files = fs.readdirSync(diaryDir)
+      .filter(f => f.endsWith('.md'))
+      .sort(); // 正序排列，确保中午版在前，晚上版在后
+    
+    for (const file of files) {
+      const filePath = path.join(diaryDir, file);
+      const entry = parseDiaryFile(filePath);
+      if (entry) {
+        // 检查是否已在历史记录中
+        const exists = historicalEntries.some(e => e.date === entry.date);
+        if (!exists) {
+          // 按日期分组，同一天的多篇日记合并
+          if (diaryEntriesMap.has(entry.date)) {
+            // 已存在该日期的日记，追加内容
+            const existing = diaryEntriesMap.get(entry.date);
+            existing.content += '\n\n---\n\n' + entry.content;
+            // 更新标题为"中午+晚上"或保留更详细的那个
+            if (entry.title.includes('晚上') || entry.title.includes('傍晚')) {
+              existing.title = existing.title.replace(/中午.*$/, '全天记录');
+            }
+          } else {
+            diaryEntriesMap.set(entry.date, entry);
+          }
+        }
+      }
+    }
+  }
+} catch (error) {
+  console.error('❌ Error reading diary directory:', error.message);
+}
+
+// 将 Map 转换为数组
+let diaryEntries = Array.from(diaryEntriesMap.values());
+
+// 合并历史记录和新日记（历史记录在前，保持时间顺序）
+const allEntries = [...historicalEntries, ...diaryEntries];
+
+// 按日期排序（最新的在前）
+allEntries.sort((a, b) => b.date.localeCompare(a.date));
+
+// 写入 JSON 文件
+try {
+  fs.writeFileSync(outputPath, JSON.stringify(allEntries, null, 2), 'utf8');
   console.log('✅ Successfully generated diary.json');
-  console.log(`   Created ${diaryEntries.length} diary entries`);
+  console.log(`   Created ${allEntries.length} diary entries`);
   console.log(`   Output: ${outputPath}`);
   
-  // Verify the JSON is valid
+  // 验证
   const verify = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
   console.log(`   Verification: ${verify.length} entries validated`);
 } catch (error) {
