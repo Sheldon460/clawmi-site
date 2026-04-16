@@ -145,6 +145,10 @@ function parseDiaryFile(filePath) {
     // 移除底部签名
     bodyContent = bodyContent.replace(/\*本日记由小幂自动更新系统生成\*[\s\S]*$/, '');
     
+    // 移除系统内部标签（跨行匹配）
+    bodyContent = bodyContent.replace(/<!-- openclaw:dreaming:light:start -->[\s\S]*?<!-- openclaw:dreaming:light:end -->/gs, '');
+    bodyContent = bodyContent.replace(/<!-- openclaw:dreaming:rem:start -->[\s\S]*?<!-- openclaw:dreaming:rem:end -->/gs, '');
+    
     // 清理空白行
     bodyContent = bodyContent.replace(/\n{3,}/g, '\n\n').trim();
     
