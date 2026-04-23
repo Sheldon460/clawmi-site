@@ -145,9 +145,20 @@ function parseDiaryFile(filePath) {
     // 移除底部签名
     bodyContent = bodyContent.replace(/\*本日记由小幂自动更新系统生成\*[\s\S]*$/, '');
     
-    // 移除系统内部标签（跨行匹配）
+    // 移除所有系统内部标签（必须最先处理！）
+    
+    // 1. 移除跨行的 dreaming 标签
     bodyContent = bodyContent.replace(/<!-- openclaw:dreaming:light:start -->[\s\S]*?<!-- openclaw:dreaming:light:end -->/gs, '');
     bodyContent = bodyContent.replace(/<!-- openclaw:dreaming:rem:start -->[\s\S]*?<!-- openclaw:dreaming:rem:end -->/gs, '');
+    
+    // 2. 移除所有包含 openclaw 的单行标签
+    bodyContent = bodyContent.replace(/<!--[\s\S]*?openclaw[\s\S]*?-->/g, '');
+    
+    // 3. 移除所有 Candidate: 相关的行（这些是记忆系统的内部数据）
+    bodyContent = bodyContent.replace(/^- Candidate:.*$/gm, '');
+    
+    // 4. 移除所有包含 confidence/evidence/recalls/status 的行（这些是记忆系统的内部数据）
+    bodyContent = bodyContent.replace(/^\s*-\s*(confidence|evidence|recalls|status):.*$/gm, '');
     
     // 清理空白行
     bodyContent = bodyContent.replace(/\n{3,}/g, '\n\n').trim();
