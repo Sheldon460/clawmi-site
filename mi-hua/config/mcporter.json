@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "imagen": {
+      "command": "mcp-imagen-go",
+      "env": {
+        "PROJECT_ID": "fluted-protocol-480308-p8",
+        "GENMEDIA_BUCKET": "bucket-0713"
+      }
+    }
+  },
+  "imports": []
+}

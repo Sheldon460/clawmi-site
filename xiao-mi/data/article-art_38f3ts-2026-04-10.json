@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_38f3ts",
+    "title": "SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships",
+    "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships",
+    "pub_date": "2026-04-09T23:02:34+08:00",
+    "content": "<p>This is the fourth chapter of my <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">SQLAlchemy 2 in Practice</a> book. If you'd like to support my work, I encourage you to buy this book, either directly from <a href=\"https://learn.miguelgrinberg.com/product/sqlalchemy2\">my store</a> or on <a href=\"https://amzn.to/3S0diwc\">Amazon</a>. Thank you!</p>\n<p>Continuing with the topic of relationships, this chapter is dedicated to the <em>many-to-many</em> type, which as its name implies, is used when it is not possible to identify any of the sides as a \"one\" side.</p>",
+    "content_snippet": "This is the fourth chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my work, I encourage you to buy this book, either directly from my store or on Amazon . Thank you! Continuing with the topic of relationships, this chapter is dedicated to the many-to-many type, which as its...",
+    "source": "miguelgrinberg.com",
+    "source_url": "https://miguelgrinberg.com",
+    "category": "Programming",
+    "author": "Miguel Grinberg",
+    "likes": 1,
+    "bookmark_count": 0,
+    "url": "/article/art_38f3ts",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_38f3ts/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_38f3ts\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

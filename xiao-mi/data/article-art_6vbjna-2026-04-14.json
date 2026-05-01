@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_6vbjna",
+    "title": "Mathematical minimalism",
+    "link": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
+    "pub_date": "2026-04-13T22:33:16+08:00",
+    "content": "<p>Andrzej Odrzywolek recently posted an article on <a href=\"https://arxiv.org/abs/2603.21852v2\">arXiv</a> showing that you can obtain all the elementary functions from just the function</p>\n<p><img decoding=\"async\" class=\"aligncenter\" style=\"background-color: white;\" src=\"https://www.johndcook.com/elm0.svg\" alt=\"\\operatorname{elm}(x,y) = \\exp(x) - \\log(y)\" width=\"224\" height=\"18\" /></p>\n<p>and the constant 1. The following equations, taken from the paper&#8217;s <a href=\"https://arxiv.org/src/2603.21852v2/anc/SupplementaryInformation.pdf\">supplement</a>, show how to bootstrap addition, subtraction, multiplication, and division from the elm function.</p>\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter\" style=\"background-color: white;\" src=\"https://www.johndcook.com/elm.svg\" alt=\"\\begin{align*} \\exp(z) &amp;\\mapsto \\operatorname{eml}(z,1) \\\\ \\log(z) &amp;\\mapsto \\operatorname{eml}(1,\\exp(\\operatorname{eml}(1,z))) \\\\ x - y &amp;\\mapsto \\operatorname{eml}(\\log(x),\\exp(y)) \\\\ -z &amp;\\mapsto (\\log 1) - z \\\\ x + y &amp;\\mapsto x - (-y) \\\\ 1/z &amp;\\mapsto \\exp(-\\log z) \\\\ x \\cdot y &amp;\\mapsto \\exp(\\log x + \\log y) \\end{align*}\" width=\"264\" height=\"193\" /></p>\n<p>See the paper and supplement for how to obtain constants like π and functions like square and square root, as well as the standard circular and hyperbolic functions.</p>\n<h2>Related posts</h2>\n<ul>\n<li class=\"link\"><a href=\"https://www.johndcook.com/blog/2021/01/05/bootstrapping-math-library/\">Bootstrapping a small math library</a></li>\n<li class=\"link\"><a href=\"https://www.johndcook.com/blog/2026/04/06/tofolli-gates/\">Toffoli gates are all you need</a></li>\n</ul>The post <a href=\"https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/\">Mathematical minimalism</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>.",
+    "content_snippet": "Andrzej Odrzywolek recently posted an article on arXiv showing that you can obtain all the elementary functions from just the function and the constant 1. The following equations, taken from the paper&#8217;s supplement , show how to bootstrap addition, subtraction, multiplication, and division...",
+    "source": "johndcook.com",
+    "source_url": "https://johndcook.com",
+    "category": "Essays",
+    "author": "John",
+    "likes": 6,
+    "bookmark_count": 0,
+    "url": "/article/art_6vbjna",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_6vbjna/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_6vbjna\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

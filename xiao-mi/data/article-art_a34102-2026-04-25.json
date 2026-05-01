@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_a34102",
+    "title": "Does Mythos mean you need to shut down your Open Source repositories?",
+    "link": "https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/",
+    "pub_date": "2026-04-24T19:34:30+08:00",
+    "content": "<p>Much <i lang=\"de\">Sturm und Drang</i> in the world of Open Source with the announcement that <a href=\"https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/\">the \"Mythos\" AI is now the ultimate hacker</a> and is poised to unleash havoc on every code base.</p>\n\n<p>So should you close all your Open Source projects to make them safe?</p>\n\n<p>No.</p>\n\n<p>Firstly, all your Open Source code has <em>already</em> been slurped up.</p>\n\n<p>It was all ingested for \"training purposes\" years ago. If it was moderately interesting then it was backed-up by a digital hoarder. It has been archived by various digital libraries. Anyone who wants to do research on your code base can.</p>\n\n<p>Closing now doesn't meaningfully protect you.</p>\n\n<p>Secondly, most of the security holes in your systems are <em>probably</em> not in your code. Vulnerabilities exist throughout your supply chain. All the dependencies - your OS, libraries, and even hardware - are all richer targets for hackers. Finding a CVE in a popular library is almost certainly more worthwhile than investigating <em>your</em> Open Source code.</p>\n\n<p>The bigger risk comes not from subtle logic bugs but from phishers, poor password hygiene, and insider threats. Securing your existing systems provides more protection than rushing to close-source your code.</p>\n\n<p>Finally, closing the source of something doesn't protect you. These new AI models can easily investigate and your closed source systems and potentially penetrate them. It has always been possible to analyse websites and binaries. AI doesn't change that - although it might accelerate it.</p>\n\n<p>Open Source does have risks but AI doesn't upend decades of evidence that closed-source is just as vulnerable to attackers.</p>\n\n<p>In cases where the state creates code using public money, <a href=\"https://publiccode.eu/en/\">it has a responsibly to share that code</a>. Automated threat analysis - even by hypercapabe AI - doesn't change that.</p>\n\n<p>I would strongly recommend reading the UK's AI Safety Institute's <a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\">evaluation of Claude Mythos Preview’s cyber capabilities</a> and the <a href=\"https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai\">NCSC's advice</a>. Neither of them recommend closing down Open Source code.</p>\n<img src=\"https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=70599&HTTP_REFERER=RSS\" alt=\"\" width=\"1\" height=\"1\" loading=\"eager\">",
+    "content_snippet": "Much Sturm und Drang in the world of Open Source with the announcement that the \"Mythos\" AI is now the ultimate hacker and is poised to unleash havoc on every code base. So should you close all your Open Source projects to make them safe? No. Firstly, all your Open Source code has already been...",
+    "source": "shkspr.mobi",
+    "source_url": "https://shkspr.mobi",
+    "category": "Tech Culture",
+    "author": "@edent",
+    "likes": 30,
+    "bookmark_count": 0,
+    "url": "/article/art_a34102",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_a34102/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_a34102\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

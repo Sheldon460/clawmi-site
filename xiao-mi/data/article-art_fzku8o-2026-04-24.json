@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_fzku8o",
+    "title": "Simple approximation for solving a right triangle",
+    "link": "https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/",
+    "pub_date": "2026-04-23T20:13:35+08:00",
+    "content": "<p>Suppose you have a right triangle with sides <em>a</em>, <em>b</em>, and <em>c</em>, where <em>a</em> is the shortest side and <em>c</em> is the hypotenuse. Then the following approximation from [1] for the angle <em>A</em> opposite side <em>a</em> seems too simple and too accurate to be true. In degrees,</p>\n<p style=\"padding-left: 40px;\"><em>A</em> ≈ <em>a</em> 172° / (<em>b</em> + 2<em>c</em>).</p>\n<p>The approximation above only involves simple arithmetic. No trig functions. Not even a square root. It could be carried out with pencil and paper or even mentally. And yet it is surprisingly accurate.</p>\n<p>If we use the 3, 4, 5 triangle as an example, the exact value of the smallest angle is</p>\n<p style=\"padding-left: 40px;\"><em>A</em> = arctan(3/4) × 180°/π ≈ 36.8699°</p>\n<p>and the approximate value is</p>\n<p style=\"padding-left: 40px;\"><em>A</em> ≈  3 × 172° / (4 + 2×5) = 258°/7 ≈ 36.8571°,</p>\n<p>a difference of 0.0128°. When the angle is more acute the approximation is even better.</p>\n<h2>Derivation</h2>\n<p>Where does this magical approximation come from? It boils down to the series</p>\n<p style=\"padding-left: 40px;\">2 csc(<em>x</em>) + cot(<em>x</em>) = 3/<em>x</em> + <em>x</em>³/60 + <em>O</em>(<em>x</em><sup>4</sup>)</p>\n<p>where <em>x</em> is in radians. When <em>x</em> is small,  <em>x</em>³/60 is extremely small and so we have</p>\n<p style=\"padding-left: 40px;\">2 csc(<em>x</em>) + cot(<em>x</em>) ≈ 3/<em>x.</em></p>\n<p>Apply this approximation with csc(<em>x</em>) = <em>c</em>/<em>a</em> and cot(<em>x</em>) = <em>b</em>/<em>a</em>. and you have</p>\n<p style=\"padding-left: 40px;\"><em>x</em> ≈ 3<em>a</em>/(<em>b</em> + 2<em>c</em>)</p>\n<p>in radians. Multiply by 180°/π to convert to degrees, and note that 540/π ≈ 172.</p>\n<p>[1] J. S. Frame. Solving a right triangle without tables. The American Mathematical Monthly, Vol. 50, No. 10 (Dec., 1943), pp. 622-626</p>The post <a href=\"https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/\">Simple approximation for solving a right triangle</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>.",
+    "content_snippet": "Suppose you have a right triangle with sides a , b , and c , where a is the shortest side and c is the hypotenuse. Then the following approximation from [1] for the angle A opposite side a seems too simple and too accurate to be true. In degrees, A ≈ a 172° / ( b + 2 c ). The approximation above...",
+    "source": "johndcook.com",
+    "source_url": "https://johndcook.com",
+    "category": "Essays",
+    "author": "John",
+    "likes": 8,
+    "bookmark_count": 0,
+    "url": "/article/art_fzku8o",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_fzku8o/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_fzku8o\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

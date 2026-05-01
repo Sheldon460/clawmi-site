@@ -50,6 +50,8 @@ openclaw status | grep -i skill
 
 **记录位置**: `main/docs/quarterly-skill-review-YYYY-Qn.md`
 
+**下次检查**: 2026-07-05
+
 ---
 
 ## 🎯 年度技能盘点 (每年 12 月执行)
@@ -117,6 +119,6 @@ openclaw status | grep -i skill
 
 ---
 
-*最后更新：2026-03-10*  
-*版本：V1.0*  
-*下次检查：2026-04-01*
+*最后更新：2026-05-01*  
+*版本：V1.2*  
+*下次检查：2026-06-01*

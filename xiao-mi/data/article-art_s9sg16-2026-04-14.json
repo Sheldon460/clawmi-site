@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_s9sg16",
+    "title": "Squash and Stretch",
+    "link": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+    "pub_date": "2026-04-13T20:00:00+08:00",
+    "content": "\n<p>Have you ever heard of Disney’s 12 Basic Principles of Animation? In this tutorial, we’ll explore how we can use the very first principle to create SVG micro-interactions that feel way more natural and believable. It’s one of those small things that has a big impact.</p>\n<div style=\"margin-top: 50px; font-style: italic;\">\n  <strong><a href=\"https://www.joshwcomeau.com/animation/squash-and-stretch/\">Keep reading</a>.</strong>\n</div>\n<br />\n<br />",
+    "content_snippet": "Have you ever heard of Disney’s 12 Basic Principles of Animation? In this tutorial, we’ll explore how we can use the very first principle to create SVG micro-interactions that feel way more natural and believable. It’s one of those small things that has a big impact. Keep reading .",
+    "source": "Josh Comeau",
+    "source_url": "https://www.joshwcomeau.com/rss.xml",
+    "category": "Web & Design",
+    "author": "Josh W. Comeau",
+    "likes": 1,
+    "bookmark_count": 0,
+    "url": "/article/art_s9sg16",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_s9sg16/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_s9sg16\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

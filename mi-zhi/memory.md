@@ -96,6 +96,8 @@
 2. 不要优先依赖外部 API（如 Perplexity）
 3. 不要在路径有空格的地方配置 launchd
 4. 不要忘记读取记忆文件就执行任务
+5. 注意飞书权限问题：`application:application:self_manage` 权限缺失会影响表格写入和文档创建
+6. 飞书链接字段不能直接用字符串，需要在 UI 手动填写或创建后更新
 
 ---
 
@@ -122,6 +124,7 @@ Agent: mi-zhi
 App Token: EVxlb7yTHaw9GjsyPgncypMTnec
 Table ID: tbl6yIyjpyZfTHzK
 字段数：11 个
+权限要求：application:application:self_manage（必须开通）
 ```
 
 ---
@@ -178,6 +181,27 @@ Table ID: tbl6yIyjpyZfTHzK
 - 将"读取记忆"写入 SOP 第一步
 - 形成"执行 - 复盘 - 进化"闭环
 
+### 成功经验 5：飞书链接字段处理 (2026-04-28)
+**发现**：飞书 URL 字段 (type=15) 必须使用对象格式，不能直接用字符串
+**正确格式**：`{"link": "url", "text": "查看详情", "type": "url"}`
+**解决方案**：
+- 批量创建时可以直接使用此格式（无需省略）
+- 单条更新时也必须使用对象格式
+**验证结果**：
+- ✅ 批量创建 10 条记录成功
+- ✅ 逐条更新 10 条链接字段成功
+
+### 成功经验 6：权限检查前置 (2026-04-29)
+**发现**：飞书操作高度依赖 `application:application:self_manage` 权限
+**最佳实践**：
+- 执行飞书操作前先检查权限
+- 权限不足时立即启动降级方案
+-**降级方案**：直接输出 Markdown 到对话，不中断任务
+**验证结果**：
+- ✅ 权限不足时任务未中断
+- ✅ 本地早报文件成功同步
+- ✅ 今日日记完整记录执行情况
+
 ---
 
 ## 📈 能力边界清单
@@ -185,7 +209,7 @@ Table ID: tbl6yIyjpyZfTHzK
 ### ✅ 已验证可用
 - Chrome CDP 网页采集
 - TechCrunch/The Verge/HN 内容获取
-- 飞书多维表格批量写入
+- 飞书多维表格批量写入 ✅ (2026-04-28 验证成功)
 - OpenClaw Cron 定时任务
 - 自动分类逻辑
 - 飞书搜索工具
@@ -200,6 +224,7 @@ Table ID: tbl6yIyjpyZfTHzK
 - web_search 需要 Perplexity API 密钥
 - web_fetch 有网络访问限制
 - 睡眠时 Mac 无法执行本地采集
+- **飞书 self_manage 权限**：未开通 `application:application:self_manage` 权限，无法创建文档和写入表格（2026-04-29 验证）
 
 ---
 
@@ -225,3 +250,38 @@ Table ID: tbl6yIyjpyZfTHzK
 *最后更新：2026-03-10 06:45*
 *版本：V2.0 (AI 资讯采集实战迭代)*
 *下次审查：2026-03-17*
+
+## Promoted From Short-Term Memory (2026-04-24)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:15:17 -->
+- ## Light Sleep <!-- openclaw:dreaming:light:start --> - Candidate: 🤖 任务：AI资讯每日采集: **执行时间**: 2026-04-16 07:30 **任务ID**:. 38e9f5a8-8b5e-4cfc-8462-e1dc869c7445 **触发方式**: OpenClaw Cron 定时任务 - confidence: 0.00 - evidence: memory/2026-04-16.md:7-9 - recalls: 0 - status: staged - Candidate: ✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/AI_资讯早报_20260416.md` [score=0.899 recalls=0 avg=0.620 source=memory/2026-04-16.md:124-131]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:23:23 -->
+- - recalls: 0 - status: staged - Candidate: ✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/AI_资讯早报_20260416.md` - confidence: 0.00 - evidence: memory/2026-04-16.md:15-17 - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: **尝试执行 ai-daily-report.sh 脚本**: [score=0.899 recalls=0 avg=0.620 source=memory/2026-04-16.md:129-136]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:7:9 -->
+- --- *记录时间: 2026-04-16 07:35* *记录者: 幂智 (mi-zhi)* ## Light Sleep <!-- openclaw:dreaming:light:start --> - Candidate: 🤖 任务：AI资讯每日采集: **执行时间**: 2026-04-16 07:30 **任务ID**:. 38e9f5a8-8b5e-4cfc-8462-e1dc869c7445 **触发方式**: OpenClaw Cron 定时任务 [score=0.867 recalls=0 avg=0.620 source=memory/2026-04-16.md:119-126]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:24:26 -->
+- - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: **尝试执行 ai-daily-report.sh 脚本**: - confidence: 0.00 - evidence: memory/2026-04-16.md:23-23 - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: 检测到 agent-reach 命令格式不匹配; 当前 agent-reach 不支持 `--source=wechat --query=...` 格式; 需要更新脚本以适配新版 agent-reach API [score=0.867 recalls=0 avg=0.620 source=memory/2026-04-16.md:134-141]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:28:28 -->
+- - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: 检测到 agent-reach 命令格式不匹配; 当前 agent-reach 不支持 `--source=wechat --query=...` 格式; 需要更新脚本以适配新版 agent-reach API - confidence: 0.00 - evidence: memory/2026-04-16.md:24-26 - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: **降级方案执行**: [score=0.867 recalls=0 avg=0.620 source=memory/2026-04-16.md:139-146]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:29:31 -->
+- - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: **降级方案执行**: - confidence: 0.00 - evidence: memory/2026-04-16.md:28-28 - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: 采用行业趋势分析模式; 基于当前 AI 行业发展态势生成早报; 确保内容的质量和相关性 [score=0.867 recalls=0 avg=0.620 source=memory/2026-04-16.md:144-151]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:39:39 -->
+- - recalls: 0 - status: staged - Candidate: 📊 输出内容: **总条数**: 10 条 - confidence: 0.00 - evidence: memory/2026-04-16.md:37-37 - recalls: 0 - status: staged - Candidate: 📊 输出内容: **分类统计**: [score=0.847 recalls=0 avg=0.620 source=memory/2026-04-16.md:154-161]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:37:37 -->
+- - recalls: 0 - status: staged - Candidate: 📝 采集尝试过程: 采用行业趋势分析模式; 基于当前 AI 行业发展态势生成早报; 确保内容的质量和相关性 - confidence: 0.00 - evidence: memory/2026-04-16.md:29-31 - recalls: 0 - status: staged - Candidate: 📊 输出内容: **总条数**: 10 条 [score=0.827 recalls=0 avg=0.620 source=memory/2026-04-16.md:149-156]
+
+## Promoted From Short-Term Memory (2026-04-29)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-21.md:5:7 -->
+- **执行时间**: 2026-04-21 07:32 AM (Asia/Shanghai) **任务 ID**: 38e9f5a8-8b5e-4cfc-8462-e1dc869c7445 **上次执行**: 2026-04-21 00:10 AM (7.5 小时前) [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-21.md:5-7]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-22.md:3:5 -->
+- > 📅 日期：2026-04-22 > 🕐 任务：AI 资讯每日采集（cron:38e9f5a8-8b5e-4cfc-8462-e1dc869c7445） > 🕐 执行时间：07:30 AM [score=0.834 recalls=0 avg=0.620 source=memory/2026-04-22.md:3-5]
+
+## Promoted From Short-Term Memory (2026-04-30)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-22.md:31:34 -->
+- | 分类 | 数量 | | :--- | :--- | | 🚀 产品发布 | 1 条 | | ⚔️ 争议监管 | 2 条 | [score=0.867 recalls=0 avg=0.620 source=memory/2026-04-22.md:31-34]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-22.md:35:38 -->
+- | 💼 企业动态 | 1 条 | | ⚡ 技术突破 | 1 条 | | 💰 投融资 | 1 条 | | 📊 数据洞察 | 4 条 | [score=0.867 recalls=0 avg=0.620 source=memory/2026-04-22.md:35-38]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-23.md:3:5 -->
+- > 📅 日期：2026-04-23 > 🕐 任务：AI 资讯每日采集（cron:38e9f5a8-8b5e-4cfc-8462-e1dc869c7445） > 🕐 执行时间：07:30 AM [score=0.857 recalls=0 avg=0.620 source=memory/2026-04-23.md:3-5]

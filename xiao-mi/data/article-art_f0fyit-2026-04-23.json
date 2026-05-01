@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_f0fyit",
+    "title": "[RSS Club] How do you preserve an RSS feed?",
+    "link": "https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/",
+    "pub_date": "2026-04-22T19:34:46+08:00",
+    "content": "<p><mark><em>Psssst!</em> This <strong>top secret</strong> post is only available to RSS subscribers!</mark></p>\n\n<p>I was sent this thought-provoking blog post called \"<a href=\"https://eve.gd/2026/04/19/the-necessary-pain-involved-in-blogging-if-you-want-your-work-to-be-preserved-beyond-your-lifespan/\">The Necessary Pain Involved in Blogging (if you want your work to be preserved beyond your lifespan)</a>\".</p>\n\n<p>In it, Martin Paul Eve makes the case that trying to preserve a blog is difficult. I mostly agree with him (although think he's perhaps a little hair-shirted about it) and it made me think about what I do in terms of preservation.</p>\n\n<p>This feed is <a href=\"https://web.archive.org/web/20260000000000*/https://shkspr.mobi/blog/feed/atom/\">captured by the Internet Archive</a>. That's been useful on the rare occasions where my posts have been corrupted and I don't have a backup.</p>\n\n<p>I got my blog an <a href=\"https://shkspr.mobi/blog/2021/09/how-to-add-issn-metadata-to-a-web-page/\">ISSN</a>. I guess in theory this mean the British Library have a right to archive it? But I haven't looked in to whether that is the case.</p>\n\n<p>I don't store my posts in a git repository. Perhaps I should?</p>\n\n<p>I like the idea of <a href=\"https://wordpress.com/100-year/\">WordPress's 100 year domain name</a> but I'm not sure if I trust the current owner not to completely shit the bed. And it's hard to justify £31k on a vanity project.</p>\n\n<p>I'm not a scholar, so using something like <a href=\"https://rogue-scholar.org/\">Rogue Scholar</a> feels inappropriate. My content also isn't Creative Commons licenced (perhaps it should be?).</p>\n\n<p>If you have a good solution for a long-term, stable, and relatively cheap method of preserving a blog (and its RSS feed) please <a href=\"https://edent.tel/\">drop me a comment via your favourite method</a>.</p>\n<img src=\"https://shkspr.mobi/blog/wp-content/themes/edent-wordpress-theme/info/okgo.php?ID=70521&HTTP_REFERER=RSS\" alt=\"\" width=\"1\" height=\"1\" loading=\"eager\">",
+    "content_snippet": "Psssst! This top secret post is only available to RSS subscribers! I was sent this thought-provoking blog post called \" The Necessary Pain Involved in Blogging (if you want your work to be preserved beyond your lifespan) \". In it, Martin Paul Eve makes the case that trying to preserve a blog is...",
+    "source": "shkspr.mobi",
+    "source_url": "https://shkspr.mobi",
+    "category": "Tech Culture",
+    "author": "@edent",
+    "likes": 5,
+    "bookmark_count": 0,
+    "url": "/article/art_f0fyit",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_f0fyit/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_f0fyit\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

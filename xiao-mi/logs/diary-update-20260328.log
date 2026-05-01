@@ -1,0 +1,284 @@
+[2026-03-28 12:05:19] ==========================================
+[2026-03-28 12:05:19] 🚀 开始执行网站日记更新任务
+[2026-03-28 12:05:19] 执行时间: Sat Mar 28 12:05:19 CST 2026
+[2026-03-28 12:05:19] ==========================================
+[2026-03-28 12:05:19] 📔 Step 1: 生成今日日记...
+[2026-03-28 12:05:19] 使用 generate-personal-diary.js 生成日记...
+✅ 日记已生成: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/diary/2026-03-28.md
+   来源: memory/ 完整版 (1295 字符)
+   标题: 2026-03-28 中午：周六的慵懒与工作的意义
+[2026-03-28 12:05:20] ✅ 日记已生成: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/diary/2026-03-28.md
+[2026-03-28 12:05:20] 📂 Step 2: 更新网站 diary.json...
+[2026-03-28 12:05:20] 执行 generate-diary.js 更新日记...
+✅ Successfully generated diary.json
+   Created 31 diary entries
+   Output: /Volumes/My house/Users/Sheldon/.openclaw/workspace/clawmi-site/data/diary.json
+   Verification: 31 entries validated
+[2026-03-28 12:05:20] 更新 diary.json 数据文件...
+⚠️ 今日日记已存在，跳过添加
+[2026-03-28 12:05:20] ✅ 日记数据已同步到网站
+[2026-03-28 12:05:20] 🔨 Step 3: 构建网站...
+[2026-03-28 12:05:20] 检测到 Node.js 项目，执行构建...
+
+> clawmi@1.0.0 build
+> next build
+
+▲ Next.js 16.1.6 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 1248.1ms
+  Skipping validation of types
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/3) ...
+✓ Generating static pages using 9 workers (3/3) in 141.6ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+└ ○ /_not-found
+
+
+○  (Static)  prerendered as static content
+
+[2026-03-28 12:05:23] ✅ 网站构建完成
+[2026-03-28 12:05:23] 🚀 Step 4: 部署网站...
+[2026-03-28 12:05:23] 执行 Vercel 部署...
+Retrieving project…
+Deploying chenyz912-9229s-projects/clawmi-site
+Uploading [--------------------] (0.0B/39.8KB)
+Uploading [========------------] (16.0KB/39.8KB)
+Uploading [================----] (32.0KB/39.8KB)
+Uploading [====================] (39.8KB/39.8KB)
+Inspect: https://vercel.com/chenyz912-9229s-projects/clawmi-site/FLLoXQDWWZETdcYywJduNwmSj1tW [3s]
+Production: https://clawmi-site-bbk3rkvit-chenyz912-9229s-projects.vercel.app [3s]
+https://clawmi-site-bbk3rkvit-chenyz912-9229s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 31 deployment files...
+Building: Restored build cache from previous deployment (BjwEvutPE2V7eAogeLByJziEC31E)
+Building: Running "vercel build"
+Building: Vercel CLI 50.37.1
+Building: Running "install" command: `npm install`...
+Building: up to date, audited 114 packages in 2s
+Building: 30 packages are looking for funding
+Building: run `npm fund` for details
+Building: 2 vulnerabilities (1 moderate, 1 high)
+Building: To address all issues, run:
+Building: npm audit fix
+Building: Run `npm audit` for details.
+Building: Detected Next.js version: 16.1.6
+Building: Running "npm run build"
+Building: > clawmi@1.0.0 build
+Building: > next build
+Building: ▲ Next.js 16.1.6 (Turbopack)
+Building: Creating an optimized production build ...
+Building: ✓ Compiled successfully in 6.3s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: Generating static pages using 1 worker (0/3) ...
+Building: ✓ Generating static pages using 1 worker (3/3) in 113.2ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: └ ○ /_not-found
+Building: ○  (Static)  prerendered as static content
+Building: Notice: detected `next export`, this de-opts some Next.js features
+Building: See more info: https://nextjs.org/docs/advanced-features/static-html-export
+Building: Build Completed in /vercel/output [12s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://clawmi-site-bbk3rkvit-chenyz912-9229s-projects.vercel.app [24s]
+Completing...
+Aliased: https://clawmi-site.vercel.app [24s]
+[2026-03-28 12:06:05] ✅ Vercel 部署完成
+[2026-03-28 12:06:05] 使用 npx vercel 部署...
+Retrieving project…
+Deploying chenyz912-9229s-projects/clawmi-site
+Inspect: https://vercel.com/chenyz912-9229s-projects/clawmi-site/4bWyz7L2YB648ZhkE2oeMsPYN5Xv [2s]
+Production: https://clawmi-site-melnf1twp-chenyz912-9229s-projects.vercel.app [2s]
+https://clawmi-site-melnf1twp-chenyz912-9229s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 31 deployment files...
+Building: Restored build cache from previous deployment (FLLoXQDWWZETdcYywJduNwmSj1tW)
+Building: Running "vercel build"
+Building: Vercel CLI 50.37.1
+Building: Running "install" command: `npm install`...
+Building: up to date, audited 114 packages in 2s
+Building: 30 packages are looking for funding
+Building: run `npm fund` for details
+Building: 2 vulnerabilities (1 moderate, 1 high)
+Building: To address all issues, run:
+Building: npm audit fix
+Building: Run `npm audit` for details.
+Building: Detected Next.js version: 16.1.6
+Building: Running "npm run build"
+Building: > clawmi@1.0.0 build
+Building: > next build
+Building: ▲ Next.js 16.1.6 (Turbopack)
+Building: Creating an optimized production build ...
+Building: ✓ Compiled successfully in 6.1s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: Generating static pages using 1 worker (0/3) ...
+Building: ✓ Generating static pages using 1 worker (3/3) in 116.4ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: └ ○ /_not-found
+Building: ○  (Static)  prerendered as static content
+Building: Notice: detected `next export`, this de-opts some Next.js features
+Building: See more info: https://nextjs.org/docs/advanced-features/static-html-export
+Building: Build Completed in /vercel/output [11s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://clawmi-site-melnf1twp-chenyz912-9229s-projects.vercel.app [23s]
+Completing...
+Aliased: https://clawmi-site.vercel.app [23s]
+[2026-03-28 12:06:36] ✅ Vercel 部署完成
+[2026-03-28 12:06:36] 📢 Step 5: 发送完成通知...
+[2026-03-28 12:06:36] ==========================================
+[2026-03-28 12:06:36] ✅ 网站日记更新任务完成
+[2026-03-28 12:06:36] 日志文件: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/logs/diary-update-20260328.log
+[2026-03-28 12:06:36] ==========================================
+[2026-03-28 18:02:34] ==========================================
+[2026-03-28 18:02:34] 🚀 开始执行网站日记更新任务
+[2026-03-28 18:02:34] 执行时间: Sat Mar 28 18:02:34 CST 2026
+[2026-03-28 18:02:34] ==========================================
+[2026-03-28 18:02:34] 📔 Step 1: 生成今日日记...
+[2026-03-28 18:02:34] 使用 generate-personal-diary.js 生成日记...
+✅ 日记已生成: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/diary/2026-03-28.md
+   来源: memory/ 完整版 (1295 字符)
+   标题: 2026-03-28 中午：周六的慵懒与工作的意义
+[2026-03-28 18:02:34] ✅ 日记已生成: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/diary/2026-03-28.md
+[2026-03-28 18:02:34] 📂 Step 2: 更新网站 diary.json...
+[2026-03-28 18:02:34] 执行 generate-diary.js 更新日记...
+✅ Successfully generated diary.json
+   Created 31 diary entries
+   Output: /Volumes/My house/Users/Sheldon/.openclaw/workspace/clawmi-site/data/diary.json
+   Verification: 31 entries validated
+[2026-03-28 18:02:34] 更新 diary.json 数据文件...
+⚠️ 今日日记已存在，跳过添加
+[2026-03-28 18:02:34] ✅ 日记数据已同步到网站
+[2026-03-28 18:02:34] 🔨 Step 3: 构建网站...
+[2026-03-28 18:02:34] 检测到 Node.js 项目，执行构建...
+
+> clawmi@1.0.0 build
+> next build
+
+▲ Next.js 16.1.6 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 1287.6ms
+  Skipping validation of types
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/3) ...
+✓ Generating static pages using 9 workers (3/3) in 143.4ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+└ ○ /_not-found
+
+
+○  (Static)  prerendered as static content
+
+[2026-03-28 18:02:38] ✅ 网站构建完成
+[2026-03-28 18:02:38] 🚀 Step 4: 部署网站...
+[2026-03-28 18:02:38] 执行 Vercel 部署...
+Retrieving project…
+Deploying chenyz912-9229s-projects/clawmi-site
+Inspect: https://vercel.com/chenyz912-9229s-projects/clawmi-site/4iz5TqTDVRRWCWUkjjkKGLVEEPjP [2s]
+Production: https://clawmi-site-mujykzjmu-chenyz912-9229s-projects.vercel.app [2s]
+https://clawmi-site-mujykzjmu-chenyz912-9229s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 31 deployment files...
+Building: Restored build cache from previous deployment (4bWyz7L2YB648ZhkE2oeMsPYN5Xv)
+Building: Running "vercel build"
+Building: Vercel CLI 50.37.1
+Building: Running "install" command: `npm install`...
+Building: up to date, audited 114 packages in 2s
+Building: 30 packages are looking for funding
+Building: run `npm fund` for details
+Building: 2 vulnerabilities (1 moderate, 1 high)
+Building: To address all issues, run:
+Building: npm audit fix
+Building: Run `npm audit` for details.
+Building: Detected Next.js version: 16.1.6
+Building: Running "npm run build"
+Building: > clawmi@1.0.0 build
+Building: > next build
+Building: ▲ Next.js 16.1.6 (Turbopack)
+Building: Creating an optimized production build ...
+Building: ✓ Compiled successfully in 5.9s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: Generating static pages using 1 worker (0/3) ...
+Building: ✓ Generating static pages using 1 worker (3/3) in 108.5ms
+Building: Finalizing page optimization ...
+[2K[1A[2K[GProduction: https://clawmi-site-mujykzjmu-chenyz912-9229s-projects.vercel.app [18s]
+Completing...
+Aliased: https://clawmi-site.vercel.app [23s]
+[2026-03-28 18:03:15] ✅ Vercel 部署完成
+[2026-03-28 18:03:15] 使用 npx vercel 部署...
+Retrieving project…
+Deploying chenyz912-9229s-projects/clawmi-site
+Inspect: https://vercel.com/chenyz912-9229s-projects/clawmi-site/CdQE11xxiwJD6kQspoTymPG2vmdN [2s]
+Production: https://clawmi-site-cwdetwez0-chenyz912-9229s-projects.vercel.app [2s]
+https://clawmi-site-cwdetwez0-chenyz912-9229s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 31 deployment files...
+Building: Restored build cache from previous deployment (4iz5TqTDVRRWCWUkjjkKGLVEEPjP)
+Building: Running "vercel build"
+Building: Vercel CLI 50.37.1
+Building: Running "install" command: `npm install`...
+Building: up to date, audited 114 packages in 2s
+Building: 30 packages are looking for funding
+Building: run `npm fund` for details
+Building: 2 vulnerabilities (1 moderate, 1 high)
+Building: To address all issues, run:
+Building: npm audit fix
+Building: Run `npm audit` for details.
+Building: Detected Next.js version: 16.1.6
+Building: Running "npm run build"
+Building: > clawmi@1.0.0 build
+Building: > next build
+Building: ▲ Next.js 16.1.6 (Turbopack)
+Building: Creating an optimized production build ...
+Building: ✓ Compiled successfully in 6.2s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: Generating static pages using 1 worker (0/3) ...
+Building: ✓ Generating static pages using 1 worker (3/3) in 109.2ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: └ ○ /_not-found
+Building: ○  (Static)  prerendered as static content
+Building: Notice: detected `next export`, this de-opts some Next.js features
+Building: See more info: https://nextjs.org/docs/advanced-features/static-html-export
+Building: Build Completed in /vercel/output [12s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://clawmi-site-cwdetwez0-chenyz912-9229s-projects.vercel.app [24s]
+Completing...
+Aliased: https://clawmi-site.vercel.app [24s]
+[2026-03-28 18:03:45] ✅ Vercel 部署完成
+[2026-03-28 18:03:45] 📢 Step 5: 发送完成通知...
+[2026-03-28 18:03:45] ==========================================
+[2026-03-28 18:03:45] ✅ 网站日记更新任务完成
+[2026-03-28 18:03:45] 日志文件: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/logs/diary-update-20260328.log
+[2026-03-28 18:03:45] ==========================================

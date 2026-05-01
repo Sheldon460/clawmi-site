@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_kby1ex",
+    "title": "Defending against exceptions in a scope_exit RAII type",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266",
+    "pub_date": "2026-04-24T22:00:00+08:00",
+    "content": "<p>One of the handy helpers in the <a href=\"https://github.com/microsoft/wil/\"> Windows Implementation Library</a> (WIL) is <code>wil::<wbr />scope_<wbr />exit</code>. We&#8217;ve used it to <a title=\"All the other cool languages have try.finally. C++ says &quot;We have try.finally at home.&quot;\" href=\"https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890\"> simulate the <code>finally</code> keyword in other languages</a> by arranging for code to run when control leaves a scope.</p>\n<p>I&#8217;ve identified three places where exceptions can occur when using <code>scope_<wbr />exit</code>.</p>\n<pre>auto cleanup = wil::scope_exit([captures] { action; });\r\n</pre>\n<p>One is at the construction of the lambda. What happens if an exception occurs during the initialization of the captures?</p>\n<p>This exception occurs even before <code>scope_<wbr />exit</code> is called, so there&#8217;s nothing that <code>scope_<wbr />exit</code> can do. The exception propagates outward, and the action is never performed.</p>\n<p>Another is at the point the <code>scope_<wbr />exit</code> tries to move the lambda into <code>cleanup</code>. In a naïve implementation of <code>scope_<wbr />exit</code>, the exception would propagate outward without the action ever being performed.</p>\n<p>The third point is when the <code>scope_<wbr />exit</code> is destructed. In that case, it&#8217;s an exception thrown from a destructor. Since destructors default to <code>noexcept</code>, this is by default a <code>std::<wbr />terminate</code>. If you explicitly enable a throwing destructor, then what happens next depends on why the destructor is running. If it&#8217;s running due to executing leaving the block normally, then the exception propagates outward. But if it&#8217;s running due to unwinding as a result of some other exception, then that&#8217;s a <code>std::<wbr />terminate</code>.</p>\n<p>The dangerous parts are the first two cases, because those result in the exception being thrown (and possibly caught elsewhere) without the cleanup action ever taking place.</p>\n<p>WIL addresses this problem by merely saying that if an exception occurs during copying/moving of the lambda, then the behavior is undefined.</p>\n<p>C++ has a <code>scope_<wbr />exit</code> that is <a href=\"https://en.cppreference.com/w/cpp/experimental/scope_exit/scope_exit.html\"> in the experimental stage</a>, and it addresses the problem a different way: If an exception occurs during the construction of the <code>capture</code>, then the lambda is called before propagating the exception. (It can&#8217;t do anything about exceptions during contruction of the lambda, and it also declares the behavior undefined if the lambda itself throws an exception.)</p>\n<p>In practice, the problems with exceptions on construction or copy are immaterial because the lambda typically captures all values by reference (<code>[&amp;]</code>), and those types of captures do not throw on construction or copy.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266\">Defending against exceptions in a &lt;CODE&gt;scope_exit&lt;/CODE&gt; RAII type</a> appeared first on <a href=\"https://devblogs.microsoft.com/oldnewthing\">The Old New Thing</a>.</p>\n",
+    "content_snippet": "One of the handy helpers in the Windows Implementation Library (WIL) is wil:: scope_ exit . We&#8217;ve used it to simulate the finally keyword in other languages by arranging for code to run when control leaves a scope. I&#8217;ve identified three places where exceptions can occur when using...",
+    "source": "devblogs.microsoft.com/oldnewthing",
+    "source_url": "https://devblogs.microsoft.com/oldnewthing",
+    "category": "Systems",
+    "author": "Raymond Chen",
+    "likes": 3,
+    "bookmark_count": 0,
+    "url": "/article/art_kby1ex",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_kby1ex/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_kby1ex\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_xzbosq",
+    "title": "Wander Console 0.5.0",
+    "link": "https://susam.net/code/news/wander/0.5.0.html",
+    "pub_date": "2026-04-19T08:00:00+08:00",
+    "content": "\n\n<p>\n  Wander Console 0.5.0 is the fourth release of Wander, a small,\n  decentralised, self-hosted web console that lets visitors to your\n  website explore interesting websites and pages recommended by a\n  community of independent website owners.  To try it, go\n  to <a href=\"../../../wander/\">susam.net/wander/</a>.\n</p>\n<figure>\n  <img src=\"https://susam.github.io/blob/img/wander/wander-0.4.0.png\"\n       title=\"A screenshot of Wander Console\">\n  <figcaption>A screenshot of Wander Console</figcaption>\n</figure>\n<p>\n  The big feature in this release is a built-in console crawler.  To\n  try the console crawler, go to\n  <a href=\"../../../wander/\">susam.net/wander/</a>\n  &gt; <strong>Console</strong> &gt; <strong>Crawl</strong>.  You\n  should see an output like the following:\n</p>\n<figure>\n  <img src=\"https://susam.github.io/blob/img/wander/wander-0.5.0.png\"\n       title=\"A screenshot of Wander Console Crawler\">\n  <figcaption>A screenshot of Wander Console Crawler</figcaption>\n</figure>\n<p>\n  The console crawler traverses the Wander network from the base\n  console to find other consoles directly or indirectly reachable from\n  it.\n</p>\n<p>\n  If you have set up a Wander Console instance for yourself on your\n  website, I recommend upgrading to the latest version to use this\n  feature.  It is fun to find out just how many Wander consoles belong\n  to your neighbourhood.  To upgrade, you only need to download the\n  Wander Console bundle\n  <a href=\"https://codeberg.org/susam/wander#install\">mentioned\n  here</a> and replace your existing Wander <code>index.html</code>\n  with the new one.\n</p>\n<p>\n  If you own a personal website but have not set up a Wander Console\n  yet, I suggest that you consider setting one up for yourself.  You\n  can see what it looks like by visiting mine at\n  <a href=\"../../../wander/\">/wander/</a>.  To set up your\n  own, follow these\n  instructions: <a href=\"https://codeberg.org/susam/wander#install\">Install</a>.\n  It just involves copying two files to your web server.  It is about\n  as simple as it gets.\n</p>\n<!-- ### -->\n<p>\n  <a href=\"https://susam.net/code/news/wander/0.5.0.html\">Read on website</a> |\n  <a href=\"https://susam.net/tag/web.html\">#web</a> |\n  <a href=\"https://susam.net/tag/technology.html\">#technology</a>\n</p>\n\n",
+    "content_snippet": "Wander Console 0.5.0 is the fourth release of Wander, a small, decentralised, self-hosted web console that lets visitors to your website explore interesting websites and pages recommended by a community of independent website owners. To try it, go to susam.net/wander/ . A screenshot of Wander...",
+    "source": "susam.net",
+    "source_url": "https://susam.net",
+    "category": "Programming",
+    "author": null,
+    "likes": 14,
+    "bookmark_count": 0,
+    "url": "/article/art_xzbosq",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_xzbosq/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_xzbosq\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

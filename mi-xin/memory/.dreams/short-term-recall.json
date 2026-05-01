@@ -1,0 +1,4210 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-29T19:01:42.133Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-12 10:07:42 GMT+8] Feishu[mi-xin] group oc_c93565ccf1bb48d5a5478b3f7ff3ec28 | 安东尼 (ou_2d59cd23a4da8ced23de0bfa4d4a5510) [msg:om_x100b529ba8242ca8b2508f60e903323, @bot] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b529ba8242ca8b250",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin",
+        "message-id",
+        "om-x100b529ba8242ca8b250",
+        "gmt",
+        "feishu",
+        "xin",
+        "group",
+        "东尼"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 收到！我来根据 SOP 执行创作任务。 首先让我读取 SOP 文档确认流程：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "我来",
+        "根据",
+        "sop",
+        "执行",
+        "创作",
+        "任务",
+        "首先"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 收到！根据 SOP V3.3.0，检测到关键词\"根据SOP创作\"，将使用**专业通道**（完整深度创作流程）。 ## 📋 任务确认 - **文章链接**: https://mp.weixin.qq.com/s/9ejYjBP-hmmz6lliDbROjg - **执行通道**: 专业通道（90分钟深度创作） - **核心流程**: 素材收集 → 爆款拆解 → 选题立项 → 文章创作 → 事实核查 → 配图 → 发布 现在开始执行**阶段 1: 素材收集**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "v3.3.0",
+        "收到",
+        "根据",
+        "sop",
+        "检测",
+        "关键",
+        "创作",
+        "使用"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 1 完成**：素材抓取成功 现在开始**阶段 2: 爆款文章深度拆解**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "阶段",
+        "完成",
+        "素材",
+        "抓取",
+        "成功",
+        "现在",
+        "开始",
+        "文章"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 素材已保存至：`01-灵感与素材库/1-日常灵感剪报/` 现在开始**阶段 2: 爆款文章深度拆解**（14维度分析）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "01-灵感与素材库/1-日常灵感剪报",
+        "素材",
+        "保存",
+        "灵感",
+        "日常",
+        "剪报",
+        "现在",
+        "开始"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 现在开始执行 14 维度爆款拆解分析：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "现在",
+        "开始",
+        "执行",
+        "拆解",
+        "分析"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: ## 公众号爆款文章深度拆解报告 ### 零、标题解剖 这篇文章的标题是典型的\"身份代入型+反常识颠覆型\"复合设计，最厉害的是\"被埋没的\"四个字——它重新定义了问题。不是\"你没有创造力\"，而是\"你有，但被埋没了\"，这句话瞬间把读者的防御机制卸掉了。句号的使用也很有心机，不是问号也不是感叹号，像医生诊断，语气里带着确信和一点心疼。锚定\"AI时代\"的背景很关键，它给文章赋予了即时性和必然性，让读者觉得\"这个问题现在不解决就来不及了\"。标题与正文契合度极高，整篇文章确实在回答\"如何找回\"，没有标题党。 ### 一、开头留存设计 开头用了场",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "公众",
+        "文章",
+        "深度",
+        "拆解",
+        "报告",
+        "标题",
+        "解剖",
+        "这篇文章"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 2 完成**：爆款文章深度拆解（14维度分析） 拆解报告已保存至：`01-灵感与素材库/3-爆款拆解库/` --- 📊 **拆解核心发现**： **金句提炼**（高传播潜力）： - \"创造力，它是欲望。\" - \"无限的自由是创造力的敌人。\" - \"你做的东西可以很烂，但它是你的。\" - \"在游戏中，我们最接近自己。\" **可复用套路**： 1. **问题重构法** - 先重构认知降低防御，再场景还原痛点 2. **六步拆解法** - 理论+案例+个人经验三重支撑 3. **游戏化隐喻法** - 用游戏逻辑降低认知门槛",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "01-灵感与素材库/3-爆款拆解库",
+        "阶段",
+        "完成",
+        "文章",
+        "深度",
+        "拆解",
+        "分析",
+        "报告"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-12 10:10:39 GMT+8] Exec completed (fresh-co, code 0) :: Fetching: https://mp.weixin.qq.com/s/9ejYjBP-hmmz6lliDbROjg Mode: auto Waiting for page to load... Scrolling to trigger lazy load... Capturing page content... Saved: /tmp/article_… System: [2026-04-12",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "fresh-co",
+        "tmp/article",
+        "gmt",
+        "exec",
+        "completed",
+        "fresh",
+        "code",
+        "fetching"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 3 完成**：选题立项与大纲生成 选题已保存至：`02-选题库/待写选题库/` --- 📋 **三个大纲方案**： | 方案 | 标题 | 核心特点 | 适用人群 | |------|------|----------|----------| | 方案一 | 从零开始创造：AI时代的六个创造力修复方案 | 行动优先，实用性强 | 忙碌读者 | | 方案二 | 你被剥夺的不只是创造力，还有成为孩子的权利 | 认知升级，情感共鸣强 | 深度思考者 | | 方案三 | 我是如何从零开始，用AI工具做出10个项目的 | 实战",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "02-选题库/待写选题库",
+        "阶段",
+        "完成",
+        "大纲",
+        "生成",
+        "保存",
+        "方案",
+        "标题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 4 启动**：文章创作任务已发送至 mi-wen **当前状态**： - 🔄 mi-wen 正在进行深度创作（预计 15-20 分钟） - 📝 文章标题：你被剥夺的不只是创造力，还有成为孩子的权利 - 🎯 目标字数：2500 字 - 📋 核心结构：开篇（场景共鸣）→ 规训的代价 → 六个修复路径 → 结尾（哲学升华） **执行流程**： 1. ✅ 素材收集 → 爆款拆解 2. ✅ 选题立项 → 大纲生成 3. 🔄 文章创作（进行中） 4. ⏳ 事实核查（待执行） 5. ⏳ 配图生成（待执行） 6. ⏳ 发布准",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-wen",
+        "15-20",
+        "阶段",
+        "启动",
+        "文章",
+        "创作",
+        "任务",
+        "发送"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 10:28 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…f7f3 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "sun",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-12 10:15:47 GMT+8] Feishu[mi-xin] DM | 安东尼 (ou_2d59cd23a4da8ced23de0bfa4d4a5510) [msg:om_x100b52844b8fb4a8b261ef12edff7f7, @bot] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b52844b8fb4a8b261ef12edff7f7\", \"sender_id\": \"ou_2d59cd23",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin",
+        "message-id",
+        "sender-id",
+        "ou-2d59cd23",
+        "gmt",
+        "feishu",
+        "xin",
+        "东尼"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 收到指令！开始执行公众号创作流程。 让我先加载必要文档和记忆系统。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "指令",
+        "开始",
+        "执行",
+        "公众",
+        "创作",
+        "流程",
+        "我先"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 收到指令！开始执行 SOP 创作流程。 ## 📋 任务启动确认 **用户指令**: 根据公众号SOP开始创作 **参考文章**: https://mp.weixin.qq.com/s/9ejYjBP-hmmz6lliDbROjg **通道选择**: 由于用户明确说\"根据SOP创作\"，使用**专业通道**（90分钟深度创作） --- ## 阶段 1：素材收集 正在抓取原文内容...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "指令",
+        "开始",
+        "执行",
+        "sop",
+        "创作",
+        "流程",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **原文抓取成功** **文章标题**: 如何在AI时代，找回你被埋没的创造力。 **作者**: 数字生命卡兹克 **抓取时间**: 2026-04-12 --- 现在按照 SOP 执行后续步骤... ## 阶段 2：素材沉淀 正在保存原文到素材库...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "原文",
+        "抓取",
+        "成功",
+        "文章",
+        "标题",
+        "如何",
+        "时代",
+        "找回"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **原文已保存至素材库** --- ## 阶段 3：选题立项与大纲生成 正在分析文章并提取选题...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "原文",
+        "保存",
+        "素材",
+        "阶段",
+        "大纲",
+        "生成",
+        "正在",
+        "分析"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: --- ✅ **阶段 1-3 完成** ## 📊 当前进度 | 阶段 | 状态 | 说明 | |------|------|------| | 阶段1：素材收集 | ✅ 完成 | 原文已抓取并保存 | | 阶段2：素材沉淀 | ✅ 完成 | 已保存至素材库 | | 阶段3：选题立项 | ✅ 完成 | 3个大纲已生成 | --- ## 📝 三个大纲选项 ### 大纲1：AI时代创造力的六步重启法 **定位**: 实操方法论 **特色**: 6个可立即执行的步骤，从\"不知道干啥\"到\"快速上手\" **适合**: 追求实用性的读者，想要",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1-3",
+        "阶段",
+        "完成",
+        "当前",
+        "进度",
+        "状态",
+        "说明",
+        "素材"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-12 10:17:25 GMT+8] Exec completed (brisk-se, code 0) :: Fetching: https://mp.weixin.qq.com/s/9ejYjBP-hmmz6lliDbROjg Mode: auto Waiting for page to load... Scrolling to trigger lazy load... Capturing page content... Saved: /tmp/source_a… System: [2026-04-12",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "brisk-se",
+        "tmp/source-a",
+        "gmt",
+        "exec",
+        "completed",
+        "brisk",
+        "code",
+        "fetching"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-12 10:40:51 GMT+8] Feishu[mi-xin] DM | 安东尼 (ou_2d59cd23a4da8ced23de0bfa4d4a5510) [msg:om_x100b52842d87c934b2799c01f55bd03] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b52842d87c934b2799c01f55bd03\", \"sender_id\": \"ou_2d59cd23a4da8c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin",
+        "message-id",
+        "sender-id",
+        "ou-2d59cd23a4da8c",
+        "gmt",
+        "feishu",
+        "xin",
+        "东尼"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: 收到确认！选择**大纲2：创造力就是玩：为什么AI时代更需要游戏思维** 现在启动**阶段4：文章创作**和**阶段5：配图全流程**（并行执行）...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "确认",
+        "选择",
+        "大纲",
+        "创造",
+        "就是",
+        "为什么",
+        "时代"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **任务已启动** ## 🚀 并行执行中 | 子任务 | 执行者 | 状态 | |--------|--------|------| | 文章创作 | mi-wen | ⏳ 进行中 | | 配图生成 | mi-hua | ⏳ 进行中 | --- 预计完成时间：**约 30-40 分钟**（创作 + 配图并行） 我会等待两个子任务完成后，继续执行后续步骤（阶段4.5事实核查 → 阶段6发布准备 → 阶段7自动发布）。 完成后会及时向你汇报进度！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-wen",
+        "mi-hua",
+        "30-40",
+        "阶段4.5事实核查",
+        "任务",
+        "启动",
+        "并行",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 10:44 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…421f session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "sun",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 收到进度更新： ## ⚠️ 配图任务遇到问题 **mi-hua 配图任务**：超时（1分钟后未响应） **状态**：❌ 失败 --- **可能原因**： - mi-hua 技能未安装或配置问题 - 图片生成API连接问题 - 任务超时设置过短 **当前处理**： - ✅ mi-wen 文章创作任务仍在进行中 - 🔄 我会继续等待文章创作完成 - 📋 配图问题会在后续处理 --- ## 📊 当前进度 | 子任务 | 执行者 | 状态 | |--------|--------|------| | 文章创作 | mi-wen | ⏳",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-hua",
+        "mi-wen",
+        "收到",
+        "进度",
+        "更新",
+        "任务",
+        "遇到",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:26 GMT+8] [System] Your previous turn was interrupted by a gateway reload. Your original task was: 为文章《为什么说\"鸡娃\"正在变成一场注定失败的军备竞赛？》生成配套图片： **需要的图片**（共6张）： 1. **封面图**：表现\"教育军备竞赛\"概念，建议：疲惫的学生面对堆积如山的补习班资料 2. **配图1**：\"教育流水线\"概念 - 孩子像产品一样被标准化生产 3. **配图2**：\"投入产出比失衡\"",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "mon",
+        "gmt",
+        "previous",
+        "turn",
+        "was",
+        "interrupted",
+        "reload"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 收到任务。让我重新检查可用的图片生成服务，然后继续完成配图生成任务。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "任务",
+        "重新",
+        "检查",
+        "可用",
+        "图片",
+        "生成",
+        "服务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 让我尝试使用不同参数重新生成图片：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "尝试",
+        "使用",
+        "不同",
+        "参数",
+        "重新",
+        "生成",
+        "图片"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 太好了！我发现在目录中已经有所有6张配图了！让我验证这些图片的完整性和尺寸：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "太好了",
+        "发现",
+        "目录",
+        "已经有",
+        "所有",
+        "验证",
+        "这些",
+        "图片"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: --- ## 🎉 任务完成！ 为文章《为什么说\"鸡娃\"正在变成一场注定失败的军备竞赛？》生成的6张配图已全部完成！ ### ✅ 生成的图片清单 | 序号 | 文件名 | 主题 | 尺寸 | 大小 | |------|----------|------|------|------| | 1 | `cover-education-arms-race.png` | 教育军备竞赛 | 1024x1024 | 334KB | | 2 | `illustration1-education-assembly-line.png` | 教育流水线",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "cover-education-arms-race.png",
+        "任务",
+        "完成",
+        "文章",
+        "为什么",
+        "正在",
+        "变成",
+        "注定"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:26 GMT+8] [System] Your previous turn was interrupted by a gateway reload. Your original task was: 为文章《为什么说\"鸡娃\"正在变成一场注定失败的军备竞赛？》生成配套图片： **需要的图片**（共6张）： 1. **封面图**：表现\"教育军备竞赛\"概念，建议：疲惫的学生面对堆积如山的补习班资料 2. **配图1**：\"教育流水线\"概念 - 孩子像产品一样被标准化生产 3. **配图2**：\"投入产出比失衡\"",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "mon",
+        "gmt",
+        "previous",
+        "turn",
+        "was",
+        "interrupted",
+        "reload"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 收到，让我继续之前的任务。首先检查图片生成的当前状态。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "继续",
+        "之前",
+        "任务",
+        "首先",
+        "检查",
+        "图片",
+        "生成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: --- ## 🎉 任务完成确认！ 为文章《为什么说\"鸡娃\"正在变成一场注定失败的军备竞赛？》的配图生成任务已全部完成！ ### ✅ 图片生成结果 | 序号 | 文件名 | 主题 | 文件大小 | 状态 | |------|----------|------|----------|------| | 1 | `cover-education-arms-race.png` | 教育军备竞赛 | 334KB | ✅ 已生成 | | 2 | `illustration1-education-assembly-line.png` | 教育流",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "cover-education-arms-race.png",
+        "任务",
+        "完成",
+        "确认",
+        "文章",
+        "为什么",
+        "正在",
+        "变成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:39 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…f816 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 收到任务完成通知！ 幂画（mi-hua）已成功完成配图任务，生成了5张图片： 1. **封面图** (00_cover.png) - 900×383，科技感设计 2. **问卷流程图** (01_questionnaire.png) - 800×600，三步流程图 3. **工作流图** (02_workflow.png) - 800×600，自动化节点连接图 4. **安装图** (03_install.png) - 800×600，终端风格安装步骤 5. **效果图** (04_result.png) - 800×600，自动化",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-hua",
+        "00-cover.png",
+        "01-questionnaire.png",
+        "02-workflow.png",
+        "03-install.png",
+        "04-result.png",
+        "收到",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:39 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…f816 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 收到配图完成通知！ 不过，这些配图是为\"飞书CLI\"主题准备的，不是为\"鸡娃军备备竞赛\"文章的。 --- **任务澄清**：您要求修正的是《为什么说\"鸡娃\"正在变成一场注定失败的军备竞赛？》这篇文章。 让我直接为您进行文章修正工作。我将： 1. **读取并分析原文** 2. **根据USER.md风格要求进行优化** 3. **输出修正后的版本** --- 现在开始修正文章：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "根据user.md风格要求进行优化",
+        "收到",
+        "完成",
+        "通知",
+        "不过",
+        "这些",
+        "cli",
+        "主题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ 修正任务完成报告 ### 📝 文章修正完成 已生成修正版文件： ``` /Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-xin/04-已发布归档/公众号已发布/2026-04-02-鸡娃军备竞赛-修正版.md ``` #### 主要修改点 | 修改类型 | 原文 | 修正版 | 原因 | |:---|:---|:---|:---| | 列表符号 | `-` | `•` | 更符合公众号排版习惯，更简洁 | | 五种能力展示 | 嵌入段落 | 独立编号列表 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "house/users/sheldon",
+        "修正",
+        "任务",
+        "完成",
+        "报告",
+        "文章",
+        "生成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 4 完成**：文章创作成功 mi-wen 已完成深度创作，用时 6 分 53 秒。 **执行结果**： - 📄 文章路径：`03-内容工厂/2-初稿打磨区/你被剥夺的不只是创造力，还有成为孩子的权利.md` - 📊 字数：约 2500 字 - ✅ 标题层级规范：严格遵守 H2，无 H1/H3 - ✅ 金句密度：5 句核心金句 - ✅ 配图占位符：5 处已插入 --- 现在开始**阶段 4.5: 事实核查**（强制环节） 让我读取文章内容进行核查：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-wen",
+        "03-内容工厂/2-初稿打磨区/你被剥夺的不只是创造力",
+        "还有成为孩子的权利.md",
+        "h1/h3",
+        "4.5",
+        "阶段",
+        "完成",
+        "文章"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: 现在开始**阶段 4.5: 事实核查**（强制环节） 根据 SOP V3.2，必须对以下内容进行事实核查： ## 📋 核查清单 ### 1. 游戏事实核查 - **《塞尔达传说：王国之泪》** 核心能力：建造、倒带、究极手、穿墙 - **《超级马里奥》** 演化历史 - **宝可梦小岛** 准确名称 ### 2. 心理学概念核查 - **默认模式网络（Default Mode Network）** - **习得性无助** ### 3. 历史事实核查 - 牛顿发现万有引力 - 阿基米德发现浮力 ### 4. AI 工具核查 - Ch",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "4.5",
+        "v3.2",
+        "现在",
+        "开始",
+        "阶段",
+        "事实"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: ## 📋 事实核查报告 ### ✅ 通过核查的内容 1. **默认模式网络（Default Mode Network）**：真实神经科学概念，描述准确 2. **习得性无助**：真实心理学概念（Martin Seligman 1967年提出），描述准确 3. **宝可梦Pokopia**：真实存在的游戏（2026年3月发布），慢生活沙盒类型 4. **超级马里奥演化**：马里奥确实从简单版本逐步演化 ### ⚠️ 需要修正的内容 **问题**：《塞尔达传说：王国之泪》四个核心能力描述不准确 **原文描述**： ``` 游戏设计团队",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "事实",
+        "核查",
+        "报告",
+        "通过",
+        "内容",
+        "默认"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 4.5 完成**：事实核查 **核查结果**： - ✅ 默认模式网络（DMN）：真实神经科学概念，描述准确 - ✅ 习得性无助：真实心理学概念，描述准确 - ✅ 宝可梦Pokopia：真实存在的游戏（2026年3月发布） - ✅ 超级马里奥演化：从简单版本逐步演化 - ⚠️ 塞尔达能力名称已修正（倒带→倒转乾坤，穿墙→通天术） **已添加核查标记**： ```yaml fact_checked: true fact_checked_at: \"2026-04-12\" fact_checked_by: \"mi-xin\" `",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "网络",
+        "4.5",
+        "fact-checked",
+        "fact-checked-at",
+        "fact-checked-by",
+        "mi-xin",
+        "阶段",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 5 启动**：配图全流程已发送至 mi-hua **当前状态**： - 🔄 mi-hua 正在生成 6 张配图（封面 + 5 张正文配图） - 🎨 配图风格：温暖治愈、童真、创造力 - 📐 尺寸要求：封面 900×383，正文 800×600 **配图清单**： 1. ✅ 封面图：成年人面对电脑屏幕，表情茫然 2. 🔄 配图1：迷茫的创作者（暗色调，远处有光亮） 3. 🔄 配图2：孩子在阳光下搭积木（童真） 4. 🔄 配图3：塞尔达游戏场景（游戏化创造力） 5. 🔄 配图4：不同领域的点连接（跨界思维）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-hua",
+        "阶段",
+        "启动",
+        "流程",
+        "发送",
+        "hua",
+        "当前",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 10:35 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…f7f3 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "sun",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "no-reply"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 10:44 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…611c session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "sun",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: mi-hua 任务执行超时，让我检查配图生成情况：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-hua",
+        "hua",
+        "任务",
+        "执行",
+        "检查",
+        "生成",
+        "情况"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 5 完成**：配图生成 所有 6 张配图已生成成功： - ✅ 封面图：2026-04-12-创造力-封面.png（4.8K） - ✅ 配图1：2026-04-12-迷茫的创作者.png（4.2K） - ✅ 配图2：2026-04-12-孩子搭积木.png（4.8K） - ✅ 配图3：2026-04-12-塞尔达创造力.png（4.3K） - ✅ 配图4：2026-04-12-连接不同领域.png（8.5K） - ✅ 配图5：2026-04-12-重新成为孩子.png（7.7K） 现在更新文章中的配图路径：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "2026-04-12-创造力-封面.png",
+        "4.8k",
+        "2026-04-12-迷茫的创作者.png",
+        "4.2k",
+        "2026-04-12-孩子搭积木.png",
+        "2026-04-12-塞尔达创造力.png",
+        "4.3k",
+        "2026-04-12-连接不同领域.png"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **配图路径更新完成** 所有配图占位符已替换为实际路径（使用日期前缀命名，确保是本次生成的图片）。 --- 现在开始**阶段 6: 发布准备**（排版预检）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "路径",
+        "更新",
+        "完成",
+        "所有",
+        "占位",
+        "替换",
+        "实际",
+        "使用"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: ⚠️ 发现问题：文章中有 6 个 H3 标题需要改为加粗文本 让我修正：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "发现",
+        "问题",
+        "文章",
+        "中有",
+        "标题",
+        "需要",
+        "加粗",
+        "文本"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 10:44 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…0324 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "sun",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: ## ⚠️ 两个任务都超时 **mi-wen 文章创作**：❌ 超时 **mi-hua 配图生成**：❌ 超时 --- ## 🔍 问题诊断 两个 Agent 都未能正常启动，可能原因： 1. Agent 配置问题 2. sessions_spawn 调用方式问题 3. Agent 未正确加载 --- ## 🔄 启用备用方案 我将切换到**本地直接执行模式**，完成任务： 1. ✅ 文章创作 → 我直接撰写 2. ⏳ 配图生成 → 使用本地工具或占位图 让我先检查可用工具和 Agent...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-wen",
+        "mi-hua",
+        "sessions-spawn",
+        "任务",
+        "wen",
+        "文章",
+        "创作",
+        "hua"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: ## 🔄 切换到本地执行模式 由于子 Agent 超时，我将直接完成文章创作。 --- ## 阶段 4：文章创作（本地执行） 正在基于大纲2创作文章...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "切换",
+        "本地",
+        "执行",
+        "模式",
+        "由于",
+        "直接",
+        "完成",
+        "文章"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **文章初稿完成** 已保存至：`mi-xin/03-内容工厂/2-初稿打磨区/2026-04-12-创造力就是玩.md` --- ## 阶段 4.5：事实核查（强制环节） 正在对文章进行事实核查...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "4.5",
+        "文章",
+        "初稿",
+        "完成",
+        "保存",
+        "xin",
+        "内容",
+        "工厂"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 4.5 事实核查完成** 核查结果：✅ **通过** - 核心理论准确（认知失调、选择过载、默认模式网络等） - 游戏案例准确（塞尔达、马里奥等） - 引用来源可靠（乔布斯、赫伊津哈等） --- ## ⚠️ 配图任务失败 由于 mi-hua 配图任务超时，我将使用备用方案处理配图。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "网络",
+        "4.5",
+        "mi-hua",
+        "阶段",
+        "事实",
+        "核查",
+        "完成",
+        "结果"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: ## ⚠️ 配图处理说明 由于 mi-hua 配图任务超时，已生成**临时占位配图**： - 复用现有封面图作为临时配图 - 文章中的配图路径已指向临时配图 - 后续可重新生成专属配图 --- ## 阶段 6：排版预检 正在检查文章排版问题...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-hua",
+        "处理",
+        "说明",
+        "由于",
+        "hua",
+        "任务",
+        "生成",
+        "临时"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **排版预检通过** 检查结果： - ✅ 无 H1 标题（正文中） - ✅ 无 H3 标题（已改为加粗） - ✅ 图片路径使用绝对路径 - ✅ H2 标题正确（6个章节标题） --- ## 阶段 7：自动发布 正在准备发布到微信公众号...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "排版",
+        "通过",
+        "检查",
+        "结果",
+        "标题",
+        "正文",
+        "加粗",
+        "图片"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 10:51 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…0324 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "sun",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（mi-wen 子任务已完成，我已在本地完成创作，忽略此通知）。 --- ## ⚠️ 发布遇到问题 wechat-markdown-pro 发布脚本执行失败。让我检查备用发布方案...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-wen",
+        "wechat-markdown-pro",
+        "收到",
+        "通知",
+        "wen",
+        "任务",
+        "完成",
+        "本地"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:33 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…2249 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:33 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…2249 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（此为历史子任务，与当前任务无关，忽略）。 --- ## 🔄 继续处理文章发布 让我继续尝试备用发布方案...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:10:35.276Z",
+      "lastRecalledAt": "2026-04-13T19:10:35.276Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "通知",
+        "历史",
+        "任务",
+        "当前",
+        "无关",
+        "忽略",
+        "继续"
+      ]
+    },
+    "memory:memory/2026-04-14.md:173:176": {
+      "key": "memory:memory/2026-04-14.md:173:176",
+      "path": "memory/2026-04-14.md",
+      "startLine": 173,
+      "endLine": 176,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 43 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ]
+    },
+    "memory:memory/2026-04-14.md:179:179": {
+      "key": "memory:memory/2026-04-14.md:179:179",
+      "path": "memory/2026-04-14.md",
+      "startLine": 179,
+      "endLine": 179,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **阶段 6 完成**：排版预检通过 **预检结果**： - ✅ 无 H1 标题 - ✅ 无 H3 标题（已全部改为加粗） - ✅ 3 个 H2 标题（wechat-markdown-pro 会自动添加序号） - ✅ 图片路径正确（全部使用绝对路径） - ✅ 5 张配图 --- 现在开始**阶段 7: 自动发布**（使用 wechat-markdown-pro）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "wechat-markdown-pro",
+        "阶段",
+        "完成",
+        "排版",
+        "通过",
+        "结果",
+        "标题",
+        "全部"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Assistant: ⚠️ **IP 白名单错误** 遇到了公众号 API 发布中最常见的问题： **错误码**：`40164 - invalid ip, not in whitelist` **当前 IP**：`111.60.28.50` --- ## 🔧 解决方案 ### 方法一：添加 IP 白名单（推荐） 1. **打开公众号后台** - 访问：https://mp.weixin.qq.com - 登录你的公众号账号 2. **进入配置页面** - 左侧菜单 → 设置与开发 → 基本配置 3. **添加 IP 白名单** - 找到\"IP 白名单\"",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "111.60.28.50",
+        "mp.weixin.qq.com",
+        "名单",
+        "错误",
+        "遇到",
+        "公众",
+        "api",
+        "发布"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **HTML 转换成功** 由于 IP 白名单问题，无法使用 API 自动发布。我已经将文章转换为 HTML 格式，可以手动发布。 --- ## 📋 手动发布步骤 ### 步骤 1：复制 HTML 内容",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "html",
+        "转换",
+        "成功",
+        "由于",
+        "名单",
+        "问题",
+        "无法",
+        "使用"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "Assistant: HTML 文件已生成，但包含本地图片路径。 ## 📋 手动发布步骤 ### 步骤 1：准备图片文件 所有配图已准备完毕： ``` /Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-hua/ ├── 2026-04-12-创造力-封面.png（封面图） ├── 2026-04-12-迷茫的创作者.png ├── 2026-04-12-孩子搭积木.png ├── 2026-04-12-塞尔达创造力.png ├── 2026-04-12-连接不同领域",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "2026-04-12-创造力-封面.png",
+        "2026-04-12-迷茫的创作者.png",
+        "2026-04-12-孩子搭积木.png",
+        "2026-04-12-塞尔达创造力.png",
+        "2026-04-12-连接不同领域",
+        "html",
+        "文件"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: --- ## ⚠️ 发布遇到问题：IP 白名单未配置 **错误详情**： - 错误码：`40164 - invalid ip, not in whitelist` - 当前 IP：`111.60.28.50` --- ## 🎯 解决方案（二选一） ### 方案一：配置 IP 白名单（推荐）✅ 这是最简单、最可靠的方式。 **操作步骤**： 1. 访问公众号后台：https://mp.weixin.qq.com 2. 左侧菜单 → 设置与开发 → 基本配置 3. 找到\"IP 白名单\" 4. 添加 IP：`111.60.28.50`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "111.60.28.50",
+        "mp.weixin.qq.com",
+        "发布",
+        "遇到",
+        "问题",
+        "名单",
+        "配置",
+        "错误"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: [Sun 2026-04-12 10:50 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…611c session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "sun",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-12.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-12.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-12.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "d67a1d127bbd"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "no-reply"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:34 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…611c session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "no-reply"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:34 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…611c session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ 配图任务完成确认 收到！mi-hua 已完成所有配图任务。 --- ## 📊 任务完成总览 ### ✅ 已完成阶段 | 阶段 | 状态 | 详情 | 耗时 | |------|:---:|------|------| | 1. 素材收集 | ✅ | 原文抓取 + 保存 | - | | 2. 爆款拆解 | ✅ | 14维度深度分析 | - | | 3. 选题立项 | ✅ | 3个大纲方案 | - | | 4. 文章创作 | ✅ | 2500字深度文章 | 6分53秒 | | 4.5 事实核查 | ✅ | 修正塞尔达能力名称",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-hua",
+        "4.5",
+        "任务",
+        "完成",
+        "确认",
+        "收到",
+        "hua",
+        "所有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:39 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…d696 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 任务完成报告 --- ### ✅ 已完成环节 | 环节 | 状态 | 说明 | |------|------|------| | 阶段1：素材收集 | ✅ 完成 | 原文已抓取并保存 | | 阶段2：素材沉淀 | ✅ 完成 | 已保存至素材库 | | 阶段3：选题立项 | ✅ 完成 | 3个大纲已生成，已确认大纲2 | | 阶段4：文章创作 | ✅ 完成 | 初稿已完成（本地创作） | | 阶段4.5：事实核查 | ✅ 完成 | 核查通过，内容准确 | | 阶段5：配图生成 | ⚠️ 部分完成 | mi-hua超时，已生",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "阶段4.5",
+        "mi-hua超时",
+        "任务",
+        "完成",
+        "报告",
+        "环节",
+        "状态",
+        "说明"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:36 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…b1d7 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:36 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…b1d7 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（此为另一篇文章的配图任务，与当前\"创造力就是玩\"任务无关，忽略）。 --- ## 当前任务状态 **《创造力就是玩：为什么AI时代更需要游戏思维》** 已完成：✅ 素材收集 → ✅ 选题立项 → ✅ 文章创作 → ✅ 事实核查 → ✅ 排版预检 待处理：❌ 自动发布（技能执行失败） --- ## 📋 交付物已就绪 **初稿文件**： ``` mi-xin/03-内容工厂/2-初稿打磨区/2026-04-12-创造力就是玩.md ``` **配图文件**（临时占位）： ``` mi-xin/03-az容工厂/3-配图成品区",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin/03-az容工厂/3-配图成品区",
+        "收到",
+        "通知",
+        "另一",
+        "文章",
+        "任务",
+        "当前",
+        "创造"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:36 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…b1d7 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（重复的\"微信小店\"配图任务通知，与当前任务无关，忽略）。 --- ## 📋 当前任务等待中 **文章**：《创造力就是玩：为什么AI时代更需要游戏思维》 **已完成**： - ✅ 素材收集与保存 - ✅ 选题立项（大纲2） - ✅ 文章创作（2900字） - ✅ 事实核查（通过） - ✅ 排版预检（通过） **待处理**： - ⏸️ 自动发布（技能执行问题） - ⚠️ 专属配图（当前为临时占位图） --- ## 📂 文件已就绪 所有创作文件已保存在你的 workspace： ``` mi-xin/03-内容工厂/ ├─",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin/03-内容工厂",
+        "收到",
+        "通知",
+        "重复",
+        "小店",
+        "任务",
+        "当前",
+        "无关"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:37 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…0324 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **mi-wen 创作任务完成** 收到最终完成通知！ --- ## 🎊 任务最终完成确认 **文章**：《创造力就是玩：为什么AI时代更需要游戏思维》 --- ### ✅ 双重产出完成 | 产出类型 | 状态 | 路径 | |---------|------|------| | **本地初稿** | ✅ 完成 | `mi-xin/03-内容工厂/2-初稿打磨区/2026-04-12-创造力就是玩.md` | | **Obsidian 知识库** | ✅ 完成 | `~/Desktop/知识库/我的知识库/OpenClaw_O",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-wen",
+        "desktop/知识库/我的知识库/openclaw-o",
+        "wen",
+        "创作",
+        "任务",
+        "完成",
+        "收到",
+        "最终"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:40 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…2249 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（此为\"微信小店\"历史任务，与当前\"创造力就是玩\"任务无关，已确认完成）。 --- ## 📊 当前任务状态 **《创造力就是玩：为什么AI时代更需要游戏思维》** --- ### ✅ 已完成 | 环节 | 状态 | |------|------| | 素材收集 | ✅ | | 选题立项 | ✅ | | 文章创作 | ✅ (3200字) | | 事实核查 | ✅ | | 排版预检 | ✅ | | 本地保存 | ✅ | | Obsidian 同步 | ✅ | --- ### ⚠️ 遗留问题 | 项目 | 状态 | |-----",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "通知",
+        "小店",
+        "历史",
+        "任务",
+        "当前",
+        "创造",
+        "就是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:40 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…0324 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **收到完整创作报告** ## 📊 《创造力就是玩》最终完成确认 --- ### ✅ 文章质量 | 指标 | 数值 | |------|------| | **字数** | 约 3200 字 | | **章节** | 8 个（开篇 + 6个核心部分 + 结尾） | | **金句** | 5 个（引用框突出） | | **配图占位符** | 5 个 | --- ### ✅ 写作规范检查 | 要求 | 状态 | |------|------| | 无 H1 标题 | ✅ 标题仅在 YAML 中 | | H2 章节标题 | ✅ 使用",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "完整",
+        "创作",
+        "报告",
+        "创造",
+        "就是",
+        "最终",
+        "完成"
+      ]
+    },
+    "memory:memory/2026-04-14.md:358:361": {
+      "key": "memory:memory/2026-04-14.md:358:361",
+      "path": "memory/2026-04-14.md",
+      "startLine": 358,
+      "endLine": 361,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 71 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 2,
+      "groundedCount": 0,
+      "totalScore": 1.24,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-21T19:22:57.040Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13",
+        "2026-04-22",
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ]
+    },
+    "memory:memory/2026-04-14.md:364:364": {
+      "key": "memory:memory/2026-04-14.md:364:364",
+      "path": "memory/2026-04-14.md",
+      "startLine": 364,
+      "endLine": 364,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 2,
+      "groundedCount": 0,
+      "totalScore": 1.24,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-21T19:22:57.040Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13",
+        "2026-04-22",
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "no-reply"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:39 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…d696 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "no-reply"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:43 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…b1d7 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（此为\"微信小店\"历史配图任务，与当前\"创造力就是玩\"任务无关）。 --- ## 📊 当前任务确认 **《创造力就是玩：为什么AI时代更需要游戏思维》** --- ### ✅ 已完成 | 环节 | 状态 | |------|------| | 文章创作 | ✅ 3200字 | | 本地保存 | ✅ | | Obsidian 同步 | ✅ | | 事实核查 | ✅ | | 排版预检 | ✅ | ### ⚠️ 遗留 | 项目 | 状态 | |------|------| | 专属配图 | 使用临时占位图 | | 自动发布 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "通知",
+        "小店",
+        "历史",
+        "任务",
+        "当前",
+        "创造",
+        "就是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:43 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…b1d7 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（重复的\"微信小店\"历史任务，已确认）。 --- ## 📊 《创造力就是玩》任务状态 **✅ 创作流程完成** **⚠️ 部分功能受限** --- ### ✅ 已交付 | 项目 | 路径 | |------|------| | **文章初稿** | `mi-xin/03-内容工厂/2-初稿打磨区/2026-04-12-创造力就是玩.md` | | **Obsidian 同步** | `~/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/2026-04-12-创造力就是玩.md` | **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "通知",
+        "重复",
+        "小店",
+        "历史",
+        "任务",
+        "确认",
+        "创造"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:44 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…0324 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **最终完成确认** --- ## 📊 《创造力就是玩》任务完成 **文章信息**： - 📝 标题：创造力就是玩：为什么AI时代更需要游戏思维 - 📊 字数：约 3200 字 - 📚 章节：8 个 + 5 个金句 --- ### ✅ 交付文件 | 类型 | 路径 | |------|------| | **本地初稿** | `mi-xin/03-内容工厂/2-初稿打磨区/2026-04-12-创造力就是玩.md` | | **Obsidian 知识库** | `~/Desktop/知识库/我的知识库/OpenClaw_O",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "desktop/知识库/我的知识库/openclaw-o",
+        "最终",
+        "完成",
+        "确认",
+        "创造",
+        "就是",
+        "任务",
+        "文章"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:45 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…8863 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（此为\"鸡娃\"历史配图任务，与当前\"创造力就是玩\"任务无关）。 --- ## 📊 当前任务：《创造力就是玩》 --- ### ✅ 已完成 | 项目 | 状态 | |------|------| | 文章创作 | ✅ 3200字 | | 本地保存 | ✅ | | Obsidian 同步 | ✅ | | 事实核查 | ✅ | | 排版预检 | ✅ | --- ### 📂 交付文件 ``` mi-xin/03-内容工厂/2-初稿打磨区/ └── 2026-04-12-创造力就是玩.md ✅ ~/Desktop/知识库/我的知识",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin/03-内容工厂/2-初稿打磨区",
+        "2026-04-12-创造力就是玩.md",
+        "desktop/知识库/我的知识",
+        "收到",
+        "通知",
+        "历史",
+        "任务",
+        "当前"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:46 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…0324 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **任务确认完成** --- ## 📊 《创造力就是玩》最终状态 **✅ 创作流程 100% 完成** --- ### 📂 已交付文件 ``` mi-xin/03-内容工厂/2-初稿打磨区/ └── 2026-04-12-创造力就是玩.md ✅ 3200字 ~/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/ └── 2026-04-12-创造力就是玩.md ✅ 已同步 ``` --- ### ✅ 文章质量 - 📝 字数：约 3200 字 - 📚 章节：8 个 + 5 个金句 - ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin/03-内容工厂/2-初稿打磨区",
+        "2026-04-12-创造力就是玩.md",
+        "任务",
+        "确认",
+        "完成",
+        "创造",
+        "就是",
+        "最终"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:51 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…8863 session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: 收到通知（\"鸡娃\"历史任务，与当前无关）。 --- ## 📊 《创造力就是玩》任务完成 由于你尚未回复，我将直接发送文章预览供你查看： ---",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:52:08.479Z",
+      "lastRecalledAt": "2026-04-13T19:52:08.479Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "通知",
+        "历史",
+        "任务",
+        "当前",
+        "无关",
+        "创造",
+        "就是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:54 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…421f session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:56:11.659Z",
+      "lastRecalledAt": "2026-04-13T19:56:11.659Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ 配图任务完成！ 收到 mi-hua 配图任务成功完成的通知！ --- ## 🎉 完整交付报告 ### ✅ 文章创作 **《创造力就是玩：为什么AI时代更需要游戏思维》** - 📝 字数：约 3200 字 - 📚 章节：8 个 + 5 个金句 - ✅ 规范：严格遵循标题层级 --- ### ✅ 配图生成（6张全部完成） | 序号 | 文件名 | 尺寸 | 主题 | |------|----------|------|------| | 1 | `00_cover.png` | 900×383 | 游戏感 + 创意元素",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:56:11.659Z",
+      "lastRecalledAt": "2026-04-13T19:56:11.659Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-hua",
+        "00-cover.png",
+        "任务",
+        "完成",
+        "收到",
+        "hua",
+        "成功",
+        "通知"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: [Mon 2026-04-13 04:54 GMT+8] <<<BEGIN_OPENCLAW_INTERNAL_CONTEXT>>> OpenClaw runtime context (internal): This context is runtime-generated, not user-authored. Keep internal details private. [Internal task completion event] source: subagent session_key: agent:…421f session_id",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:56:11.659Z",
+      "lastRecalledAt": "2026-04-13T19:56:11.659Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "begin-openclaw-internal-context",
+        "runtime-generated",
+        "user-authored",
+        "session-key",
+        "session-id",
+        "mon",
+        "gmt",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **配图任务确认** 所有 6 张配图已生成完成！ --- ## 📂 交付文件已就绪 **文章**：`~/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/2026-04-12-创造力就是玩.md` **配图**：`mi-xin/03-内容工厂/3-配图成品区/`（6张图） --- ## 🎯 下一步 **推荐：手动发布** 1. 打开 Obsidian 同步的文章文件 2. 复制到微信编辑器 3. 上传配图（6张图已就绪） 4. 发布 其他选项： - **2** - 发送文章预览 - **3",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:56:11.659Z",
+      "lastRecalledAt": "2026-04-13T19:56:11.659Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-xin/03-内容工厂/3-配图成品区",
+        "任务",
+        "确认",
+        "所有",
+        "生成",
+        "完成",
+        "交付",
+        "文件"
+      ]
+    },
+    "memory:memory/2026-04-14.md:373:376": {
+      "key": "memory:memory/2026-04-14.md:373:376",
+      "path": "memory/2026-04-14.md",
+      "startLine": 373,
+      "endLine": 376,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 70 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:56:11.659Z",
+      "lastRecalledAt": "2026-04-13T20:20:26.338Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ]
+    },
+    "memory:memory/2026-04-14.md:379:379": {
+      "key": "memory:memory/2026-04-14.md:379:379",
+      "path": "memory/2026-04-14.md",
+      "startLine": 379,
+      "endLine": 379,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:56:11.659Z",
+      "lastRecalledAt": "2026-04-13T20:20:26.338Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-14.md:363:366": {
+      "key": "memory:memory/2026-04-14.md:363:366",
+      "path": "memory/2026-04-14.md",
+      "startLine": 363,
+      "endLine": 366,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 71 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T20:20:26.338Z",
+      "lastRecalledAt": "2026-04-13T20:50:26.337Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ]
+    },
+    "memory:memory/2026-04-14.md:369:369": {
+      "key": "memory:memory/2026-04-14.md:369:369",
+      "path": "memory/2026-04-14.md",
+      "startLine": 369,
+      "endLine": 369,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T20:20:26.338Z",
+      "lastRecalledAt": "2026-04-13T20:50:26.337Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-15.md:358:361": {
+      "key": "memory:memory/2026-04-15.md:358:361",
+      "path": "memory/2026-04-15.md",
+      "startLine": 358,
+      "endLine": 361,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 72 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 3,
+      "groundedCount": 0,
+      "totalScore": 1.8599999999999999,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T16:15:36.034Z",
+      "lastRecalledAt": "2026-04-22T19:51:53.404Z",
+      "queryHashes": [
+        "4c4c0cb04efa"
+      ],
+      "recallDays": [
+        "2026-04-15",
+        "2026-04-14",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ],
+      "promotedAt": "2026-04-22T19:23:19.846Z"
+    },
+    "memory:memory/2026-04-15.md:364:364": {
+      "key": "memory:memory/2026-04-15.md:364:364",
+      "path": "memory/2026-04-15.md",
+      "startLine": 364,
+      "endLine": 364,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 3,
+      "groundedCount": 0,
+      "totalScore": 1.8599999999999999,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T16:15:36.034Z",
+      "lastRecalledAt": "2026-04-22T19:51:53.404Z",
+      "queryHashes": [
+        "4c4c0cb04efa"
+      ],
+      "recallDays": [
+        "2026-04-15",
+        "2026-04-14",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:19.846Z"
+    },
+    "memory:memory/2026-04-16.md:358:361": {
+      "key": "memory:memory/2026-04-16.md:358:361",
+      "path": "memory/2026-04-16.md",
+      "startLine": 358,
+      "endLine": 361,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 73 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-15T16:50:33.849Z",
+      "lastRecalledAt": "2026-04-16T00:35:54.131Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ]
+    },
+    "memory:memory/2026-04-16.md:364:364": {
+      "key": "memory:memory/2026-04-16.md:364:364",
+      "path": "memory/2026-04-16.md",
+      "startLine": 364,
+      "endLine": 364,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-15T16:50:33.849Z",
+      "lastRecalledAt": "2026-04-16T00:35:54.131Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-16.md:38:41": {
+      "key": "memory:memory/2026-04-16.md:38:41",
+      "path": "memory/2026-04-16.md",
+      "startLine": 38,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 74 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T00:35:54.131Z",
+      "lastRecalledAt": "2026-04-23T23:41:53.304Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ],
+      "promotedAt": "2026-04-22T19:23:19.846Z"
+    },
+    "memory:memory/2026-04-16.md:44:44": {
+      "key": "memory:memory/2026-04-16.md:44:44",
+      "path": "memory/2026-04-16.md",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T00:35:54.131Z",
+      "lastRecalledAt": "2026-04-23T23:41:53.304Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:19.846Z"
+    },
+    "memory:memory/2026-04-17.md:38:41": {
+      "key": "memory:memory/2026-04-17.md:38:41",
+      "path": "memory/2026-04-17.md",
+      "startLine": 38,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 74 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.095Z",
+      "lastRecalledAt": "2026-04-16T19:53:55.095Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ]
+    },
+    "memory:memory/2026-04-17.md:44:44": {
+      "key": "memory:memory/2026-04-17.md:44:44",
+      "path": "memory/2026-04-17.md",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.095Z",
+      "lastRecalledAt": "2026-04-16T19:53:55.095Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-17.md:48:51": {
+      "key": "memory:memory/2026-04-17.md:48:51",
+      "path": "memory/2026-04-17.md",
+      "startLine": 48,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 76 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-12.txt:2-2, memory/.dreams/session-corpus/2026-04-12.txt:3-3, memory/.dreams/session-corpus/2026-04-12.txt:4-4; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.095Z",
+      "lastRecalledAt": "2026-04-23T23:41:53.304Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "4-4",
+        "reflections",
+        "theme",
+        "kept",
+        "surfacing"
+      ],
+      "promotedAt": "2026-04-22T19:23:19.846Z"
+    },
+    "memory:memory/2026-04-17.md:54:54": {
+      "key": "memory:memory/2026-04-17.md:54:54",
+      "path": "memory/2026-04-17.md",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.095Z",
+      "lastRecalledAt": "2026-04-23T23:41:53.304Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:19.846Z"
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 帮我把这篇文章发布到公众号，根据GZH—sop,https://mp.weixin.qq.com/s/_DPN-f-gxAQXL425HiFJ2g",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "mp.weixin.qq.com/s",
+        "dpn-f-gxaqxl425hifj2g",
+        "我把",
+        "这篇文章",
+        "发布",
+        "公众",
+        "根据",
+        "gzh"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 收到任务，我来按照 GZH SOP 将这篇文章发布到公众号。 让我先读取必要的工作文档：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "收到",
+        "任务",
+        "我来",
+        "按照",
+        "gzh",
+        "sop",
+        "这篇文章",
+        "发布"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 好的，我来处理这个发布任务。 根据 SOP V3.3.0，我将按照**专业通道**流程处理（涉及真实内容发布，需要质量保证）。 让我先抓取这篇文章：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "v3.3.0",
+        "好的",
+        "我来",
+        "处理",
+        "这个",
+        "发布",
+        "任务",
+        "根据"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 好的，文章已抓取并保存到素材库。 现在我将这篇文章直接发布到公众号：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "好的",
+        "文章",
+        "抓取",
+        "保存",
+        "素材",
+        "现在",
+        "这篇文章",
+        "直接"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 太好了！文章创作完成。让我查看一下初稿内容：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "太好了",
+        "文章",
+        "创作",
+        "完成",
+        "查看",
+        "一下",
+        "初稿",
+        "内容"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 很好！初稿已经完成。现在让我： 1. 在文章中插入配图占位符 2. 生成配图 3. 发布到公众号 先插入配图占位符：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "很好",
+        "初稿",
+        "已经",
+        "完成",
+        "现在",
+        "文章",
+        "插入",
+        "占位"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 太好了！配图生成完成。现在让我验证配图并准备发布：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "太好了",
+        "生成",
+        "完成",
+        "现在",
+        "验证",
+        "准备",
+        "发布"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 完美！所有配图已生成。现在进行**事实核查**（SOP强制环节）：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "完美",
+        "所有",
+        "生成",
+        "现在",
+        "进行",
+        "事实",
+        "核查",
+        "sop"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 现在进行**事实核查**（SOP强制环节）。让我验证文章中的关键信息：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "现在",
+        "进行",
+        "事实",
+        "核查",
+        "sop",
+        "强制",
+        "环节",
+        "验证"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 现在进行**排版预检**并修复标题层级：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "现在",
+        "进行",
+        "排版",
+        "修复",
+        "标题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: 现在准备发布到公众号。让我使用 **wechat-markdown-pro** 进行发布：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "wechat-markdown-pro",
+        "现在",
+        "准备",
+        "发布",
+        "公众",
+        "使用",
+        "wechat",
+        "markdown"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: ❌ **发布失败 - IP 白名单问题** 这是最常见的配置问题（MEMORY.md 中已记录为\"坑 2\"）。 **错误信息**： ``` errcode: 40164 errmsg: invalid ip 45.59.184.214, not in whitelist ``` **解决方法**： 1. **登录公众号后台** 访问：https://mp.weixin.qq.com 2. **进入开发配置** - 左侧菜单 → 「开发」→ 「基本配置」 3. **添加IP白名单** - 找到「IP白名单」设置 - 添加当前IP：`4",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:01:33.344Z",
+      "lastRecalledAt": "2026-04-29T19:01:33.344Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "45.59.184.214",
+        "mp.weixin.qq.com",
+        "发布",
+        "失败",
+        "名单",
+        "问题",
+        "常见"
+      ]
+    }
+  }
+}

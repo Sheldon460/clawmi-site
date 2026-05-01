@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-01",
+  "platform": "微信公众号",
+  "articles": [
+    {
+      "title": "AI购物的3个陷阱：为什么我不建议你现在All in GEO",
+      "author": "陈同学AGI",
+      "media_id": "_9ibZdusdmeqZ4ujHJe6rpea3HTfLOvAyaMFZYGYbgXsjShojrEnCoVk4xLe6-oC",
+      "word_count": 2500,
+      "published_at": "2026-04-01T13:45:00+08:00",
+      "source": "刘润《当豆包真的开始卖货》爆款拆解",
+      "tags": ["AI", "GEO", "电商", "豆包", "趋势分析"],
+      "fact_checked": true,
+      "workflow_version": "SOP V3.2.2",
+      "agents_involved": ["mi-xin"],
+      "images_count": 6
+    }
+  ],
+  "daily_stats": {
+    "total_articles": 1,
+    "total_word_count": 2500,
+    "avg_production_time": "约90分钟"
+  },
+  "notes": "今日成功发布1篇反常识观点文章，承接刘润AI购物话题热度"
+}

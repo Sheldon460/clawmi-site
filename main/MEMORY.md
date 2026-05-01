@@ -34,3 +34,12 @@
 
 *最后更新: 2026-03-08*
 *迭代状态*: mi-shu-data 完成深度迭代 V1.1
+
+## Promoted From Short-Term Memory (2026-04-24)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-17.md:54:54 -->
+- - recalls: 0 - status: staged - Candidate: 成功指标: **3个月**: Prompt模板≥50个，月度任务≥100个，使用率≥70%; **6个月**: 成功率≥85%，满意度≥4.0，效率提升≥30%; **12个月**: 知识库≥1000篇，月度优化≥10次，复用率≥40% - confidence: 0.00 - evidence: memory/2026-04-17.md:49-51 - recalls: 0 - status: staged - Candidate: 用户反馈: 安东尼确认需求拆解正确 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-17.md:112-119]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-17.md:57:59 -->
+- - recalls: 0 - status: staged - Candidate: 用户反馈: 安东尼确认需求拆解正确 - confidence: 0.00 - evidence: memory/2026-04-17.md:54-54 - recalls: 0 - status: staged - Candidate: 待跟进事项: [ ] 第一阶段启动支持（Skill安装、知识库创建）; [ ] 运营试点期间的监控与优化; [ ] 数据分析能力上线后的效果追踪 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-17.md:117-124]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-17.md:62:65 -->
+- - recalls: 0 - status: staged - Candidate: 待跟进事项: [ ] 第一阶段启动支持（Skill安装、知识库创建）; [ ] 运营试点期间的监控与优化; [ ] 数据分析能力上线后的效果追踪 - confidence: 0.00 - evidence: memory/2026-04-17.md:57-59 - recalls: 0 - status: staged - Candidate: 经验总结: **需求拆解的重要性**: 必须先深度拆解用户需求，识别本质问题，才能制定有效方案; **技术选型的务实性**: 基于现有技术栈（OpenClaw + 飞书）最大化利用，避免引入过多新系统; **分阶段交付的必要性**: 10周分5阶段，每阶段有明确里程碑和交付物，降低实施风险; **Agent 协作的清晰性**: 每个角色职责明确，通信协议标准化，确保系统可维护性 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-17.md:122-129]

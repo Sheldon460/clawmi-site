@@ -1,0 +1,124 @@
+# Auto-Evolution 错峰定时任务配置
+# 生成时间: 2026-03-26 14:24
+# 执行标准: 零容忍
+
+# main - 系统总管
+0 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+0 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-ling - COO (延后 5 分钟)
+5 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+5 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# xiao-mi - 督办 (延后 10 分钟)
+10 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+10 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-zhi - CIO (延后 15 分钟)
+15 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+15 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-ma-arch - 架构 (延后 20 分钟)
+20 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+20 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-ma-code - 编程 (延后 25 分钟)
+25 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+25 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-wen - 内容 (延后 30 分钟)
+30 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+30 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-hua - 视觉 (延后 35 分钟)
+35 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+35 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-ying - 视频 (延后 40 分钟)
+40 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+40 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-sheng - 音频 (延后 45 分钟)
+45 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+45 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-xin - 微信 (延后 50 分钟)
+50 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+50 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-book - 小红书 (延后 55 分钟)
+55 23 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+55 15 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-tui - Twitter (00:00)
+0 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+0 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-pai - 短视频 (00:05)
+5 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+5 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-bo - 长视频 (00:10)
+10 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+10 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-hu - 知乎 (00:15)
+15 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+15 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-cai - 财务 (00:20)
+20 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+20 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-tou - 投资 (00:25)
+25 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+25 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-ce-invest - 行情 (00:30)
+30 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+30 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-shu-data - 数据 (00:35)
+35 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+35 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-fa - 法务 (00:40)
+40 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+40 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-ren - HR (00:45)
+45 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+45 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-site - 站点 (00:50)
+50 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+50 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-wei-sec - 安全 (00:55)
+55 0 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+55 16 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-wei-guard - 防御 (01:00)
+0 1 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+0 17 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-ce - 测试 (01:05)
+5 1 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+5 17 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-yun - DevOps (01:10)
+10 1 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+10 17 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# mi-dang - 知识 (01:15)
+15 1 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh daily >> ~/auto-evolution/cron.log 2>&1
+15 17 * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh noon >> ~/auto-evolution/cron.log 2>&1
+
+# 每小时检查 (所有 Agent 共享)
+0 * * * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh hourly >> ~/auto-evolution/cron.log 2>&1
+
+# 每周日 23:00 周度分析
+0 23 * * 0 /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh weekly >> ~/auto-evolution/cron.log 2>&1
+
+# 每月1日 23:00 月度报告
+0 23 1 * * /Volumes/My\ house/Users/Sheldon/.openclaw/skills/auto-evolution/scripts/cron-scheduler.sh monthly >> ~/auto-evolution/cron.log 2>&1

@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-20",
+  "agent": "xiao-mi",
+  "tasks": {
+    "midday_diary": {
+      "status": "in_progress",
+      "trigger_time": "12:02",
+      "cron_id": "130377f0-a324-41d7-8e71-6abc7d140088"
+    }
+  },
+  "system_health": {
+    "openclaw_gateway": "running",
+    "model_service": "bailian/kimi-k2.5",
+    "agents_active": 28
+  }
+}

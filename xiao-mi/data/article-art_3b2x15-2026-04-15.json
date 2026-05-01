@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_3b2x15",
+    "title": "Finding a parabola through two points with given slopes",
+    "link": "https://www.johndcook.com/blog/2026/04/14/artz-parabola/",
+    "pub_date": "2026-04-14T20:19:42+08:00",
+    "content": "<p>The Wikipedia article on modern triangle geometry has an image labled &#8220;Artz parabolas&#8221; with no explanation.</p>\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-medium\" src=\"https://www.johndcook.com/artz_triangle.png\" width=\"330\" height=\"247\" /></p>\n<p>A quick search didn&#8217;t turn up anything about Artz parabolas, but apparently the parabolas go through pairs of vertices with tangents parallel to the sides.</p>\n<p>The derivation is a little complicated, but here&#8217;s code that will find the parameters of a parabola</p>\n<p style=\"padding-left: 40px;\"><em>ax</em>² + <em>bxy</em> + <em>cy</em>² + <em>dx</em> + <em>ey</em> + <em>f</em> = 0</p>\n<p>that passes through (<em>x</em><sub><em>i</em></sub>, <em>y</em><sub><em>i</em></sub>) with slope <em>m</em><sub><em>i</em></sub> for <em>i</em> = 1, 2.</p>\n<pre>def solve(x1, y1, m1, x2, y2, m2):\r\n    \r\n    Δx = x2 - x1\r\n    Δy = y2 - y1\r\n    λ = 4*(Δx*m1 - Δy)*(Δx*m2 - Δy)/(m1 - m2)**2\r\n    k = x2*y1 - x1*y2\r\n\r\n    a = Δy**2 + λ*m1*m2\r\n    b = -2*Δx*Δy - λ*(m1 + m2)\r\n    c = Δx**2 + λ\r\n    d =  2*k*Δy + λ*(m1*y2 + m2*y1 - m1*m2*(x1 + x2))\r\n    e = -2*k*Δx + λ*(m1*x1 + m2*x2 - y1 - y2)\r\n    f = k**2 + λ*(m1*x1 - y1)*(m2*x2 - y2)\r\n\r\n    return (a, b, c, d, e, f)\r\n</pre>The post <a href=\"https://www.johndcook.com/blog/2026/04/14/artz-parabola/\">Finding a parabola through two points with given slopes</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>.",
+    "content_snippet": "The Wikipedia article on modern triangle geometry has an image labled &#8220;Artz parabolas&#8221; with no explanation. A quick search didn&#8217;t turn up anything about Artz parabolas, but apparently the parabolas go through pairs of vertices with tangents parallel to the sides. The derivation is...",
+    "source": "johndcook.com",
+    "source_url": "https://johndcook.com",
+    "category": "Essays",
+    "author": "John",
+    "likes": 9,
+    "bookmark_count": 0,
+    "url": "/article/art_3b2x15",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_3b2x15/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_3b2x15\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

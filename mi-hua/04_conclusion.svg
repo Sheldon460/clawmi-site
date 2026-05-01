@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="#fafafa"/>
+  <text x="512" y="60" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="36" fill="#333">Decision Guide</text>
+  <rect x="100" y="150" width="250" height="300" rx="15" fill="#4caf50" opacity="0.9"/>
+  <text x="225" y="200" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="20" fill="white">Switch Now</text>
+  <text x="225" y="250" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Power Users</text>
+  <text x="225" y="280" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Multi-tasking</text>
+  <rect x="387" y="150" width="250" height="300" rx="15" fill="#ff9800" opacity="0.9"/>
+  <text x="512" y="200" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="20" fill="white">Wait &amp; See</text>
+  <text x="512" y="250" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Casual Users</text>
+  <text x="512" y="280" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Occasional Use</text>
+  <rect x="674" y="150" width="250" height="300" rx="15" fill="#2196f3" opacity="0.9"/>
+  <text x="799" y="200" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="20" fill="white">Stay Put</text>
+  <text x="799" y="250" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Satisfied</text>
+  <text x="799" y="280" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Simple Needs</text>
+</svg>

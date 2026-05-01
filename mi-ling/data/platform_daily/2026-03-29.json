@@ -1,0 +1,42 @@
+{
+  "date": "2026-03-29",
+  "platforms": {
+    "wechat": {
+      "posts": 0,
+      "reads": 0,
+      "shares": 0,
+      "likes": 0
+    },
+    "xiaohongshu": {
+      "posts": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "saves": 0
+    },
+    "x": {
+      "posts": 0,
+      "impressions": 0,
+      "engagements": 0,
+      "followers": 0
+    },
+    "bilibili": {
+      "videos": 0,
+      "views": 0,
+      "likes": 0,
+      "coins": 0,
+      "favorites": 0
+    },
+    "douyin": {
+      "videos": 0,
+      "views": 0,
+      "likes": 0,
+      "shares": 0
+    }
+  },
+  "summary": {
+    "notes": "午间初始化，待晚间更新实际数据",
+    "updated_at": "2026-03-29T13:35:00+08:00",
+    "midday_check": "completed"
+  }
+}

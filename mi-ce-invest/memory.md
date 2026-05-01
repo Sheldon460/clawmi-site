@@ -7,3 +7,8 @@
   - stock-analysis: 深度分析 (8 维评分体系)
   - hk-ai-stock-expert: 港股 AI 投研 (南向资金分析)
   - a-stock-monitor: A 股量化监控 (多因子选股)
+
+## Promoted From Short-Term Memory (2026-04-24)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-17.md:153:153 -->
+- - Candidate: Possible Lasting Truths: No strong candidate truths surfaced. [score=0.857 recalls=0 avg=0.620 source=memory/2026-04-17.md:103-103]

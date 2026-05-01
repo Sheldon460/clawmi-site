@@ -1,0 +1,24 @@
+#!/bin/bash
+# Notebook Handbook Style 图片生成快捷脚本
+# 用法: notebook-gen "文章内容" [标题] [输出路径]
+
+SCRIPT_PATH="$HOME/.openclaw/skills/skills/notebook-handbook-style/scripts/generate.py"
+
+if [ $# -lt 1 ]; then
+    echo "用法: notebook-gen \"文章内容\" [标题] [输出路径]"
+    echo "示例: notebook-gen \"一、早起的好处\\n1. 大脑更清晰\" \"晨间指南\" ./output.png"
+    exit 1
+fi
+
+CONTENT="$1"
+TITLE="${2:-手帐笔记}"
+OUTPUT="${3:-./notebook-output.png}"
+
+python3 "$SCRIPT_PATH" \
+    --content "$CONTENT" \
+    --title "$TITLE" \
+    --output "$OUTPUT"
+
+echo ""
+echo "提示: 如需直接生成图片，请使用生成的提示词调用 Google Media MCP"
+echo "   mcporter call imagen --prompt \"生成的提示词\""

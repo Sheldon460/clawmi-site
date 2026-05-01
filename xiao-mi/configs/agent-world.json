@@ -1,0 +1,20 @@
+{
+  "agent_world": {
+    "api_key": "agent-world-e98608f82a500e190fa526d178704930892b93fa471ccf62",
+    "agent_id": "405fc01f-e1dd-4fc8-b811-c9f390e0b61a",
+    "username": "claw-mi",
+    "registered_at": "2026-04-09T01:20:58.404952+08:00"
+  },
+  "sites": {
+    "entropcamp": {
+      "base_url": "https://entrocamp.coze.site/api/v1",
+      "status": "registered",
+      "last_visit": null
+    },
+    "inkwell": {
+      "base_url": "https://inkwell.coze.site/api/v1",
+      "status": "registered",
+      "last_visit": null
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "files": {
+    "mi-dang:sessions/012ac7d0-a900-4298-a220-268f539f2fce.jsonl.reset.2026-03-24T14-56-03.690Z": {
+      "mtimeMs": 1774237799152,
+      "size": 385501,
+      "contentHash": "7eda9a62417497f22179684c8086fd28a5955fb446ef19eafbb22229f19d12ff",
+      "lineCount": 37,
+      "lastContentLine": 37
+    },
+    "mi-dang:sessions/07943883-9912-448b-87bc-d6978cc4c7c6.jsonl.reset.2026-03-20T22-26-45.692Z": {
+      "mtimeMs": 1774024698107,
+      "size": 424309,
+      "contentHash": "f32fca534e6983e8886572670baea632331be9e3f2a4fc6b8fac6ce2b624a7db",
+      "lineCount": 29,
+      "lastContentLine": 29
+    },
+    "mi-dang:sessions/2e51a5b0-d584-4b7b-8473-fa9a90f9fd5a.jsonl.reset.2026-03-24T21-42-10.003Z": {
+      "mtimeMs": 1774377301893,
+      "size": 292355,
+      "contentHash": "2f3018866f3489d76daa13f5cea1efaa9b8f938b37f56047b879d7f503187d88",
+      "lineCount": 36,
+      "lastContentLine": 36
+    },
+    "mi-dang:sessions/51fd9396-4669-4130-9b4c-83e07444fc03.jsonl.reset.2026-03-19T19-05-13.348Z": {
+      "mtimeMs": 1773860316942,
+      "size": 319665,
+      "contentHash": "6ab0749c40d9572a2c060784d9175ef12266ffddf1ca2d7db8ea2a272ba38211",
+      "lineCount": 39,
+      "lastContentLine": 39
+    },
+    "mi-dang:sessions/7001b331-48b1-4371-ad58-c9aa7a1b8d17.jsonl": {
+      "mtimeMs": 1775882625913,
+      "size": 106226,
+      "contentHash": "6d4cae5489e40018f087730b72c7a9b66605618c73131d4e4f7c7b359f04776f",
+      "lineCount": 13,
+      "lastContentLine": 13
+    },
+    "mi-dang:sessions/79237bff-ee2d-4a85-9a77-de9459384a95.jsonl.reset.2026-04-08T14-49-03.185Z": {
+      "mtimeMs": 1775546777366,
+      "size": 326047,
+      "contentHash": "f18fa453f9ec253f48dcc0e9a5f6dd50f0bdb84a330d91f259c5dd447df640cf",
+      "lineCount": 14,
+      "lastContentLine": 14
+    },
+    "mi-dang:sessions/92ca5c9f-7c27-4c88-b3a2-74140967f122.jsonl.reset.2026-03-20T16-02-40.823Z": {
+      "mtimeMs": 1773947206910,
+      "size": 19511,
+      "contentHash": "b70cb16957380a4f0559a9172914128152c06d5a184f898bcba7ff30891f2f02",
+      "lineCount": 9,
+      "lastContentLine": 9
+    },
+    "mi-dang:sessions/9897cc1f-08af-45af-b1be-1bc0646a5fde.jsonl": {
+      "mtimeMs": 1774858645422,
+      "size": 56543,
+      "contentHash": "61c8f42aa46143414570fda4a056cd5b1c987550e9dafa50599e7615e79978bf",
+      "lineCount": 5,
+      "lastContentLine": 5
+    },
+    "mi-dang:sessions/9dbdf285-8ea2-47d2-a1be-2f7513d2724e.jsonl.reset.2026-03-18T18-18-21.095Z": {
+      "mtimeMs": 1773091689000,
+      "size": 40733,
+      "contentHash": "09845ac2c252321564fcd373cca57b452ecde7fd8948a8ee566ae90b922578db",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "mi-dang:sessions/ac4c65cc-9574-4ed8-bb25-092fdbb8161c.jsonl.reset.2026-04-07T05-51-11.062Z": {
+      "mtimeMs": 1775223099675,
+      "size": 6249,
+      "contentHash": "99f91954697ab159c44c1e0d5fdeb95f5b859066444e7fb1d0aec2caa6418643",
+      "lineCount": 6,
+      "lastContentLine": 6
+    },
+    "mi-dang:sessions/b515d0be-69c9-4891-927c-a940dd965d7f.jsonl.reset.2026-04-11T04-27-54.105Z": {
+      "mtimeMs": 1775808345744,
+      "size": 39396,
+      "contentHash": "d41d3502b4f3fa3a30850b49d66f7ef19ade8eafb615fd13740395de787d96e4",
+      "lineCount": 3,
+      "lastContentLine": 3
+    },
+    "mi-dang:sessions/b83fa237-94ea-4d5f-9d97-39e910df95d0.jsonl.reset.2026-03-23T03-05-41.716Z": {
+      "mtimeMs": 1774071995703,
+      "size": 879744,
+      "contentHash": "e1b2373304f6227ced475dbdeb795bc7a4e1c14788e8570c67b93a725cd26109",
+      "lineCount": 61,
+      "lastContentLine": 61
+    },
+    "mi-dang:sessions/c0654935-6309-4a7a-9b4d-95ac5b86187f.jsonl.reset.2026-04-10T08-00-37.791Z": {
+      "mtimeMs": 1775694276923,
+      "size": 19988,
+      "contentHash": "bc4d38eae329536bca8eabf8aa7a5ede3c19065de47357f5da176d6afc7cfce3",
+      "lineCount": 4,
+      "lastContentLine": 4
+    },
+    "mi-dang:sessions/c46f31a4-ca43-47a8-8ccb-d4214afcfaeb.jsonl.reset.2026-03-09T21-27-11.817Z": {
+      "mtimeMs": 1773075711000,
+      "size": 112168,
+      "contentHash": "2dada9e1aa90a88deb998965bd86bc1bc7ae73d942c8db3ed99d5459f99d2b81",
+      "lineCount": 12,
+      "lastContentLine": 12
+    },
+    "mi-dang:sessions/ca37ea92-981a-4e5c-a3fc-35d53b1768e4.jsonl.reset.2026-03-27T10-32-27.176Z": {
+      "mtimeMs": 1773011655000,
+      "size": 23092,
+      "contentHash": "b1649835bd3a1e3e9e69c79bc1b38fa9322214bce9a214c9c55c6652b1fe77c9",
+      "lineCount": 6,
+      "lastContentLine": 6
+    },
+    "mi-dang:sessions/d39c740b-de73-430f-81de-c9a642e9f0a8.jsonl.reset.2026-04-09T00-23-18.972Z": {
+      "mtimeMs": 1775670775065,
+      "size": 137939,
+      "contentHash": "0592501d7585a561cb27dedb4b04cffb51d4905696c505370f6308e89717d295",
+      "lineCount": 6,
+      "lastContentLine": 6
+    },
+    "mi-dang:sessions/f482e8d5-558b-40dc-b6fe-06a6ebc1d81f.jsonl.reset.2026-03-30T08-14-33.870Z": {
+      "mtimeMs": 1774425541668,
+      "size": 263306,
+      "contentHash": "751237d24f238b5796517838c60f114972000c1003304c8715a8fa2af8c7bb8a",
+      "lineCount": 43,
+      "lastContentLine": 43
+    }
+  },
+  "seenMessages": {
+    "mi-dang:012ac7d0-a900-4298-a220-268f539f2fce": [],
+    "mi-dang:07943883-9912-448b-87bc-d6978cc4c7c6": [],
+    "mi-dang:2e51a5b0-d584-4b7b-8473-fa9a90f9fd5a": [],
+    "mi-dang:51fd9396-4669-4130-9b4c-83e07444fc03": [],
+    "mi-dang:7001b331-48b1-4371-ad58-c9aa7a1b8d17": [
+      "abee2ae1e49045ca7c8662afe0007ae8413fab78",
+      "171643ddcad364dd659f3531e6de7ede6bac102c",
+      "625ff317bbeb3fa2a40959d647a3aeb4804e5370",
+      "540304a23634b9a8d076634846e0bad8a696d59e",
+      "1fef0acedd65708ef6aad66c01ca9561a612f51c",
+      "0bff37ed36443608621824953cf9a97b2acb2fdd",
+      "b53a823e4d271a3174d84960f56616c483c6b800",
+      "18356d3eac9174f6c006b5b5fbb8f34b1d6852a6",
+      "6bb1b281629477ff0163f981c858390f4d91f092",
+      "716d5bbccde723d77d1f7dfc8dace44ed152b2b5",
+      "4e8035dd21d28524537ff8ec00d53821e5d88c77",
+      "3df4a3858245f35ea45116898cb099b43b96c8ac",
+      "f6b0fc715e6a622a025452d27c3bce8ebf453b8a"
+    ],
+    "mi-dang:79237bff-ee2d-4a85-9a77-de9459384a95": [],
+    "mi-dang:92ca5c9f-7c27-4c88-b3a2-74140967f122": [],
+    "mi-dang:9897cc1f-08af-45af-b1be-1bc0646a5fde": [],
+    "mi-dang:9dbdf285-8ea2-47d2-a1be-2f7513d2724e": [],
+    "mi-dang:ac4c65cc-9574-4ed8-bb25-092fdbb8161c": [],
+    "mi-dang:b515d0be-69c9-4891-927c-a940dd965d7f": [],
+    "mi-dang:b83fa237-94ea-4d5f-9d97-39e910df95d0": [],
+    "mi-dang:c0654935-6309-4a7a-9b4d-95ac5b86187f": [],
+    "mi-dang:c46f31a4-ca43-47a8-8ccb-d4214afcfaeb": [],
+    "mi-dang:ca37ea92-981a-4e5c-a3fc-35d53b1768e4": [],
+    "mi-dang:d39c740b-de73-430f-81de-c9a642e9f0a8": [],
+    "mi-dang:f482e8d5-558b-40dc-b6fe-06a6ebc1d81f": []
+  }
+}

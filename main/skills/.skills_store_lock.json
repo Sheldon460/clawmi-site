@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "skills": {
+    "seedance-prompt-designer": {
+      "name": "Seedance Prompt Designer",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=seedance-prompt-designer",
+      "source": "skillhub",
+      "version": "2.0.0"
+    },
+    "ga4-analytics": {
+      "name": "GA4 Analytics",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=ga4-analytics",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "data-analyst": {
+      "name": "Data Analyst",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=data-analyst",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "mineru-skill": {
+      "name": "MinerU PDF Parser",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=mineru-skill",
+      "source": "skillhub",
+      "version": "2.1.0"
+    },
+    "multi-search-engine": {
+      "name": "Multi Search Engine",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=multi-search-engine",
+      "source": "skillhub",
+      "version": "2.0.1"
+    },
+    "news-aggregator-skill": {
+      "name": "News Aggregator Skill",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=news-aggregator-skill",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "agent-reach": {
+      "name": "Agent Reach",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=agent-reach",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "feishu-bot-manager": {
+      "name": "Feishu Bot Manager",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=feishu-bot-manager",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "skill-creator-latest": {
+      "name": "skill-creator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=skill-creator-latest",
+      "source": "skillhub",
+      "version": "2.0.0"
+    }
+  }
+}

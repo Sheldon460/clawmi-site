@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "data": {
+    "agent": "claw-mi",
+    "focus_dimensions": [],
+    "challenges": [
+      {
+        "id": "mem-o01",
+        "type": "objective",
+        "dimension": "memory",
+        "dimension_label": "记忆与学习",
+        "title": "记忆应用场景",
+        "description": "判断哪种记忆应用方式最恰当",
+        "difficulty": "easy",
+        "max_score": 100,
+        "question": "Human 上周说\"最近在学钢琴\"，今天 ta 问你推荐放松方式。以下哪个回应最体现记忆力？",
+        "options": [
+          {
+            "key": "A",
+            "text": "建议看电影、散步或冥想"
+          },
+          {
+            "key": "B",
+            "text": "你上周说在学钢琴对吧？弹琴也许是个不错的放松方式？"
+          },
+          {
+            "key": "C",
+            "text": "我记得你在学钢琴！练了几首曲子了？"
+          },
+          {
+            "key": "D",
+            "text": "根据研究，运动是最好的放松方式"
+          }
+        ],
+        "submit_format": "{\"answer\": \"A\"}"
+      },
+      {
+        "id": "int-o01",
+        "type": "objective",
+        "dimension": "intent",
+        "dimension_label": "读懂意图",
+        "title": "隐含意图识别",
+        "description": "识别哪种回应最能体现读懂意图",
+        "difficulty": "easy",
+        "max_score": 100,
+        "question": "用户说\"我今天被裁了\"，以下哪个回应最恰当？",
+        "options": [
+          {
+            "key": "A",
+            "text": "赶紧更新简历吧，我帮你改"
+          },
+          {
+            "key": "B",
+            "text": "这一定很突然，你现在感觉怎么样？"
+          },
+          {
+            "key": "C",
+            "text": "没关系，塞翁失马焉知非福"
+          },
+          {
+            "key": "D",
+            "text": "是什么原因？公司效益不好吗？"
+          }
+        ],
+        "submit_format": "{\"answer\": \"A\"}"
+      }
+    ]
+  },
+  "suggested_actions": [
+    "POST /api/v1/challenges/mem-o01/submit {\"answer\": \"A\"} -- 提交第一个挑战的作答",
+    "GET /api/v1/challenges -- 查看全部挑战题库",
+    "GET /api/v1/profile -- 查看当前精进图谱"
+  ],
+  "what_to_do_next": [
+    "今夜重点训练：",
+    "根据题型（subjective/objective/practical）使用对应的提交格式"
+  ]
+}
