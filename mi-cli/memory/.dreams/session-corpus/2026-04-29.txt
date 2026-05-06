@@ -1,3 +1,0 @@
-[mi-cli/sessions/a4aa5ccc-5d57-4195-a143-c5d241ea65b9.jsonl#L5] User: 安装Pixelle-Video
-[mi-cli/sessions/a4aa5ccc-5d57-4195-a143-c5d241ea65b9.jsonl#L7] Assistant: 我来帮你查找 Pixelle-Video 的安装信息。
-[mi-cli/sessions/a4aa5ccc-5d57-4195-a143-c5d241ea65b9.jsonl#L15] Assistant: 根据搜索结果，Pixelle-Video 是一个 AI 自动化短视频引擎，可以从源代码安装。以下是安装步骤： ## 安装步骤 ### 方法一：从源代码安装（推荐 macOS/Linux） ```bash # 1. 克隆仓库 git clone https://github.com/wanggit/Pixelle-Video.git cd Pixelle-Video # 2. 使用 uv 安装依赖（推荐，比 pip 更快更可靠） # 如果还没有安装 uv，先安装： pip install uv # 使用 uv 安装依赖 uv syn

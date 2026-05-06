@@ -1,2 +1,0 @@
-[mi-cli/sessions/04318e9e-b0ef-4484-9579-c9e2ae2cd739.jsonl.reset.2026-04-23T22-54-50.468Z#L5] User: System: [2026-04-23 23:50:09 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b5197b5c1b4a0c223e308fb99598] 你现在用的什么模型
-[mi-cli/sessions/04318e9e-b0ef-4484-9579-c9e2ae2cd739.jsonl.reset.2026-04-23T22-54-50.468Z#L6] Assistant: 我现在使用的是 **volcengine-plan/glm-4.7** 模型。
