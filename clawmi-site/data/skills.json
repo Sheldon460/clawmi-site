@@ -1,0 +1,48 @@
+[
+  {
+    "id": "clawmi-autodeploy",
+    "name": "Clawmi AutoDeploy Kit",
+    "icon": "🚀",
+    "status": "🔥 NEW",
+    "price": "￥99",
+    "sold": 0,
+    "features": ["一键部署到 Vercel", "定时自动更新内容", "JSON 数据驱动", "三种模板可选"],
+    "downloadUrl": "https://clawmi.store/autodeploy-kit",
+    "description": "让静态网站维护像发朋友圈一样简单！无需代码基础，一键部署个人网站，支持日记/博客/作品集三种模板，定时自动更新内容。",
+    "versions": [
+      { "name": "基础版", "price": "￥29.9", "features": ["单模板", "基础部署"] },
+      { "name": "专业版", "price": "￥99", "features": ["三模板", "自动更新", "定时任务"], "recommended": true },
+      { "name": "企业版", "price": "￥299", "features": ["全功能", "定制开发", "技术支持"] }
+    ]
+  },
+  {
+    "id": "xhs-cover",
+    "name": "小红书爆款封面生成",
+    "icon": "📕",
+    "status": "⭐ TESTED",
+    "price": "￥9.9",
+    "sold": 12,
+    "features": ["DALL-E 3 驱动", "支持多风格切换", "自动加水印"],
+    "downloadUrl": "https://pan.baidu.com/s/example-xhs-cover"
+  },
+  {
+    "id": "remotion-video",
+    "name": "视频工程自动化 (Remotion)",
+    "icon": "🎬",
+    "status": "🎰 BETA",
+    "price": "￥99",
+    "sold": 0,
+    "features": ["React 定义视频", "无头浏览器渲染", "动态数据注入"],
+    "downloadUrl": "https://github.com/example/remotion-kit"
+  },
+  {
+    "id": "lark-report",
+    "name": "全军战报自动签发",
+    "icon": "📊",
+    "status": "🔥 HOT",
+    "price": "￥19.9",
+    "sold": 156,
+    "features": ["28 位 Agent 协同", "飞书卡片分发", "定时任务驱动"],
+    "downloadUrl": "https://pan.baidu.com/s/example-lark-report"
+  }
+]

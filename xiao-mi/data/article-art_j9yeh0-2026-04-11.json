@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_j9yeh0",
+    "title": "Distribution of digits in fractions",
+    "link": "https://www.johndcook.com/blog/2026/04/10/fraction-digits/",
+    "pub_date": "2026-04-10T22:29:49+08:00",
+    "content": "<p>There&#8217;s a lot of mathematics just off the beaten path. You can spend a career in math and yet not know all there is to know about even the most basic areas of math. For example, this post will demonstrate something you may not have seen about decimal forms of fractions.</p>\n<p>Let <em>p</em> &gt; 5 be a prime number and 0 &lt; <em>k</em> &lt; <em>p</em>. Then the digits in <em>k</em>/<em>p</em> might be the same for all <em>k</em>, varying only by cyclic permutations. This is the case, for example, when <em>p</em> = 7 or <em>p</em> = 17. More on these kinds of fractions <a href=\"https://www.johndcook.com/blog/2014/11/12/cyclic-fractions/\">here</a>.</p>\n<p>The digits in <em>k</em>/<em>p</em> repeat for every <em>k</em>, but different values of <em>k</em> might have sequences of digits that vary by more than cyclic permutations. For example, let&#8217;s look at the values of <em>k</em>/13.</p>\n<pre>&gt;&gt;&gt; for i in range(1, 13):\r\n...   print(i/13)\r\n...\r\n 1 0.0769230769230769\r\n 2 0.1538461538461538\r\n 3 0.2307692307692307\r\n 4 0.3076923076923077\r\n 5 0.3846153846153846\r\n 6 0.4615384615384615\r\n 7 0.5384615384615384\r\n 8 0.6153846153846154\r\n 9 0.6923076923076923\r\n10 0.7692307692307693\r\n11 0.8461538461538461\r\n12 0.9230769230769231\r\n</pre>\n<p>One cycle goes through the digits 076923. You&#8217;ll see this when <em>k</em> = 1, 3, 4, 9, 10, or 11. The other cycle goes through 153846 for the rest of the values of <em>k</em>. The cycles 076923 and 153846 are called the <strong>distinct repeating sets</strong> of 13 in [1].</p>\n<p>If we look at fractions with denominator 41, thee are six distinct repeating sets.</p>\n<pre>02439\r\n04878\r\n07317\r\n09756\r\n12195\r\n14634\r\n26829\r\n36585\r\n</pre>\n<p>You could find these by modifying the Python code above. However, in general you&#8217;ll need more than default precision to see the full periods. You might want to shift over to <code>bc</code>, for example.</p>\n<p>When you look at all the distinct repeating sets of a prime number, all digits appear almost the same number of times. Some digits may appear one more time than others, but that&#8217;s as uneven as you can get. A corollary in [1] states that if <em>p</em> = 10<em>q</em> + <em>r</em>, with 0 &lt; <em>r</em> &lt; 10, then 11 − <em>r</em> digits appear <em>q</em> times, and <em>r</em> − 1 digits appear <em>q</em> times.</p>\n<p>Looking back at the example with <em>p</em> = 13, we have <em>q</em> = 1 and <em>r</em> = 3. The corollary says we should expect 8 digits to appear once and 2 digits to appear twice. And that&#8217;s what we see: in the sets 076923 and 153846 we have 3 and 6 repeated twice and the remaining 8 digits appear once.</p>\n<p>In the example with <em>p</em> = 41, we have <em>q</em> = 4 and <em>r</em> = 1. So we expect all 10 digits to appear 4 times, which is the case.</p>\n<h2>Related posts</h2>\n<ul>\n<li class=\"link\"><a href=\"https://www.johndcook.com/blog/2014/11/12/cyclic-fractions/\">Cyclic fractions</a></li>\n<li class=\"link\"><a href=\"https://www.johndcook.com/blog/2016/10/18/periods-of-fractions/\">Periods of fractions</a></li>\n<li class=\"link\"><a href=\"https://www.johndcook.com/blog/2018/05/30/calendars-and-continued-fractions/\">Calendars and continued fractions</a></li>\n</ul>\n<p>[1] James K. Schiller. A Theorem in the Decimal Representation of Rationals. The American Mathematical Monthly<br />\nVol. 66, No. 9 (Nov., 1959), pp. 797-798</p>The post <a href=\"https://www.johndcook.com/blog/2026/04/10/fraction-digits/\">Distribution of digits in fractions</a> first appeared on <a href=\"https://www.johndcook.com/blog\">John D. Cook</a>.",
+    "content_snippet": "There&#8217;s a lot of mathematics just off the beaten path. You can spend a career in math and yet not know all there is to know about even the most basic areas of math. For example, this post will demonstrate something you may not have seen about decimal forms of fractions. Let p &gt; 5 be a...",
+    "source": "johndcook.com",
+    "source_url": "https://johndcook.com",
+    "category": "Essays",
+    "author": "John",
+    "likes": 4,
+    "bookmark_count": 0,
+    "url": "/article/art_j9yeh0",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_j9yeh0/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_j9yeh0\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}

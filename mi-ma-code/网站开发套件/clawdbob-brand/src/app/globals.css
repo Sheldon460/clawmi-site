@@ -1,0 +1,152 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 5.9% 10%;
+    --radius: 0.5rem;
+
+    /* ClawdBob Brand Colors */
+    --clawd-primary: 17 100% 60%;
+    --clawd-accent: 163 100% 42%;
+    --cyber-black: 240 33% 4%;
+    --cyber-dark: 240 20% 8%;
+    --cyber-gray: 240 15% 15%;
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--cyber-gray));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--clawd-primary));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--clawd-accent));
+}
+
+/* Custom Selection */
+::selection {
+  background: hsl(var(--clawd-primary) / 0.3);
+  color: hsl(var(--foreground));
+}
+
+/* Cyber Grid Background */
+.cyber-grid {
+  background-image: 
+    linear-gradient(rgba(255, 107, 53, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 107, 53, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+/* Glow Effects */
+.glow-clawd {
+  box-shadow: 0 0 20px rgba(255, 107, 53, 0.4),
+              0 0 40px rgba(255, 107, 53, 0.2);
+}
+
+.glow-accent {
+  box-shadow: 0 0 20px rgba(0, 212, 170, 0.4),
+              0 0 40px rgba(0, 212, 170, 0.2);
+}
+
+/* Animation Utilities */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+
+/* Chat Message Styles */
+.chat-message-user {
+  @apply bg-gradient-to-br from-clawd-primary/20 to-clawd-accent/20;
+}
+
+.chat-message-assistant {
+  @apply bg-cyber-gray/50;
+}
+
+/* Glass Effect */
+.glass {
+  @apply backdrop-blur-xl bg-background/80 border border-border/50;
+}
+
+.glass-dark {
+  @apply backdrop-blur-xl bg-cyber-dark/80 border border-cyber-gray/50;
+}
+
+/* Responsive Typography */
+.text-responsive-xl {
+  @apply text-3xl sm:text-4xl md

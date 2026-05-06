@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "files": {
+    "mi-cai:sessions/3474968c-6c2e-4a47-836a-388413d1dde7.jsonl.reset.2026-03-27T10-32-27.215Z": {
+      "mtimeMs": 1773010976000,
+      "size": 5350,
+      "contentHash": "a910af25c37c2a53f36eb5c89265cd0f250d9b0e0ca8cfe5d390705927039da7",
+      "lineCount": 2,
+      "lastContentLine": 2
+    }
+  },
+  "seenMessages": {
+    "mi-cai:3474968c-6c2e-4a47-836a-388413d1dde7": []
+  }
+}

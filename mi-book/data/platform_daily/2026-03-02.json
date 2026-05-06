@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-02",
+  "agent": "mi-book",
+  "task": "noon-materials",
+  "status": "completed",
+  "content": {
+    "theme": "周一职场重启效率工具包",
+    "title": "周一不想上班？试试这份「重启工具包」，亲测有效！",
+    "type": "资料分享",
+    "hashtags": ["周一上班", "职场日常", "打工人自救", "职场干货", "拒绝内卷", "效率工具", "时间管理"]
+  },
+  "metrics": {
+    "views": null,
+    "likes": null,
+    "collects": null,
+    "comments": null,
+    "followers": null,
+    "dm_requests": null
+  },
+  "notes": "封面图HTML设计已完成，待生成最终图片后执行发布",
+  "created_at": "2026-03-02T12:00:00+08:00",
+  "updated_at": "2026-03-02T12:15:00+08:00"
+}

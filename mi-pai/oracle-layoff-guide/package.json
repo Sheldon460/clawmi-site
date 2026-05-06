@@ -1,0 +1,18 @@
+{
+  "name": "oracle-layoff-guide",
+  "version": "1.0.0",
+  "description": "甲骨文裁员启示录 - Remotion视频项目",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm exec remotion preview",
+    "build": "pnpm exec remotion render MainVideo out/OracleLayoffGuide.mp4",
+    "start": "pnpm exec remotion server"
+  },
+  "dependencies": {
+    "remotion": "4.0.440",
+    "@remotion/cli": "4.0.440",
+    "@remotion/renderer": "4.0.440",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "video-pipeline",
+  "version": "1.0.0",
+  "description": "OpenClaw Video Pipeline - 短视频生成流水线",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "remotion preview",
+    "build": "remotion render",
+    "render": "remotion render Main",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/media": "^4.0.0",
+    "@remotion/transitions": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}

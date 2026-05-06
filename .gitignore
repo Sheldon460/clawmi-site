@@ -1,0 +1,5 @@
+
+# Large files that should not be committed
+**/node_modules/.remotion/chrome-headless-shell
+**/node_modules/@next/swc-*.node
+**/node_modules/.cache/webpack/*.pack

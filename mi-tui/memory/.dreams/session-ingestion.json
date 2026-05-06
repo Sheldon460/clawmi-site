@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "files": {
+    "mi-tui:sessions/a57f9ba4-ee44-4ea4-a6a8-ee6853673a8b.jsonl.reset.2026-03-27T10-32-27.454Z": {
+      "mtimeMs": 1773010899000,
+      "size": 5852,
+      "contentHash": "ec4564c072044ad1e941d5ea7741af2ec67bf9c19363ff5979bf3fa405b6eef8",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "mi-tui:sessions/a64c7a05-797d-45b0-bff8-b4c6f0bf38e0.jsonl.reset.2026-03-10T13-52-46.147Z": {
+      "mtimeMs": 1773084800000,
+      "size": 604531,
+      "contentHash": "abd0aa1ce2dca1efb69f885e07091bb0fcd8128c16cefd1f404807afbcad851e",
+      "lineCount": 75,
+      "lastContentLine": 75
+    },
+    "mi-tui:sessions/c03644df-105d-4fb6-88f6-0b68f004f6ce.jsonl.reset.2026-03-10T23-24-06.030Z": {
+      "mtimeMs": 1773155650000,
+      "size": 238834,
+      "contentHash": "48feecc722a669d0ba9cd1c8a97f81e9d5a593c19aabe7fc6b6a4c50f321f677",
+      "lineCount": 34,
+      "lastContentLine": 34
+    }
+  },
+  "seenMessages": {
+    "mi-tui:a57f9ba4-ee44-4ea4-a6a8-ee6853673a8b": [],
+    "mi-tui:a64c7a05-797d-45b0-bff8-b4c6f0bf38e0": [],
+    "mi-tui:c03644df-105d-4fb6-88f6-0b68f004f6ce": []
+  }
+}

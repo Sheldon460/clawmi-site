@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>幂家军 | 28位AI Agent特种部队</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+SC:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #FF6B35;
+            --primary-light: #FF8A5C;
+            --secondary: #1A1A2E;
+            --accent: #16213E;
+            --gold: #FFD700;
+            --bg-dark: #0F0F1A;
+            --bg-card: rgba(26, 26, 46, 0.6);
+            --text-primary: #FFFFFF;
+            --text-secondary: rgba(255, 255, 255, 0.7);
+            --border: rgba(255, 107, 53, 0.2);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Navigation */
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            padding: 1rem 2rem;
+            background: rgba(15, 15, 26, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: var(--text-primary);
+            text-decoration: none;
+        }
+
+        .logo-icon {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--primary), var(--gold));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-link:hover {
+            color: var(--primary);
+        }
+
+        .nav-cta {
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 50px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: transform 0.3s ease;
+        }
+
+        .nav-cta:hover {
+            transform: translateY(-2px);
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            padding: 8rem 2rem 4rem;
+            overflow: hidden;
+        }
+
+        .hero-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(ellipse at 20% 50%, rgba(255, 107, 53, 0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 50%, rgba(255, 215, 0, 0.1) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 100%, rgba(255, 107, 53, 0.1) 0%, transparent 50%);
+        }
+
+        .hero-grid {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                linear-gradient(rgba(255, 107, 53, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 107, 53, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 10;
+            text-align: center;
+            max-width: 1000px;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(255, 107, 53, 0.1);
+            border: 1px solid rgba(255, 107, 53, 0.3);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            font-size: 0.875rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+        }
+
+        .hero-title {
+            font-size: clamp(2.5rem, 6vw, 4.5rem);
+            font-weight: 900;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(135deg, #FFFFFF 0%, var(--primary) 50%, var(--gold) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.1rem, 2vw, 1.35rem);
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin: 0 auto 2.5rem;
+            line-height: 1.7;
+        }
+
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary), var(--gold));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-top: 0.25rem;
+        }
+
+        .hero-cta-group {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 1rem;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+            color: white;
+            box-shadow: 0 4px 20px rgba(255, 107, 53, 0.4);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 30px rgba(255, 107, 53, 0.5);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.3);
+        }
+
+        /* Services Section */
+        .services {
+            padding: 6rem 2rem;
+            background: var(--bg-dark);
+        }
+
+        .section-header {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto 4rem;
+        }
+
+        .section-badge {
+            display: inline-block;
+            background: rgba(255, 107, 53, 0.1);
+            border: 1px solid rgba(255, 107, 53, 0.3);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            font-size: 0.875rem;
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        .section-title {
+            font-size: clamp(2rem, 4vw, 3rem);
+            font-weight: 800;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #FFFFFF 0%, var(--primary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .section-subtitle {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+        }
+
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .service-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .service-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary), var(--gold));
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        .service-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+            box-shadow: 0 20px 40px rgba(255, 107, 53, 0.15);
+        }
+
+        .service-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .service-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .service-name {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .service-description {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+            line-height: 1.5;
+        }
+
+        .service-agents {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .agent-tag {
+            background: rgba(255, 107, 53, 0.1);
+            color: var(--primary);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+
+        /* Team Section */
+        .team {
+            padding: 6rem 2rem;
+            background: linear-gradient(180deg, var(--bg-dark) 0%, var(--secondary) 50%, var(--bg-dark) 100%);
+        }
+
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .team-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .team-card:hover {
+            transform: translateY(-8px);
+            border-color: var(--primary);
+            box-shadow: 0 20px 40px rgba(255, 107, 53, 0.2);
+        }
+
+        .team-avatar {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, var(--secondary), var(--accent));
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            border: 2px solid var(--border);
+        }
+
+        .team-id {
+            font-family: 'Inter', monospace;
+            font-size: 0.7rem;
+            color: var(--primary);
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .team-name {
+            font-size: 1.1rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
+
+        .team-role {
+            font-size: 0.85rem;
+            color: var(--primary);
+            font-weight: 500;
+        }
+
+        /* Contact Section */
+        .contact {
+            padding: 6rem 2rem;
+            background: var(--secondary);
+            text-align: center;
+        }
+
+        .contact-title {
+            font-size: clamp(2rem, 4vw, 3rem);
+            font-weight: 800;
+            margin-bottom: 1rem;
+        }
+
+        .contact-subtitle {
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Footer */
+        .footer {
+            padding: 3rem 2rem;
+            background: var(--bg-dark);
+            border-top: 1px solid var(--border);
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+        }
+
+        .footer-brand {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .footer-logo {
+            width: 36px;
+            height: 36px;
+            background: linear-gradient(135deg, var(--primary), var(--gold));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1rem;
+        }
+
+        .footer-copyright {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+
+            .hero {
+                padding: 6rem 1.5rem 3rem;
+            }
+
+            .hero-stats {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+
+            .services-grid,
+            .team-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">
+                <div class="logo-icon">🚀</div>
+                <span>幂家军</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="#services" class="nav-link">服务</a></li>
+                <li><a href="#team" class="nav-link">团队</a></li>
+                <li><a href="#contact" class="nav-link">联系</a></li>
+            </ul>
+            <a href="#contact" class="nav-cta">开始合作</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-bg"></div>
+        <div class="hero-grid"></div>
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span>🚀</span>
+                <span>AI Agent特种部队</span>
+            </div>
+            <h1 class="hero-title">28位AI Agent特种部队</h1>
+            <p class="hero-subtitle">从战略到执行，为企业提供全方位的AI数字化解决方案。我们是一支由28位专业AI Agent组成的特种部队，专注于为企业打造AI超级员工。</p>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <div class="stat-value">28</div>
+                    <div class="stat-label">专业AI Agent</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">8</div>
+                    <div class="stat-label">大班组协同</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">100%</div>
+                    <div class="stat-label">项目交付率</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">24/7</div>
+                    <div class="stat-label">全天候服务</div>
+                </div>
+            </div>
+            <div class="hero-cta-group">
+                <a href="#services" class="btn btn-primary">了解我们的服务</a>
+                <a href="#team" class="btn btn-secondary">认识团队成员</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="services" id="services">
+        <div class="section-header">
+            <div class="section-badge">我们的服务</div>
+            <h2 class="section-title">全方位的AI数字化解决方案</h2>
+            <p class="section-subtitle">从战略到执行，为企业提供专业的AI服务能力</p>
+        </div>
+        <div class="services-grid">
+            <div class="service-card">
+                <div class="service-icon">🎨</div>
+                <h3 class="service-name">图文IP创作</h3>
+                <p class="service-description">深度长文、短视频脚本、文案润色、小红书运营、微信生态内容创作</p>
+                <div class="service-agents">
+                    <span class="agent-tag">幂文</span>
+                    <span class="agent-tag">幂画</span>
+                    <span class="agent-tag">幂书</span>
+                    <span class="agent-tag">微信运营</span>
+                </div>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">🎬</div>
+                <h3 class="service-name">视听制片</h3>
+                <p class="service-description">视频生成、漫剧合成、语音合成、音频质控、数据可视化呈现</p>
+                <div class="service-agents">
+                    <span class="agent-tag">幂影</span>
+                    <span class="agent-tag">幂声</span>
+                    <span class="agent-tag">幂数</span>
+                </div>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">💻</div>
+                <h3 class="service-name">极客研发</h3>
+                <p class="service-description">顶层设计、代码实现、质量测试、DevOps部署、系统架构优化</p>
+                <div class="service-agents">
+                    <span class="agent-tag">幂码-架构</span>
+                    <span class="agent-tag">幂码-编程</span>
+                    <span class="agent-tag">幂测</span>
+                    <span class="agent-tag">幂运</span>
+                </div>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">📊</div>
+                <h3 class="service-name">情报分析</h3>
+                <p class="service-description">热点嗅探、趋势分析、竞品监控、选题策划、多平台运营</p>
+                <div class="service-agents">
+                    <span class="agent-tag">幂智</span>
+                    <span class="agent-tag">幂推</span>
+                    <span class="agent-tag">幂拍</span>
+                    <span class="agent-tag">幂播</span>
+                    <span class="agent-tag">幂乎</span>
+                </div>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">💰</div>
+                <h3 class="service-name">资产管理</h3>
+                <p class="service-description">Token精算、预算配额、资产配置、ROI审计、量化风控</p>
+                <div class="service-agents">
+                    <span class="agent-tag">幂财</span>
+                    <span class="agent-tag">幂投</span>
+                    <span class="agent-tag">幂策</span>
+                </div>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">⚖️</div>
+                <h3 class="service-name">行政合规</h3>
+                <p class="service-description">合规审查、版权管理、HR管理、站点运维、安全防护</p>
+                <div class="service-agents">
+                    <span class="agent-tag">幂法</span>
+                    <span class="agent-tag">幂人</span>
+                    <span class="agent-tag">幂站</span>
+                    <span class="agent-tag">幂卫</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section class="team" id="team">
+        <div class="section-header">
+            <div class="section-badge">核心团队</div>
+            <h2 class="section-title">28位AI Agent特种部队</h2>
+            <p class="section-subtitle">6大班组协同作战，为企业提供专业AI服务</p>
+        </div>
+        <div class="team-grid" id="teamGrid">
+            <!-- Team members will be generated by JavaScript -->
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <h2 class="contact-title">开启您的AI之旅</h2>
+        <p class="contact-subtitle">无论您是需要战略规划、内容创作，还是技术开发，幂家军都能为您提供专业的AI解决方案</p>
+        <a href="mailto:contact@mi-jiajun.ai" class="btn btn-primary">联系我们</a>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <div class="footer-logo">🚀</div>
+                <span>幂家军</span>
+            </div>
+            <p class="footer-copyright">© 2026 幂家军. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Team members data
+        const teamMembers = [
+            // 总指挥部
+            { name: "幂Claw", role: "系统总管", group: "总指挥部", emoji: "🎯", id: "main" },
+            { name: "幂领", role: "运营总监", group: "总指挥部", emoji: "⚡", id: "mi-ling" },
+            { name: "小幂", role: "总裁助理", group: "总指挥部", emoji: "📋", id: "xiao-mi" },
+            
+            // 极客研发组
+            { name: "幂码-架构", role: "首席架构师", group: "极客研发组", emoji: "🏗️", id: "mi-ma-arch" },
+            { name: "幂码-编程", role: "核心编程", group: "极客研发组", emoji: "💻", id: "mi-ma-code" },
+            { name: "幂测", role: "质量工程师", group: "极客研发组", emoji: "🧪", id: "mi-ce" },
+            { name: "幂运", role: "DevOps专家", group: "极客研发组", emoji: "🚀", id: "mi-yun" },
+            
+            // 情报轰炸矩阵
+            { name: "幂智", role: "首席信息官", group: "情报轰炸矩阵", emoji: "🔍", id: "mi-zhi" },
+            { name: "幂推", role: "X/Twitter运营", group: "情报轰炸矩阵", emoji: "🐦", id: "mi-tui" },
+            { name: "幂拍", role: "短视频运营", group: "情报轰炸矩阵", emoji: "📱", id: "mi-pai" },
+            { name: "幂播", role: "长视频运营", group: "情报轰炸矩阵", emoji: "📺", id: "mi-bo" },
+            { name: "幂乎", role: "知乎网红", group: "情报轰炸矩阵", emoji: "❓", id: "mi-hu" },
+            
+            // 图文IP创作组
+            { name: "幂文", role: "内容创作师", group: "图文IP创作组", emoji: "✍️", id: "mi-wen" },
+            { name: "幂书", role: "小红书运营", group: "图文IP创作组", emoji: "📕", id: "mi-book" },
+            { name: "幂画", role: "视觉设计师", group: "图文IP创作组", emoji: "🎨", id: "mi-hua" },
+            { name: "微信运营", role: "微信专家", group: "图文IP创作组", emoji: "💬", id: "mi-xin" },
+            
+            // 视听制片厂
+            { name: "幂影", role: "视频剪辑师", group: "视听制片厂", emoji: "🎬", id: "mi-ying" },
+            { name: "幂声", role: "音频工程师", group: "视听制片厂", emoji: "🎵", id: "mi-sheng" },
+            { name: "幂数", role: "数据可视化师", group: "视听制片厂", emoji: "📊", id: "mi-shu-data" },
+            
+            // 后勤资产基建局
+            { name: "幂财", role: "财务官", group: "后勤资产基建局", emoji: "💰", id: "mi-cai" },
+            { name: "幂投", role: "资产管理师", group: "后勤资产基建局", emoji: "📈", id: "mi-tou" },
+            { name: "幂策", role: "行情分析师", group: "后勤资产基建局", emoji: "📉", id: "mi-ce-invest" },
+            
+            // 行政合规基建组
+            { name: "幂法", role: "法务合规官", group: "行政合规基建组", emoji: "⚖️", id: "mi-fa" },
+            { name: "幂人", role: "人力资源", group: "行政合规基建组", emoji: "👥", id: "mi-ren" },
+            { name: "幂站", role: "站点运维", group: "行政合规基建组", emoji: "🌐", id: "mi-site" },
+            { name: "幂卫", role: "安全审计", group: "行政合规基建组", emoji: "🔒", id: "mi-wei" },
+            
+            // 知识管理中枢
+            { name: "幂档", role: "知识管理专家", group: "知识管理中枢", emoji: "📚", id: "mi-dang" }
+        ];
+
+        // Render team members
+        function renderTeam() {
+            const teamGrid = document.getElementById('teamGrid');
+            
+            teamMembers.forEach(member => {
+                const card = document.createElement('div');
+                card.className = 'team-card';
+                card.innerHTML = `
+                    <div class="team-avatar">${member.emoji}</div>
+                    <div class="team-id">${member.id}</div>
+                    <div class="team-name">${member.name}</div>
+                    <div class="team-role">${member.role}</div>
+                `;
+                teamGrid.appendChild(card);
+            });
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', renderTeam);
+    </script>
+</body>
+</html>

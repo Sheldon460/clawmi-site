@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="383" viewBox="0 0 900 383" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a237e"/>
+      <stop offset="100%" style="stop-color:#0d47a1"/>
+    </linearGradient>
+    <linearGradient id="leftPanel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1976d2"/>
+      <stop offset="100%" style="stop-color:#2196f3"/>
+    </linearGradient>
+    <linearGradient id="rightPanel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7b1fa2"/>
+      <stop offset="100%" style="stop-color:#9c27b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="383" fill="url(#bg)"/>
+  <rect x="50" y="50" width="380" height="283" rx="15" fill="url(#leftPanel)" opacity="0.9"/>
+  <text x="240" y="280" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="16" fill="white">OpenClaw</text>
+  <rect x="470" y="50" width="380" height="283" rx="15" fill="url(#rightPanel)" opacity="0.9"/>
+  <text x="660" y="280" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="16" fill="white">DeerFlow</text>
+  <text x="450" y="40" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="28" fill="white">OpenClaw vs DeerFlow</text>
+  <text x="450" y="355" text-anchor="middle" font-family="Arial" font-size="18" fill="white">Which AI Tool to Choose?</text>
+</svg>

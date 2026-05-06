@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "pexoai-agent": {
+      "version": "0.3.4",
+      "installedAt": 1774602449188
+    },
+    "speech-recognition": {
+      "version": "1.0.1",
+      "installedAt": 1776021266719
+    }
+  }
+}

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QClaw 文章配图</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: #1a1a2e;
+            padding: 20px;
+        }
+        
+        /* 封面图 - 900x383 */
+        .cover {
+            width: 900px;
+            height: 383px;
+            background: linear-gradient(135deg, #1e3a5f 0%, #2d1b4e 50%, #4a1c6b 100%);
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
+        .cover::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(ellipse at 30% 20%, rgba(100, 200, 255, 0.3) 0%, transparent 50%);
+        }
+        .wechat-bubble {
+            position: absolute;
+            top: 35%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 200px;
+            height: 140px;
+            background: linear-gradient(145deg, #07c160 0%, #05a050 100%);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 10px 40px rgba(7, 193, 96, 0.4);
+        }
+        .wechat-bubble::after {
+            content: '';
+            position: absolute;
+            bottom: -15px;
+            left: 30px;
+            width: 30px;
+            height: 30px;
+            background: #07c160;
+            transform: rotate(45deg);
+        }
+        .wechat-bubble.cracked {
+            opacity: 0.7;
+            filter: grayscale(30%);
+        }
+        .wechat-bubble.cracked::before {
+            content: '';
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            width: 60px;
+            height: 2px;
+            background: rgba(255,255,255,0.5);
+            transform: rotate(30deg);
+        }
+        .qclaw-text {
+            color: white;
+            font-size: 36px;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+        .cover-title {
+            position: absolute;
+            bottom: 50px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            color: rgba(255,255,255,0.9);
+            font-size: 28px;
+            font-weight: 500;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+        .cover-subtitle {
+            position: absolute;
+            bottom: 20px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            color: rgba(255,255,255,0.6);
+            font-size: 14px;
+        }
+        
+        /* 正文图容器 */
+        .content-images {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        
+        /* 微信入口界面 - 800x600 */
+        .wechat-entry {
+            width: 800px;
+            height: 600px;
+            background: #f5f5f5;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        .phone-header {
+            height: 50px;
+            background: #ededed;
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            border-bottom: 1px solid #d9d9d9;
+        }
+        .phone-title {
+            flex: 1;
+            text-align: center;
+            font-size: 16px;
+            font-weight: 500;
+        }
+        .chat-list {
+            padding: 10px 0;
+        }
+        .chat-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            border-bottom: 1px solid #f0f0f0;
+            cursor: pointer;
+        }
+        .chat-item.active {
+            background: #e6e6e6;
+        }
+        .chat-avatar {
+            width: 48px;
+            height: 48px;
+            border-radius: 6px;
+            background: #07c160;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 12px;
+            margin-right: 12px;
+        }
+        .chat-avatar.qclaw {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .chat-info {
+            flex: 1;
+        }
+        .chat-name {
+            font-size: 16px;
+            font-weight: 500;
+            color: #333;
+            margin-bottom: 4px;
+        }
+        .chat-msg {
+            font-size: 13px;
+            color: #999;
+        }
+        .chat-time {
+            font-size: 12px;
+            color: #bfbfbf;
+        }
+        .highlight-box {
+            background: #fffbe6;
+            border: 1px solid #ffe58f;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        /* 功能对比表格 - 800x600 */
+        .feature-compare {
+            width: 800px;
+            height: 600px;
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        .compare-title {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .compare-table {
+            display: flex;
+            gap: 20px;
+        }
+        .compare-col {
+            flex: 1;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        .compare-col.left {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .compare-col.right {
+            background: linear-gradient(135deg, #07c160 0%, #05a050 100%);
+            color: white;
+        }
+        .col-header {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .col-subtitle {
+            font-size: 14px;
+            opacity: 0.9;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .feature-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+        }
+        .feature-item:last-child {
+            border-bottom: none;
+        }
+        .feature-icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+            background: rgba(255,255,255,0.3);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+        .feature-text {
+            flex: 1;
+            font-size: 14px;
+        }
+        .feature-status {
+            font-size: 12px;
+            padding: 4px 10px;
+            border-radius: 12px;
+            background: rgba(255,255,255,0.2);
+        }
+        
+        /* 广告入口 - 800x600 */
+        .ad-update {
+            width: 800px;
+            height: 600px;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 10px;
+            padding: 40px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        .app-window {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .window-header {

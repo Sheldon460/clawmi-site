@@ -1,0 +1,101 @@
+{
+  "config": {
+    "wide_screen_mode": true
+  },
+  "header": {
+    "template": "blue",
+    "title": {
+      "content": "🔥 AI热点情报 | {{date}}",
+      "tag": "plain_text"
+    },
+    "subtitle": {
+      "content": "过去24小时AI圈发生了什么",
+      "tag": "plain_text"
+    }
+  },
+  "elements": [
+    {
+      "tag": "div",
+      "text": {
+        "content": "**📰 今日精选 {{count}} 条热点**",
+        "tag": "lark_md"
+      }
+    },
+    {
+      "tag": "hr"
+    },
+    {
+      "tag": "div",
+      "fields": [
+        {
+          "is_short": true,
+          "text": {
+            "content": "**🚀 {{title_1}}**\n{{summary_1}}\n[查看原文]({{link_1}})",
+            "tag": "lark_md"
+          }
+        },
+        {
+          "is_short": true,
+          "text": {
+            "content": "**⚡ {{title_2}}**\n{{summary_2}}\n[查看原文]({{link_2}})",
+            "tag": "lark_md"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "hr"
+    },
+    {
+      "tag": "div",
+      "fields": [
+        {
+          "is_short": true,
+          "text": {
+            "content": "**💼 {{title_3}}**\n{{summary_3}}\n[查看原文]({{link_3}})",
+            "tag": "lark_md"
+          }
+        },
+        {
+          "is_short": true,
+          "text": {
+            "content": "**💰 {{title_4}}**\n{{summary_4}}\n[查看原文]({{link_4}})",
+            "tag": "lark_md"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "hr"
+    },
+    {
+      "tag": "action",
+      "actions": [
+        {
+          "tag": "button",
+          "text": {
+            "content": "📊 查看完整情报表",
+            "tag": "plain_text"
+          },
+          "url": "https://my.feishu.cn/base/EVxlb7yTHaw9GjsyPgncypMTnec",
+          "type": "primary"
+        },
+        {
+          "tag": "button",
+          "text": {
+            "content": "⚙️ 管理推送设置",
+            "tag": "plain_text"
+          },
+          "type": "default"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "text": {
+        "content": "🤖 由幂智(mi-zhi)自动采集 | 数据来源: TechCrunch, The Verge, Hacker News",
+        "tag": "lark_md"
+      }
+    }
+  ]
+}

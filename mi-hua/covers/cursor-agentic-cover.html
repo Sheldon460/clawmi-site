@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Inter:wght@100;200;300;400;500&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            width: 1920px;
+            height: 1080px;
+            background: #0d1117;
+            font-family: 'JetBrains Mono', monospace;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        /* Grid background */
+        .grid-bg {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(46, 160, 67, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(46, 160, 67, 0.03) 1px, transparent 1px);
+            background-size: 40px 40px;
+            pointer-events: none;
+        }
+        
+        /* Floating code windows */
+        .code-window {
+            position: absolute;
+            background: rgba(22, 27, 34, 0.95);
+            border: 1px solid rgba(46, 160, 67, 0.2);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 
+                0 8px 32px rgba(0, 0, 0, 0.4),
+                0 0 60px rgba(46, 160, 67, 0.1);
+            animation: float-window 12s ease-in-out infinite;
+        }
+        
+        @keyframes float-window {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+        
+        .window-1 {
+            width: 400px;
+            height: 250px;
+            left: 8%;
+            top: 15%;
+            animation-delay: 0s;
+        }
+        
+        .window-2 {
+            width: 450px;
+            height: 280px;
+            right: 8%;
+            top: 20%;
+            animation-delay: 4s;
+        }
+        
+        .window-3 {
+            width: 380px;
+            height: 220px;
+            left: 15%;
+            bottom: 15%;
+            animation-delay: 8s;
+        }
+        
+        .window-4 {
+            width: 420px;
+            height: 240px;
+            right: 12%;
+            bottom: 18%;
+            animation-delay: 2s;
+        }
+        
+        /* Code syntax colors */
+        .code-line {
+            font-size: 13px;
+            line-height: 1.8;
+            white-space: nowrap;
+        }
+        
+        .keyword { color: #ff7b72; }
+        .function { color: #d2a8ff; }
+        .string { color: #a5d6ff; }
+        .comment { color: #8b949e; }
+        .variable { color: #ffa657; }
+        .number { color: #79c0ff; }
+        
+        /* Terminal window */
+        .terminal-window {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 500px;
+            height: 300px;
+            background: rgba(13, 17, 23, 0.98);
+            border: 1px solid rgba(46, 160, 67, 0.3);
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 
+                0 0 100px rgba(46, 160, 67, 0.2),
+                inset 0 0 60px rgba(46, 160, 67, 0.05);
+            z-index: 15;
+        }
+        
+        .terminal-header {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .terminal-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        
+        .terminal-dot:nth-child(1) { background: #ff5f56; }
+        .terminal-dot:nth-child(2) { background: #ffbd2e; }
+        .terminal-dot:nth-child(3) { background: #27ca40; }
+        
+        .terminal-content {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 14px;
+            line-height: 1.8;
+            color: #7ee787;
+        }
+        
+        .cursor-blink {
+            display: inline-block;
+            width: 10px;
+            height: 18px;
+            background: #7ee787;
+            animation: blink 1s step-end infinite;
+            vertical-align: middle;
+            margin-left: 2px;
+        }
+        
+        @keyframes blink {
+            0%, 50% { opacity: 1; }
+            51%, 100% { opacity: 0; }
+        }
+        
+        /* Data flow lines */
+        .flow-line {
+            position: absolute;
+            height: 2px;
+            background: linear-gradient(90deg, 
+                transparent, 
+                rgba(46, 160, 67, 0.8), 
+                rgba(46, 160, 67, 1), 
+                rgba(46, 160, 67, 0.8), 
+                transparent);
+            animation: flow 3s ease-in-out infinite;
+        }
+        
+        @keyframes flow {
+            0% { transform: scaleX(0); opacity: 0; }
+            50% { transform: scaleX(1); opacity: 1; }
+            100% { transform: scaleX(0); opacity: 0; }
+        }
+        
+        .flow-1 {
+            width: 200px;
+            left: 28%;
+            top: 35%;
+            animation-delay: 0s;
+        }
+        
+        .flow-2 {
+            width: 180px;
+            right: 28%;
+            top: 45%;
+            animation-delay: 1s;
+        }
+        
+        .flow-3 {
+            width: 220px;
+            left: 25%;
+            bottom: 38%;
+            animation-delay: 2s;
+        }
+        
+        .flow-4 {
+            width: 160px;
+            right: 30%;
+            bottom: 42%;
+            animation-delay: 0.5s;
+        }
+        
+        /* Neural nodes */
+        .neural-node {
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            background: radial-gradient(circle, #7ee787 0%, rgba(46, 160, 67, 0.5) 100%);
+            border-radius: 50%;
+            box-shadow: 0 0 20px rgba(126, 231, 135, 0.6);
+            animation: pulse-neural 2s ease-in-out infinite;
+        }
+        
+        @keyframes pulse-neural {
+            0%, 100% { transform: scale(1); box-shadow: 0 0 20px rgba(126, 231, 135, 0.6); }
+            50% { transform: scale(1.3); box-shadow: 0 0 40px rgba(126, 231, 135, 0.9); }
+        }
+        
+        /* Main title */
+        .title-container {
+            position: absolute;
+            bottom: 80px;
+            left: 80px;
+            z-index: 20;
+        }
+        
+        .category-label {
+            font-family: 'Inter', sans-serif;
+            font-size: 12px;
+            font-weight: 500;
+            letter-spacing: 6px;
+            text-transform: uppercase;
+            color: rgba(126, 231, 135, 0.8);
+            margin-bottom: 20px;
+        }
+        
+        .main-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 84px;
+            font-weight: 600;
+            letter-spacing: -2px;
+            color: rgba(255,255,255,0.95);
+            line-height: 1;
+        }
+        
+        .main-title span {
+            color: #7ee787;
+            text-shadow: 0 0 40px rgba(126, 231, 135, 0.6);
+        }
+        
+        .subtitle {
+            font-family: 'Inter', sans-serif;
+            font-size: 16px;
+            font-weight: 300;
+            letter-spacing: 2px;
+            color: rgba(255,255,255,0.5);
+            margin-top: 25px;
+            text-transform: uppercase;
+        }
+        
+        /* Cursor logo hint */
+        .cursor-logo {
+            position: absolute;
+            right: 80px;
+            bottom: 80px;
+            width: 80px;
+            height: 80px;
+            border: 3px solid rgba(126, 231, 135, 0.6);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 40px rgba(126, 231, 135, 0.3);
+        }
+        
+        .cursor-logo::before {
+            content: '▸';
+            font-size: 36px;
+            color: rgba(126, 231, 135, 0.9);
+            margin-left: 5px;
+        }
+        
+        /* Ambient glow */
+        .ambient-glow {
+            position: absolute;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(ellipse at center, 
+                rgba(46, 160, 67, 0.15) 0%, 
+                transparent 70%);
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            pointer-events: none;
+            z-index: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-bg"></div>
+    <div class="ambient-glow"></div>
+    
+    <!-- Floating code windows -->
+    <div class="code-window window-1">
+        <div class="code-line"><span class="keyword">async function</span> <span class="function">generate</span>() {</div>
+        <div class="code-line">  <span class="keyword">const</span> <span class="variable">code</span> = <span class="keyword">await</span> <span class="variable">agent</span>.<span class="function">write</span>();</div>
+        <div class="code-line">  <span class="keyword">return</span> <span class="variable">code</span>.<span class="function">transform</span>();</div>
+        <div class="code-line">}</div>
+    </div>
+    
+    <div class="code-window window-2">
+        <div class="code-line"><span class="comment">// AI-powered development</span></div>
+        <div class="code-line"><span class="keyword">import</span> { <span class="variable">Cursor</span> } <span class="keyword">from</span> <span class="string">'agentic'</span>;</div>
+        <div class="code-line"></div>
+        <div class="code-line"><span class="keyword">const</span> <span class="variable">app</span> = <span class="keyword">new</span> <span class="function">Cursor</span>();</div>
+        <div class="code-line"><span class="variable">app</span>.<span class="function">autonomous</span>(<span class="variable">true</span>);</div>
+    </div>
+    
+    <div class="code-window window-3">
+        <div class="code-line"><span class="variable">agent</span>.<span class="function">analyze</span>(<span class="string">'codebase'</span>);</div>
+        <div class="code-line"><span class="variable">agent</span>.<span class="function">optimize</span>();</div>
+        <div class="code-line"><span class="variable">agent</span>.<span class="function">deploy</span>();</div>
+    </div>
+    
+    <div class="code-window window-4">
+        <div class="code-line"><span class="keyword">interface</span> <span class="function">Agent</span> {</div>
+        <div class="code-line">  <span class="variable">think</span>: () => <span class="variable">Promise</span>;</div>
+        <div class="code-line">  <span class="variable">act</span>: () => <span class="variable">void</span>;</div>
+        <div class="code-line">  <span class="variable">learn</span>: () => <span class="variable">void</span>;</div>
+        <div class="code-line">}</div>
+    </div>
+    
+    <!-- Central terminal -->
+    <div class="terminal-window">
+        <div class="terminal-header">
+            <div class="terminal-dot"></div>
+            <div class="terminal-dot"></div>
+            <div class="terminal-dot"></div>
+        </div>
+        <div class="terminal-content">
+            <div>$ cursor --agentic</div>
+            <div style="color: rgba(126, 231, 135, 0.7);">→ Initializing AI agent...</div>
+            <div style="color: rgba(126, 231, 135, 0.7);">→ Analyzing codebase...</div>
+            <div style="color: rgba(126, 231, 135, 0.7);">→ Generating optimized code...</div>
+            <div><span class="cursor-blink"></span></div>
+        </div>
+    </div>
+    
+    <!-- Flow lines -->
+    <div class="flow-line flow-1"></div>
+    <div class="flow-line flow-2"></div>
+    <div class="flow-line flow-3"></div>
+    <div class="flow-line flow-4"></div>
+    
+    <!-- Neural nodes -->
+    <div class="neural-node" style="left: 30%; top: 32%; animation-delay: 0s;"></div>
+    <div class="neural-node" style="right: 30%; top: 42%; animation-delay: 0.7s;"></div>
+    <div class="neural-node" style="left: 27%; bottom: 40%; animation-delay: 1.4s;"></div>
+    <div class="neural-node" style="right: 32%; bottom: 44%; animation-delay: 0.3s;"></div>
+    
+    <!-- Main title -->
+    <div class="title-container">
+        <div class="category-label">Agentic Coding</div>
+        <div class="main-title"><span>Cursor</span> AI</div>
+        <div class="subtitle">Autonomous Development Redefined</div>
+    </div>
+    
+    <!-- Cursor logo -->
+    <div class="cursor-logo"></div>
+</body>
+</html>

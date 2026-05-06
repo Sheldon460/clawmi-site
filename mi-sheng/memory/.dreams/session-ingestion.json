@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "files": {
+    "mi-sheng:sessions/3a66d78e-57b6-423d-bc2a-fd7344f9df25.jsonl.reset.2026-03-27T10-32-27.567Z": {
+      "mtimeMs": 1773011655000,
+      "size": 8287,
+      "contentHash": "203e52b8334d3d22f2a261cdf11a42ce384e88c797c1792f69d650a5f8fe7ab1",
+      "lineCount": 3,
+      "lastContentLine": 3
+    },
+    "mi-sheng:sessions/64d64158-6886-464f-91e7-2255a7af3117.jsonl.reset.2026-03-10T05-35-25.791Z": {
+      "mtimeMs": 1773011569000,
+      "size": 3190,
+      "contentHash": "16e1228f6c2b8f6f5daa2c77fa15255b6322dda976160294266e52e3e57a1950",
+      "lineCount": 4,
+      "lastContentLine": 4
+    }
+  },
+  "seenMessages": {
+    "mi-sheng:3a66d78e-57b6-423d-bc2a-fd7344f9df25": [],
+    "mi-sheng:64d64158-6886-464f-91e7-2255a7af3117": []
+  }
+}

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="600" height="80">
+  <defs>
+    <linearGradient id="textGradH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A1628"/>
+      <stop offset="100%" style="stop-color:#00D4AA"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 图形标志 -->
+  <g transform="translate(0, 5)">
+    <!-- 外框 -->
+    <path d="M0 15 L30 5 L60 15 L60 55 L30 65 L0 55 Z" 
+          fill="none" 
+          stroke="url(#textGradH)" 
+          stroke-width="1.5"
+          stroke-linejoin="round"/>
+    
+    <!-- 左括号 -->
+    <path d="M15 22 L12 25 L12 40 L15 43" 
+          fill="none" 
+          stroke="#00D4AA" 
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+    
+    <!-- 右括号 -->
+    <path d="M45 22 L48 25 L48 40 L45 43" 
+          fill="none" 
+          stroke="#00D4AA" 
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+    
+    <!-- 中心节点 -->
+    <circle cx="30" cy="32.5" r="3.5" fill="#00D4AA"/>
+    
+    <!-- 连接线 -->
+    <line x1="20" y1="32.5" x2="27" y2="32.5" stroke="#6366F1" stroke-width="1"/>
+    <line x1="33" y1="32.5" x2="40" y2="32.5" stroke="#6366F1" stroke-width="1"/>
+  </g>
+  
+  <!-- 分隔线 -->
+  <line x1="75" y1="10" x2="75" y2="70" stroke="#E2E8F0" stroke-width="1"/>
+  
+  <!-- 文字部分 -->
+  <g transform="translate(90, 20)">
+    <!-- 英文 -->
+    <text x="0" y="25" 
+          font-family="'Space Grotesk', 'Inter', sans-serif" 
+          font-size="28" 
+          font-weight="600" 
+          fill="url(#textGradH)"
+          letter-spacing="0.1em">MI-MA-ARCH</text>
+    
+    <!-- 中文 -->
+    <text x="0" y="50" 
+          font-family="'Noto Sans SC', sans-serif" 
+          font-size="14" 
+          font-weight="500" 
+          fill="#475569"
+          letter-spacing="0.25em">幂码 - 架构 · 首席架构师</text>
+  </g>
+</svg>

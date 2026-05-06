@@ -1,0 +1,102 @@
+[2026-03-23 18:25:18] ==========================================
+[2026-03-23 18:25:18] 🚀 开始执行网站日记更新任务
+[2026-03-23 18:25:18] 执行时间: Mon Mar 23 18:25:18 CST 2026
+[2026-03-23 18:25:18] ==========================================
+[2026-03-23 18:25:18] 📔 Step 1: 生成今日日记...
+[2026-03-23 18:25:24] ✅ 日记已生成: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/diary/2026-03-23.md
+[2026-03-23 18:25:24] 📂 Step 2: 更新网站 diary.json...
+[2026-03-23 18:25:24] 执行 generate-diary.js 更新日记...
+✅ Successfully generated diary.json
+   Created 7 diary entries
+   Output: /Volumes/My house/Users/Sheldon/.openclaw/workspace/clawmi-site/data/diary.json
+   Verification: 7 entries validated
+[2026-03-23 18:25:24] 更新 diary.json 数据文件...
+✅ 已添加今日日记到 diary.json
+[2026-03-23 18:25:24] ✅ 日记数据已同步到网站
+[2026-03-23 18:25:24] 🔨 Step 3: 构建网站...
+[2026-03-23 18:25:24] 检测到 Node.js 项目，执行构建...
+
+> clawmi@1.0.0 build
+> next build
+
+▲ Next.js 16.1.6 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 1376.4ms
+  Skipping validation of types
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/3) ...
+✓ Generating static pages using 9 workers (3/3) in 140.1ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+└ ○ /_not-found
+
+
+○  (Static)  prerendered as static content
+
+[2026-03-23 18:25:27] ✅ 网站构建完成
+[2026-03-23 18:25:27] 🚀 Step 4: 部署网站...
+[2026-03-23 18:25:27] 执行 Vercel 部署...
+Retrieving project…
+Deploying chenyz912-9229s-projects/clawmi-site
+Uploading [--------------------] (0.0B/7.2KB)
+Uploading [====================] (7.2KB/7.2KB)
+Inspect: https://vercel.com/chenyz912-9229s-projects/clawmi-site/FQTVbgxqxPYBavqyy5EeP6yepwMu [2s]
+Production: https://clawmi-site-d5kseckmg-chenyz912-9229s-projects.vercel.app [2s]
+https://clawmi-site-d5kseckmg-chenyz912-9229s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 32 deployment files...
+Building: Restored build cache from previous deployment (GyXZoAMT5wm2s5rNgxcHpmQxzBPi)
+Building: Running "vercel build"
+Building: Vercel CLI 50.35.0
+Building: Running "install" command: `npm install`...
+Building: up to date, audited 114 packages in 2s
+Building: 30 packages are looking for funding
+Building: run `npm fund` for details
+Building: 1 moderate severity vulnerability
+Building: To address all issues, run:
+Building: npm audit fix
+Building: Run `npm audit` for details.
+Building: Detected Next.js version: 16.1.6
+Building: Running "npm run build"
+Building: > clawmi@1.0.0 build
+Building: > next build
+Building: ▲ Next.js 16.1.6 (Turbopack)
+Building: > Build error occurred
+Building: Error: ENOENT: no such file or directory, stat '/vercel/path0/shared'
+Building: at ignore-listed frames {
+Building: errno: -2,
+Building: code: 'ENOENT',
+Building: syscall: 'stat',
+Building: path: '/vercel/path0/shared'
+Building: }
+Building: Error: Command "npm run build" exited with 1
+Error: Command "npm run build" exited with 1
+[2026-03-23 18:26:05] ✅ Vercel 部署完成
+[2026-03-23 18:26:05] 使用 npx vercel 部署...
+Retrieving project…
+Deploying chenyz912-9229s-projects/clawmi-site
+Inspect: https://vercel.com/chenyz912-9229s-projects/clawmi-site/GcbRqBK4RT7EuJb3vMCB92rrqTNz [2s]
+Production: https://clawmi-site-auebsxhpl-chenyz912-9229s-projects.vercel.app [2s]
+https://clawmi-site-auebsxhpl-chenyz912-9229s-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 32 deployment files...
+Building: Restored build cache from previous deployment (GyXZoAMT5wm2s5rNgxcHpmQxzBPi)
+Building: Running "vercel build"
+Building: Vercel CLI 50.35.0
+Building: Running "install" command: `npm install`...
+Error: Command "npm run build" exited with 1
+[2026-03-23 18:26:22] ✅ Vercel 部署完成
+[2026-03-23 18:26:22] 📢 Step 5: 发送完成通知...
+[2026-03-23 18:26:22] ==========================================
+[2026-03-23 18:26:22] ✅ 网站日记更新任务完成
+[2026-03-23 18:26:22] 日志文件: /Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/logs/diary-update-20260323.log
+[2026-03-23 18:26:22] ==========================================

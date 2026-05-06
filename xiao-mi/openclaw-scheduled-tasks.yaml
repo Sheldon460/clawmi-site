@@ -1,0 +1,82 @@
+# =============================================================================
+# OpenClaw 定时任务配置 - 小幂 (xiao-mi)
+# 网站日记自动更新与部署
+# =============================================================================
+
+name: xiao-mi-website-diary
+agent: xiao-mi
+description: "小幂网站日记自动更新与部署系统"
+
+# 定时任务定义
+tasks:
+  - id: diary-update-noon
+    name: "日记更新 - 中午"
+    schedule: "0 12 * * *"
+    timezone: "Asia/Shanghai"
+    action:
+      type: exec
+      command: "/Users/sheldon/clawd/mi-army/xiao-mi/website-diary-cron.sh"
+    notification:
+      on_success: true
+      on_failure: true
+      channels:
+        - feishu
+    retry:
+      max_attempts: 3
+      delay_seconds: 60
+
+  - id: diary-update-evening
+    name: "日记更新 - 晚上"
+    schedule: "0 18 * * *"
+    timezone: "Asia/Shanghai"
+    action:
+      type: exec
+      command: "/Users/sheldon/clawd/mi-army/xiao-mi/website-diary-cron.sh"
+    notification:
+      on_success: true
+      on_failure: true
+      channels:
+        - feishu
+    retry:
+      max_attempts: 3
+      delay_seconds: 60
+
+  - id: daily-archive
+    name: "每日归档"
+    schedule: "0 23 * * *"
+    timezone: "Asia/Shanghai"
+    action:
+      type: spawn
+      agent: xiao-mi
+      message: |
+        [定时任务触发] 每日归档
+        
+        请执行以下任务:
+        1. 汇总今日所有日记
+        2. 更新 memory/YYYY-MM-DD.md
+        3. 检查明日待办事项
+        4. 发送归档报告到飞书
+        
+        完成后请回复确认。
+    notification:
+      on_success: true
+      on_failure: true
+      channels:
+        - feishu
+
+# 全局配置
+config:
+  log_level: info
+  log_retention_days: 30
+  notification_default: true
+  
+# 依赖检查
+dependencies:
+  commands:
+    - git
+    - curl
+  optional:
+    - vercel
+    - netlify
+    - hugo
+    - npm

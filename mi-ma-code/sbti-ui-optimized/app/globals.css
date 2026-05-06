@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 30, 42, 34;
+  --background-start-rgb: 246, 250, 246;
+  --background-end-rgb: 219, 232, 221;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+  min-height: 100vh;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* 径向渐变背景 */
+.gradient-bg {
+  background: radial-gradient(circle at top left, #dbe8dd 0%, #f6faf6 100%);
+}
+
+/* 按钮悬停效果 */
+.btn-hover {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.btn-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(47, 73, 55, 0.12);
+}
+
+/* 卡片悬停效果 */
+.card-hover {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(47, 73, 55, 0.12);
+}

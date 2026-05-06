@@ -1,0 +1,2482 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-29T19:02:17.035Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-13 02:43:19 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b528a324aad30c1161593be3a622] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b528a324aad30c1161593be3a622\", \"sender_id\": \"ou_09ee86eb274331",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-13T19:11:55.186Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "message-id",
+        "sender-id",
+        "ou-09ee86eb274331",
+        "gmt",
+        "feishu",
+        "cli",
+        "东尼"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 收到！帮你安装这两个技能： 1. ElevenLabs 语音转文本技能 2. vamdawn/ai-forge 内容摘要技能 让我执行安装命令：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-13T19:11:55.186Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "vamdawn/ai-forge",
+        "收到",
+        "安装",
+        "技能",
+        "elevenlabs",
+        "语音",
+        "文本",
+        "vamdawn"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 看来 `px` 命令不可用。让我检查一下 OpenClaw 的正确命令：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-13T19:11:55.186Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "看来",
+        "命令",
+        "不可",
+        "检查",
+        "一下",
+        "openclaw",
+        "正确"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 抱歉，这两个技能在 ClawHub 上找不到。让我告诉你现有的替代方案： ## ❌ 未找到的技能 1. **elevenlabs/skills@speech-to-text** - 不存在 2. **vamdawn/ai-forge@content-summarizer** - 不存在 ## ✅ 可用的替代技能 ### 语音相关 ```bash # 语音识别 clawhub install speech-recognition # ElevenLabs 代理管理（如果你需要 ElevenLabs） clawhub install e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-13T19:11:55.186Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "elevenlabs/skills",
+        "speech-to-text",
+        "vamdawn/ai-forge",
+        "content-summarizer",
+        "speech-recognition",
+        "抱歉",
+        "技能",
+        "clawhub"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-13 02:45:20 GMT+8] Exec failed (keen-mis, signal SIGKILL) System: [2026-04-13 02:46:45 GMT+8] Exec failed (quiet-re, signal SIGKILL) System: [2026-04-13 03:59:11 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b528bd633f0a0c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-13T19:11:55.186Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "keen-mis",
+        "quiet-re",
+        "mi-cli",
+        "om-x100b528bd633f0a0c",
+        "gmt",
+        "exec",
+        "failed",
+        "keen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 收到硅基流动 API 密钥，帮你安全存储！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-13T19:11:55.186Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "流动",
+        "api",
+        "安全",
+        "存储"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **硅基流动 API 密钥已安全存储** ``` 存储位置: ~/.openclaw/config/siliconflow.env 权限: 600 (仅当前用户可读写) ``` ## 使用方法 在需要使用硅基流动 API 时，可以这样加载密钥： ```bash # 临时加载环境变量 source ~/.openclaw/config/siliconflow.env # 或在单条命令中使用 $(cat ~/.openclaw/config/siliconflow.env | xargs) your-command ``` ## 硅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-13T19:11:55.186Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "openclaw/config/siliconflow.env",
+        "your-command",
+        "流动",
+        "api",
+        "安全",
+        "存储",
+        "位置",
+        "openclaw"
+      ]
+    },
+    "memory:memory/2026-04-10.md:6:6": {
+      "key": "memory:memory/2026-04-10.md:6:6",
+      "path": "memory/2026-04-10.md",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "任务: 用 WeChat CLI 收集并整理唐宋在「🌈唐宋·AI一人公司变现圈」群的所有分享内容",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "任务",
+        "wechat",
+        "cli",
+        "收集",
+        "整理",
+        "唐宋",
+        "一人",
+        "公司"
+      ]
+    },
+    "memory:memory/2026-04-10.md:9:11": {
+      "key": "memory:memory/2026-04-10.md:9:11",
+      "path": "memory/2026-04-10.md",
+      "startLine": 9,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "执行过程: 使用 wechat-cli sessions 查找群聊; 确认群名：「🌈唐宋·AI一人公司变现圈」; 使用 wechat-cli history 导出 122 条消息",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "wechat-cli",
+        "执行",
+        "过程",
+        "使用",
+        "wechat",
+        "cli",
+        "查找",
+        "确认"
+      ]
+    },
+    "memory:memory/2026-04-10.md:16:17": {
+      "key": "memory:memory/2026-04-10.md:16:17",
+      "path": "memory/2026-04-10.md",
+      "startLine": 16,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "数据概览: 消息总数：122条; 唐宋核心分享：4篇",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "数据",
+        "消息",
+        "总数",
+        "唐宋",
+        "核心",
+        "分享"
+      ]
+    },
+    "memory:memory/2026-04-10.md:19:19": {
+      "key": "memory:memory/2026-04-10.md:19:19",
+      "path": "memory/2026-04-10.md",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "数据概览: 时间跨度：2026-04-06 至 2026-04-09",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "数据",
+        "时间",
+        "跨度"
+      ]
+    },
+    "memory:memory/2026-04-10.md:24:24": {
+      "key": "memory:memory/2026-04-10.md:24:24",
+      "path": "memory/2026-04-10.md",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "分享时间: 2026-04-09 21:27-21:37",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "27-21",
+        "分享",
+        "时间"
+      ]
+    },
+    "memory:memory/2026-04-10.md:28:28": {
+      "key": "memory:memory/2026-04-10.md:28:28",
+      "path": "memory/2026-04-10.md",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "三种内容类型: **1. 流量型内容**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "内容",
+        "类型",
+        "流量"
+      ]
+    },
+    "memory:memory/2026-04-10.md:29:29": {
+      "key": "memory:memory/2026-04-10.md:29:29",
+      "path": "memory/2026-04-10.md",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "三种内容类型: 核心作用：关注、曝光、传播、爆款",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "内容",
+        "类型",
+        "核心",
+        "作用",
+        "关注",
+        "曝光",
+        "传播"
+      ]
+    },
+    "memory:memory/2026-04-10.md:31:31": {
+      "key": "memory:memory/2026-04-10.md:31:31",
+      "path": "memory/2026-04-10.md",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "三种内容类型: 注意：流量爆了≠立刻转化，粉丝会泛",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T09:50:37.385Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "内容",
+        "类型",
+        "注意",
+        "流量",
+        "立刻",
+        "转化",
+        "粉丝"
+      ]
+    },
+    "memory:memory/2026-04-10.md:33:33": {
+      "key": "memory:memory/2026-04-10.md:33:33",
+      "path": "memory/2026-04-10.md",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "三种内容类型: **2. 获客型内容（产品型内容）**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-14T15:06:52.935Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "内容",
+        "类型",
+        "产品"
+      ]
+    },
+    "memory:memory/2026-04-10.md:34:36": {
+      "key": "memory:memory/2026-04-10.md:34:36",
+      "path": "memory/2026-04-10.md",
+      "startLine": 34,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "三种内容类型: 核心作用：转化、成交; 关键词：解决痛点; 特点：如果爆了，粉丝会更精准",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-14T15:06:52.935Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "内容",
+        "类型",
+        "核心",
+        "作用",
+        "转化",
+        "成交",
+        "关键",
+        "解决"
+      ]
+    },
+    "memory:memory/2026-04-09.md:5:6": {
+      "key": "memory:memory/2026-04-09.md:5:6",
+      "path": "memory/2026-04-09.md",
+      "startLine": 5,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "创建鱼堂主 Skill（10:55）: 用户要求：帮我蒸馏鱼堂主，做一个鱼堂主skill; 搜索范围：鱼堂主公众号（鱼堂主爱思考）、视频号（鱼堂主说）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "创建",
+        "skill",
+        "用户",
+        "要求",
+        "蒸馏",
+        "一个",
+        "搜索",
+        "范围"
+      ]
+    },
+    "memory:memory/2026-04-09.md:10:10": {
+      "key": "memory:memory/2026-04-09.md:10:10",
+      "path": "memory/2026-04-09.md",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: **人物画像：**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "人物",
+        "画像"
+      ]
+    },
+    "memory:memory/2026-04-09.md:11:13": {
+      "key": "memory:memory/2026-04-09.md:11:13",
+      "path": "memory/2026-04-09.md",
+      "startLine": 11,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: 职业：职业读书人、青年作家、觉醒品牌创始人; 成就：阅读量1000+本书、日更1000+天、出版《智识升级》; 转型故事：从边缘职场人 → 通过提升思考阅读和写作 → 30岁转型职业读书人",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "职业",
+        "读书",
+        "青年",
+        "作家",
+        "觉醒"
+      ]
+    },
+    "memory:memory/2026-04-09.md:15:15": {
+      "key": "memory:memory/2026-04-09.md:15:15",
+      "path": "memory/2026-04-09.md",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: **核心思维模型：**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "思维",
+        "模型"
+      ]
+    },
+    "memory:memory/2026-04-09.md:16:18": {
+      "key": "memory:memory/2026-04-09.md:16:18",
+      "path": "memory/2026-04-09.md",
+      "startLine": 16,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: **系统思维 vs 线性思维**; 线性思维：简单因果关系，找\"坏人\"解决问题; 系统思维：全局视角，多重因素，调整系统让问题不攻自破",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "系统",
+        "思维",
+        "线性",
+        "简单",
+        "因果"
+      ]
+    },
+    "memory:memory/2026-04-09.md:20:20": {
+      "key": "memory:memory/2026-04-09.md:20:20",
+      "path": "memory/2026-04-09.md",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: **智识升级框架**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "智识",
+        "升级",
+        "框架"
+      ]
+    },
+    "memory:memory/2026-04-09.md:26:28": {
+      "key": "memory:memory/2026-04-09.md:26:28",
+      "path": "memory/2026-04-09.md",
+      "startLine": 26,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: **不上班指南（一人公司）**; 技能变现、自媒体起盘、一人公司; 3种路径：技能付费化、内容资产化、社群服务化",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T23:20:33.055Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "上班",
+        "指南",
+        "一人",
+        "公司",
+        "技能"
+      ]
+    },
+    "memory:memory/2026-04-09.md:30:30": {
+      "key": "memory:memory/2026-04-09.md:30:30",
+      "path": "memory/2026-04-09.md",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: **核心作品：**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-16T09:50:37.385Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "作品"
+      ]
+    },
+    "memory:memory/2026-04-09.md:31:34": {
+      "key": "memory:memory/2026-04-09.md:31:34",
+      "path": "memory/2026-04-09.md",
+      "startLine": 31,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "搜集到的核心信息: 书：《智识升级：让你的付出有回报》; 播客：《不上班指南》（小宇宙）; 公众号：鱼堂主爱思考; 知识星球：鱼堂主·不上班指南",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-14T15:06:52.935Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "搜集",
+        "核心",
+        "信息",
+        "智识",
+        "升级",
+        "你的",
+        "付出",
+        "回报"
+      ]
+    },
+    "memory:memory/2026-04-09.md:37:37": {
+      "key": "memory:memory/2026-04-09.md:37:37",
+      "path": "memory/2026-04-09.md",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Skill 文件位置: `~/.openclaw/skills/skills/yutangzhu-1.0.0/SKILL.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-14T15:06:52.935Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "skill",
+        "文件",
+        "位置",
+        "openclaw",
+        "skills",
+        "yutangzhu",
+        "1.0.0",
+        "skill.md"
+      ]
+    },
+    "memory:memory/2026-04-08.md:6:8": {
+      "key": "memory:memory/2026-04-08.md:6:8",
+      "path": "memory/2026-04-08.md",
+      "startLine": 6,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "微信未读消息梳理（22:27）: 有未读消息：16 个; 总未读数：242 条; 整理陈先生小红书方法论：第3课+第4课核心内容（187条相关消息）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-15T23:20:34.475Z",
+      "queryHashes": [
+        "4320a7af2f21"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "消息",
+        "梳理",
+        "整理",
+        "先生",
+        "方法",
+        "核心",
+        "内容",
+        "相关"
+      ]
+    },
+    "memory:memory/2026-04-08.md:11:14": {
+      "key": "memory:memory/2026-04-08.md:11:14",
+      "path": "memory/2026-04-08.md",
+      "startLine": 11,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "高优先级未读（>10条）: **2026超吉销冠🚩俱乐部** - 101条未读; 1—1000粉阿德互推群 - 27条; **谷声熊书房** - 23条; 公众号 - 20条",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-15T23:20:34.475Z",
+      "queryHashes": [
+        "4320a7af2f21"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "优先",
+        "互推",
+        "书房",
+        "公众"
+      ]
+    },
+    "memory:memory/2026-04-08.md:15:16": {
+      "key": "memory:memory/2026-04-08.md:15:16",
+      "path": "memory/2026-04-08.md",
+      "startLine": 15,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "高优先级未读（>10条）: **👊觉醒&合伙人发售动员群** - 19条; 人事招聘求职网 - 14条",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-15T23:20:34.475Z",
+      "queryHashes": [
+        "4320a7af2f21"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "优先",
+        "觉醒",
+        "合伙人",
+        "动员",
+        "人事",
+        "招聘",
+        "求职"
+      ]
+    },
+    "memory:memory/2026-04-08.md:19:21": {
+      "key": "memory:memory/2026-04-08.md:19:21",
+      "path": "memory/2026-04-08.md",
+      "startLine": 19,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "中优先级未读（5-9条）: 谢石头的𝓝𝓸𝔀𝓱𝓮𝓻𝓮 - 9条; **AI 破圈俱乐部** - 8条; **Refly.AI** - 5条",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-15T23:20:34.475Z",
+      "queryHashes": [
+        "4320a7af2f21"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "5-9条",
+        "refly.ai",
+        "优先",
+        "石头",
+        "nowhere"
+      ]
+    },
+    "memory:memory/2026-04-08.md:25:28": {
+      "key": "memory:memory/2026-04-08.md:25:28",
+      "path": "memory/2026-04-08.md",
+      "startLine": 25,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "陈先生小红书实战方法论整理（23:20）: 从👊4月 | AI+小红书百倍流量变现营群收集陈先生关于小红书的所有内容; 提取第3课（私域运营+月入5位数朋友圈）和第4课（十倍高变现社群运营）核心方法论; 整理成5000+字完整文档，保存至 docs/陈先生小红书实战方法论.md; 核心内容：自我介绍、私域运营、朋友圈变现、社群转化节奏、大愿景等",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:11:55.186Z",
+      "lastRecalledAt": "2026-04-15T23:20:34.475Z",
+      "queryHashes": [
+        "4320a7af2f21"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "docs/陈先生小红书实战方法论.md",
+        "先生",
+        "实战",
+        "方法",
+        "整理",
+        "百倍",
+        "流量",
+        "收集"
+      ]
+    },
+    "memory:memory/2026-04-14.md:43:46": {
+      "key": "memory:memory/2026-04-14.md:43:46",
+      "path": "memory/2026-04-14.md",
+      "startLine": 43,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `核心` kept surfacing across 12 memories.; confidence: 0.75; evidence: memory/2026-04-10.md:16-17, memory/2026-04-10.md:29-29, memory/2026-04-10.md:34-36; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "0.75",
+        "memory/2026-04-10.md",
+        "16-17",
+        "29-29",
+        "34-36",
+        "reflections",
+        "theme",
+        "核心"
+      ]
+    },
+    "memory:memory/2026-04-14.md:49:49": {
+      "key": "memory:memory/2026-04-14.md:49:49",
+      "path": "memory/2026-04-14.md",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-14 03:17:12 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b52e05deda4a4c2202aa683c29ed, file, 1 attachment(s)] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b52e05deda4a4c2202aa683c29ed\", \"sender_",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "message-id",
+        "gmt",
+        "feishu",
+        "cli",
+        "东尼",
+        "attachment",
+        "conversation"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 收到音频文件！让我先下载，然后进行语音识别。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "收到",
+        "文件",
+        "我先",
+        "下载",
+        "然后",
+        "进行",
+        "语音",
+        "识别"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 音频已下载 (60MB OGG 格式)。让我使用硅基流动的 Whisper API 进行语音识别：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "下载",
+        "60mb",
+        "ogg",
+        "格式",
+        "使用",
+        "流动",
+        "whisper",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: **语音识别完成！** 🎉 ## 📝 录音内容摘要 这是一段关于**AI商业化、个人IP打造和圈子合作**的深度对话。让我整理关键要点： --- ### 🎯 核心观点 1. **价值排序**：趋势 > 产品 > 技术 - 技术本身不值钱，需要自己的叙事逻辑 - 要先有叙事，再讲故事，建立信服力 2. **个人叙事梳理** - 以前总回答技术问题，与个人无关 - 现在在梳理自己的叙事模型，准备刻意练习 - 类似龚子证的\"自由人生\"叙事体系 ### 🤝 主要合作圈子 | 合作方 | 合作内容 | 价值 | |--------|-",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "语音",
+        "识别",
+        "完成",
+        "录音",
+        "内容",
+        "摘要",
+        "一段",
+        "关于"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-14 03:21:02 GMT+8] Exec completed (neat-rid, code 0) :: w`). ==> Auto-updated Homebrew! Updated 2 taps (farion1231/ccswitch and steipete/tap). You have 5 outdated formulae and 1 outdated cask installed. Warning: No available formula wi… System (",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "neat-rid",
+        "auto-updated",
+        "farion1231/ccswitch",
+        "steipete/tap",
+        "untrusted",
+        "gmt",
+        "exec",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 录音已经识别完成！让我为你进行精炼总结： ## 📋 核心内容总结 **主题**：AI商业化路径、个人IP打造与圈子资源整合 --- ### 🎯 关键洞察 1. **技术不值钱，叙事才值钱** - \"趋势 > 产品 > 技术\" - 需要建立个人叙事逻辑（如龚子证的\"自由人生\"） - 不要只回答技术问题，要讲自己的故事 2. **破圈策略** - 入住觉醒合伙人，绑定施总推流 - 通过内训、线下分享建立AI专家人设 - 借助杨哥四海、龚子证等大佬背书 ### 💰 产品体系规划 | 产品类型 | 价格 | 状态 | |-------",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "录音",
+        "已经",
+        "识别",
+        "完成",
+        "进行",
+        "精炼",
+        "总结",
+        "核心"
+      ]
+    },
+    "memory:memory/2026-04-14.md:203:206": {
+      "key": "memory:memory/2026-04-14.md:203:206",
+      "path": "memory/2026-04-14.md",
+      "startLine": 203,
+      "endLine": 206,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `核心` kept surfacing across 12 memories.; confidence: 0.75; evidence: memory/2026-04-10.md:16-17, memory/2026-04-10.md:29-29, memory/2026-04-10.md:34-36; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "0.75",
+        "memory/2026-04-10.md",
+        "16-17",
+        "29-29",
+        "34-36",
+        "reflections",
+        "theme",
+        "核心"
+      ]
+    },
+    "memory:memory/2026-04-14.md:209:209": {
+      "key": "memory:memory/2026-04-14.md:209:209",
+      "path": "memory/2026-04-14.md",
+      "startLine": 209,
+      "endLine": 209,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:55:41.659Z",
+      "lastRecalledAt": "2026-04-13T19:55:41.659Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-14.md:203:203": {
+      "key": "memory:memory/2026-04-14.md:203:203",
+      "path": "memory/2026-04-14.md",
+      "startLine": 203,
+      "endLine": 203,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:56:11.790Z",
+      "lastRecalledAt": "2026-04-13T19:56:11.790Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-14.md:206:206": {
+      "key": "memory:memory/2026-04-14.md:206:206",
+      "path": "memory/2026-04-14.md",
+      "startLine": 206,
+      "endLine": 206,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:56:11.790Z",
+      "lastRecalledAt": "2026-04-13T19:56:11.790Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-14.md:208:208": {
+      "key": "memory:memory/2026-04-14.md:208:208",
+      "path": "memory/2026-04-14.md",
+      "startLine": 208,
+      "endLine": 208,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:56:11.790Z",
+      "lastRecalledAt": "2026-04-14T12:33:49.631Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-14.md:211:211": {
+      "key": "memory:memory/2026-04-14.md:211:211",
+      "path": "memory/2026-04-14.md",
+      "startLine": 211,
+      "endLine": 211,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T19:56:11.790Z",
+      "lastRecalledAt": "2026-04-14T12:33:49.631Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-14 19:31:26 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b52d61619f0b0c2ed65f348e853a] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b52d61619f0b0c2ed65f348e853a\", \"sender_id\": \"ou_09ee86eb274331",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T12:33:49.631Z",
+      "lastRecalledAt": "2026-04-14T12:33:49.631Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "message-id",
+        "sender-id",
+        "ou-09ee86eb274331",
+        "gmt",
+        "feishu",
+        "cli",
+        "东尼"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 有。我可以用 `feishu_sheet` 工具操作飞书电子表格，包括： - **读取**表格数据（支持指定范围、工作表） - **写入/追加**数据 - **查找**单元格 - **创建**新表格 - **导出**为 xlsx/csv 或者用 `lark-cli` 命令行方式操作。 要处理哪个表格？直接甩 URL 或 token 就行。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T12:33:49.631Z",
+      "lastRecalledAt": "2026-04-14T12:33:49.631Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "feishu-sheet",
+        "写入/追加",
+        "xlsx/csv",
+        "lark-cli",
+        "可以",
+        "工具",
+        "操作",
+        "电子"
+      ]
+    },
+    "memory:memory/2026-04-14.md:218:218": {
+      "key": "memory:memory/2026-04-14.md:218:218",
+      "path": "memory/2026-04-14.md",
+      "startLine": 218,
+      "endLine": 218,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T12:33:49.631Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-14.md:221:221": {
+      "key": "memory:memory/2026-04-14.md:221:221",
+      "path": "memory/2026-04-14.md",
+      "startLine": 221,
+      "endLine": 221,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T12:33:49.631Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-14 22:58:29 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b52d12f8ec0a8b20a11c8884bff6, reply_to:om_x100b5251a3b36ca0c22391539acc4e0] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b52d12f8ec0a8b20",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "reply-to",
+        "message-id",
+        "om-x100b52d12f8ec0a8b20",
+        "gmt",
+        "feishu",
+        "cli",
+        "东尼"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 我看了一下上下文，有点混乱： 1. **你回复的消息**（`om_x100b5251a3b36ca0c22391539acc4e0`）显示了一个完整的 WeChat CLI 测试报告 2. **但我这个会话（mi-cli）从来没有发送过那个消息内容** 3. 我之前只回复了关于**飞书表格权限**的内容 这看起来是另一个会话的消息被错误关联到了这里。可能是： - 另一个 agent（比如 `content-collector` 或其他技能）发送的消息 - 系统上下文出现了错位 **实际情况：** - 我（mi-cli）是 **CLI",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "content-collector",
+        "看了",
+        "一下",
+        "上下文",
+        "有点",
+        "混乱",
+        "回复"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-14 22:59:36 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b52d12bbbc8acb285fb3d32a493d] Conversation info (untrusted metadata): ```json { \"message_id\": \"om_x100b52d12bbbc8acb285fb3d32a493d\", \"sender_id\": \"ou_09ee86eb274331",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "message-id",
+        "sender-id",
+        "ou-09ee86eb274331",
+        "gmt",
+        "feishu",
+        "cli",
+        "东尼"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 我（mi-cli）是飞书 CLI 专家，但让我检查一下系统上是否安装了 WeChat CLI：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "cli",
+        "专家",
+        "检查",
+        "一下",
+        "系统",
+        "是否",
+        "安装"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 确实已安装！让我检查配置并运行：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "确实",
+        "安装",
+        "检查",
+        "配置",
+        "运行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-14.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-14.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-14.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: WeChat CLI 已安装并运行正常！ ``` 版本信息: 已安装在 /usr/local/bin/wechat-cli ``` 当前运行状态： ##### 最近 5 个会话 | 群聊/私聊 | 未读 | 最后消息 | 时间 | |-----------|------|----------|------| | 今天晚8⭐创始人闭门会 | 42条 | 后续报名的小伙伴... | 04-14 23:01 | | 杨哥的创富陪伴圈 | 54条 | \"千小语\" 拍了拍... | 04-14 22:59 | | 破局领航计划-小红书AI |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-14T15:05:23.491Z",
+      "queryHashes": [
+        "91b74f012fab"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "usr/local/bin/wechat-cli",
+        "群聊/私聊",
+        "04-14",
+        "破局领航计划-小红书ai",
+        "wechat",
+        "cli",
+        "安装",
+        "运行"
+      ]
+    },
+    "memory:memory/2026-04-14.md:243:243": {
+      "key": "memory:memory/2026-04-14.md:243:243",
+      "path": "memory/2026-04-14.md",
+      "startLine": 243,
+      "endLine": 243,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 2,
+      "groundedCount": 0,
+      "totalScore": 1.24,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-21T19:34:52.590Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-22",
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-14.md:246:246": {
+      "key": "memory:memory/2026-04-14.md:246:246",
+      "path": "memory/2026-04-14.md",
+      "startLine": 246,
+      "endLine": 246,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 2,
+      "groundedCount": 0,
+      "totalScore": 1.24,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T15:05:23.491Z",
+      "lastRecalledAt": "2026-04-21T19:34:52.590Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-22",
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-15.md:243:243": {
+      "key": "memory:memory/2026-04-15.md:243:243",
+      "path": "memory/2026-04-15.md",
+      "startLine": 243,
+      "endLine": 243,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T16:15:36.180Z",
+      "lastRecalledAt": "2026-04-14T16:15:36.180Z",
+      "queryHashes": [
+        "4c4c0cb04efa"
+      ],
+      "recallDays": [
+        "2026-04-15",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-15.md:246:246": {
+      "key": "memory:memory/2026-04-15.md:246:246",
+      "path": "memory/2026-04-15.md",
+      "startLine": 246,
+      "endLine": 246,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T16:15:36.180Z",
+      "lastRecalledAt": "2026-04-14T16:15:36.180Z",
+      "queryHashes": [
+        "4c4c0cb04efa"
+      ],
+      "recallDays": [
+        "2026-04-15",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-15.md:253:253": {
+      "key": "memory:memory/2026-04-15.md:253:253",
+      "path": "memory/2026-04-15.md",
+      "startLine": 118,
+      "endLine": 118,
+      "source": "memory",
+      "snippet": "- Candidate: Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 3,
+      "groundedCount": 0,
+      "totalScore": 1.8599999999999999,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T16:15:36.180Z",
+      "lastRecalledAt": "2026-04-22T19:23:31.681Z",
+      "queryHashes": [
+        "4c4c0cb04efa"
+      ],
+      "recallDays": [
+        "2026-04-15",
+        "2026-04-14",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "candidate",
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:31.681Z"
+    },
+    "memory:memory/2026-04-15.md:256:256": {
+      "key": "memory:memory/2026-04-15.md:256:256",
+      "path": "memory/2026-04-15.md",
+      "startLine": 123,
+      "endLine": 123,
+      "source": "memory",
+      "snippet": "- Candidate: Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 3,
+      "groundedCount": 0,
+      "totalScore": 1.8599999999999999,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T16:15:36.180Z",
+      "lastRecalledAt": "2026-04-22T19:23:31.681Z",
+      "queryHashes": [
+        "4c4c0cb04efa"
+      ],
+      "recallDays": [
+        "2026-04-15",
+        "2026-04-14",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "candidate",
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:31.681Z"
+    },
+    "memory:memory/2026-04-16.md:253:253": {
+      "key": "memory:memory/2026-04-16.md:253:253",
+      "path": "memory/2026-04-16.md",
+      "startLine": 253,
+      "endLine": 253,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-15T16:50:34.037Z",
+      "lastRecalledAt": "2026-04-15T16:50:34.037Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-16.md:256:256": {
+      "key": "memory:memory/2026-04-16.md:256:256",
+      "path": "memory/2026-04-16.md",
+      "startLine": 256,
+      "endLine": 256,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-15T16:50:34.037Z",
+      "lastRecalledAt": "2026-04-15T16:50:34.037Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-16.md:263:263": {
+      "key": "memory:memory/2026-04-16.md:263:263",
+      "path": "memory/2026-04-16.md",
+      "startLine": 263,
+      "endLine": 263,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-15T16:50:34.037Z",
+      "lastRecalledAt": "2026-04-16T00:47:23.944Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-16.md:266:266": {
+      "key": "memory:memory/2026-04-16.md:266:266",
+      "path": "memory/2026-04-16.md",
+      "startLine": 266,
+      "endLine": 266,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-15T16:50:34.037Z",
+      "lastRecalledAt": "2026-04-16T00:47:23.944Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-16.md:228:228": {
+      "key": "memory:memory/2026-04-16.md:228:228",
+      "path": "memory/2026-04-16.md",
+      "startLine": 228,
+      "endLine": 228,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T00:47:23.944Z",
+      "lastRecalledAt": "2026-04-23T23:53:06.510Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-23T23:23:43.892Z"
+    },
+    "memory:memory/2026-04-16.md:231:231": {
+      "key": "memory:memory/2026-04-16.md:231:231",
+      "path": "memory/2026-04-16.md",
+      "startLine": 231,
+      "endLine": 231,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T00:47:23.944Z",
+      "lastRecalledAt": "2026-04-23T23:53:06.510Z",
+      "queryHashes": [
+        "b628913e3912"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:31.681Z"
+    },
+    "memory:memory/2026-04-17.md:228:228": {
+      "key": "memory:memory/2026-04-17.md:228:228",
+      "path": "memory/2026-04-17.md",
+      "startLine": 228,
+      "endLine": 228,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.290Z",
+      "lastRecalledAt": "2026-04-16T19:53:55.290Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-17.md:231:231": {
+      "key": "memory:memory/2026-04-17.md:231:231",
+      "path": "memory/2026-04-17.md",
+      "startLine": 231,
+      "endLine": 231,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.290Z",
+      "lastRecalledAt": "2026-04-16T19:53:55.290Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-17.md:238:238": {
+      "key": "memory:memory/2026-04-17.md:238:238",
+      "path": "memory/2026-04-17.md",
+      "startLine": 238,
+      "endLine": 238,
+      "source": "memory",
+      "snippet": "Reflections: No strong patterns surfaced.",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.290Z",
+      "lastRecalledAt": "2026-04-23T23:53:06.510Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "reflections",
+        "strong",
+        "patterns",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:31.681Z"
+    },
+    "memory:memory/2026-04-17.md:241:241": {
+      "key": "memory:memory/2026-04-17.md:241:241",
+      "path": "memory/2026-04-17.md",
+      "startLine": 241,
+      "endLine": 241,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 4,
+      "groundedCount": 0,
+      "totalScore": 2.48,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-16T19:53:55.290Z",
+      "lastRecalledAt": "2026-04-23T23:53:06.510Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-16",
+        "2026-04-22",
+        "2026-04-21",
+        "2026-04-23",
+        "2026-04-24"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ],
+      "promotedAt": "2026-04-22T19:23:31.681Z"
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-23 23:50:09 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b5197b5c1b4a0c223e308fb99598] 你现在用的什么模型",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T23:23:43.892Z",
+      "lastRecalledAt": "2026-04-23T23:23:43.892Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "gmt",
+        "feishu",
+        "cli",
+        "东尼",
+        "现在",
+        "什么",
+        "模型"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 我现在使用的是 **volcengine-plan/glm-4.7** 模型。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T23:23:43.892Z",
+      "lastRecalledAt": "2026-04-23T23:23:43.892Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "volcengine-plan/glm-4.7",
+        "现在",
+        "使用",
+        "的是",
+        "volcengine",
+        "plan",
+        "glm",
+        "4.7"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-24 06:54:50 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b519e510e78a0b2265fc2dc7ce61] 早上好，杭州天气如何，如何穿搭",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T23:23:43.892Z",
+      "lastRecalledAt": "2026-04-23T23:23:43.892Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "gmt",
+        "feishu",
+        "cli",
+        "东尼",
+        "早上",
+        "杭州",
+        "天气"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-24.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-24.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-24.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 早上好！☀️ **杭州当前天气情况：** - 🌡️ 温度：13°C（体感 14°C） - ☁️ 天气：多云 - 💧 湿度：94%（较高） - 💨 风速：4 km/h（微风） - 👁️ 能见度：7 km **今日穿搭建议：** **👔 上衣：** - 长袖T恤或薄毛衣 - 湿度较高，建议选择透气面料（棉质、麻质） **🧥 外套：** - 轻便外套或薄夹克 - 温度适中，但早晚可能偏凉 **👖 下装：** - 长裤（牛仔裤或休闲长裤） - 建议避免紧身裤，提高舒适度 **👟 鞋履：** - 运动鞋或休闲鞋 - 避免皮鞋，",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T23:23:43.892Z",
+      "lastRecalledAt": "2026-04-23T23:23:43.892Z",
+      "queryHashes": [
+        "c2c2313ce194"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "km/h",
+        "早上",
+        "杭州",
+        "当前",
+        "天气",
+        "情况",
+        "温度",
+        "体感"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 安装Pixelle-Video",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:02:14.609Z",
+      "lastRecalledAt": "2026-04-29T19:02:14.609Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "安装pixelle-video",
+        "安装",
+        "pixelle",
+        "video"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 我来帮你查找 Pixelle-Video 的安装信息。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:02:14.609Z",
+      "lastRecalledAt": "2026-04-29T19:02:14.609Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "pixelle-video",
+        "我来",
+        "查找",
+        "pixelle",
+        "video",
+        "安装",
+        "信息"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 根据搜索结果，Pixelle-Video 是一个 AI 自动化短视频引擎，可以从源代码安装。以下是安装步骤： ## 安装步骤 ### 方法一：从源代码安装（推荐 macOS/Linux） ```bash # 1. 克隆仓库 git clone https://github.com/wanggit/Pixelle-Video.git cd Pixelle-Video # 2. 使用 uv 安装依赖（推荐，比 pip 更快更可靠） # 如果还没有安装 uv，先安装： pip install uv # 使用 uv 安装依赖 uv sync",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T19:02:14.609Z",
+      "lastRecalledAt": "2026-04-29T19:02:14.609Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-30",
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "pixelle-video",
+        "macos/linux",
+        "根据",
+        "搜索",
+        "结果",
+        "pixelle",
+        "video",
+        "一个"
+      ]
+    }
+  }
+}

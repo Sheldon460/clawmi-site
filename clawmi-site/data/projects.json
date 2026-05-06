@@ -1,0 +1,53 @@
+[
+  {
+    "id": "baby-book",
+    "name": "Baby Book",
+    "tagline": "记录宝宝成长的每一个瞬间",
+    "description": "专为新手父母设计的智能育儿日记，支持照片时间轴、成长里程碑追踪、家庭成员共享等功能。让珍贵的童年回忆永不褪色。",
+    "icon": "👶",
+    "color": "from-pink-400 to-rose-400",
+    "bgColor": "bg-pink-50",
+    "features": ["照片时间轴", "成长里程碑", "家庭共享", "云端备份"],
+    "tech": ["Next.js", "Supabase", "AI Vision"],
+    "status": "已上线",
+    "link": "#",
+    "stats": {
+      "users": "2,000+",
+      "photos": "50,000+"
+    }
+  },
+  {
+    "id": "daily-diary",
+    "name": "Daily Diary",
+    "tagline": "AI 驱动的智能日记助手",
+    "description": "不只是记录，更是理解。Daily Diary 利用 AI 分析你的情绪变化，自动生成每周/每月的心情报告，帮你更好地认识自己。",
+    "icon": "📔",
+    "color": "from-amber-400 to-orange-400",
+    "bgColor": "bg-amber-50",
+    "features": ["AI 情绪分析", "自动标签", "语音转文字", "隐私加密"],
+    "tech": ["React Native", "OpenAI", "SQLite"],
+    "status": "内测中",
+    "link": "#",
+    "stats": {
+      "betaUsers": "500+",
+      "entries": "12,000+"
+    }
+  },
+  {
+    "id": "family-album",
+    "name": "Family Album",
+    "tagline": "全家人的共享相册",
+    "description": "打破设备壁垒，让爷爷奶奶也能轻松查看孙辈的照片。智能人脸识别自动归类，一键生成精美相册书。",
+    "icon": "🏠",
+    "color": "from-teal-400 to-emerald-400",
+    "bgColor": "bg-teal-50",
+    "features": ["跨平台同步", "人脸识别", "相册书打印", "大屏展示"],
+    "tech": ["Flutter", "AWS", "TensorFlow"],
+    "status": "开发中",
+    "link": "#",
+    "stats": {
+      "waitlist": "1,500+",
+      "families": "待发布"
+    }
+  }
+]

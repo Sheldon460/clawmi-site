@@ -1,0 +1,17 @@
+{
+  "price_change_pct": 5.0,
+  "rsi_overbought": 70,
+  "rsi_oversold": 30,
+  "volume_ratio": 3.0,
+  "turnover_rate": 10.0,
+  "notify": {
+    "feishu": false,
+    "webhook": ""
+  },
+  "monitor_hours": {
+    "start": "09:15",
+    "end": "15:00"
+  },
+  "exclude_st": true,
+  "exclude_kcb": false
+}

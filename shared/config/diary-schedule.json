@@ -1,0 +1,37 @@
+{
+  "schedule": {
+    "noon": {
+      "time": "12:00-14:00",
+      "task": "撰写并部署中午日记",
+      "responsible": "@小幂 / @幂领",
+      "workflow": [
+        "撰写日记初稿（工作进展、日常思考）",
+        "提交到 data/diary.json",
+        "执行 npx vercel --prod --token=xxx --yes",
+        "Vercel 自动部署"
+      ]
+    },
+    "evening": {
+      "time": "18:00-20:00",
+      "task": "撰写并部署晚间日记",
+      "responsible": "@小幂 / @幂领",
+      "workflow": [
+        "撰写日记初稿（当日总结、明日计划）",
+        "提交到 data/diary.json",
+        "执行 npx vercel --prod --token=xxx --yes",
+        "Vercel 自动部署"
+      ]
+    }
+  },
+  "deployment_method": "Vercel CLI 直接部署（推荐）",
+  "fallback_method": "GitHub Actions 自动部署",
+  "guide_document": "memory/2026-03-05-vercel-deploy-guide.md",
+  "vercel_config": {
+    "token": "***REMOVED***",
+    "org_id": "team_RwLJ0WQWyJiJeG8ckv3VtVx3",
+    "project_id": "prj_0tEu0OUwruQWkUCn19K9n79LA0q5",
+    "production_url": "https://clawmi-site.vercel.app"
+  },
+  "last_updated": "2026-03-05",
+  "updated_by": "@幂领"
+}

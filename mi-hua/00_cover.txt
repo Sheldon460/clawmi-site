@@ -1,0 +1,131 @@
+Loaded cached credentials.
+Loading extension: Stitch
+Loading extension: chrome-devtools-mcp
+Loading extension: conductor
+Loading extension: context7
+Loading extension: exa-mcp-server
+Loading extension: github
+Loading extension: google-genmedia-extension
+Loading extension: google-workspace
+Loading extension: lark-mcp
+Loading extension: mcp-toolbox
+Loading extension: mcp-toolbox-for-databases
+Loading extension: nanobanana
+Scheduling MCP context refresh...
+Executing MCP context refresh...
+MCP context refresh already in progress, queuing trailing execution.
+Registering notification handlers for server 'veo'. Capabilities: { prompts: {}, tools: { listChanged: true } }
+Server 'veo' supports tool updates. Listening for changes...
+Server 'veo' has prompts but did not declare 'listChanged' capability. Listening anyway for robustness...
+Registering notification handlers for server 'avtool'. Capabilities: { prompts: {}, tools: { listChanged: true } }
+Server 'avtool' supports tool updates. Listening for changes...
+Server 'avtool' has prompts but did not declare 'listChanged' capability. Listening anyway for robustness...
+Registering notification handlers for server 'imagen'. Capabilities: {
+  prompts: {},
+  resources: { subscribe: true, listChanged: true },
+  tools: { listChanged: true }
+}
+Server 'imagen' supports tool updates. Listening for changes...
+Server 'imagen' supports resource updates. Listening for changes...
+Server 'imagen' has prompts but did not declare 'listChanged' capability. Listening anyway for robustness...
+Registering notification handlers for server 'lyria'. Capabilities: { prompts: {}, tools: { listChanged: true } }
+Server 'lyria' supports tool updates. Listening for changes...
+Server 'lyria' has prompts but did not declare 'listChanged' capability. Listening anyway for robustness...
+MCP context refresh complete.
+Coalescing burst refresh requests (300ms delay)...
+Registering notification handlers for server 'nanobanana'. Capabilities: { tools: {} }
+Server 'nanobanana' has tools but did not declare 'listChanged' capability. Listening anyway for robustness...
+Executing MCP context refresh...
+MCP context refresh complete.
+[MCP error] Error during discovery for MCP server 'mcp_toolbox': MCP error -32000: Connection closed McpError: MCP error -32000: Connection closed
+    at McpError.fromError (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@modelcontextprotocol/sdk/dist/esm/types.js:2035:16)
+    at Client._onclose (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@modelcontextprotocol/sdk/dist/esm/shared/protocol.js:263:32)
+    at _transport.onclose (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@modelcontextprotocol/sdk/dist/esm/shared/protocol.js:223:18)
+    at ChildProcess.<anonymous> (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@modelcontextprotocol/sdk/dist/esm/client/stdio.js:85:31)
+    at ChildProcess.emit (node:events:508:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:457:11)
+    at Socket.emit (node:events:508:28)
+    at Pipe.<anonymous> (node:net:346:12) {
+  code: -32000,
+  data: undefined
+}
+MCP issues detected. Run /mcp list for status.Registering notification handlers for server 'fetch'. Capabilities: {
+  experimental: {},
+  prompts: { listChanged: false },
+  tools: { listChanged: false }
+}
+Server 'fetch' has tools but did not declare 'listChanged' capability. Listening anyway for robustness...
+Server 'fetch' has prompts but did not declare 'listChanged' capability. Listening anyway for robustness...
+[MCP error] Error during discovery for MCP server 'github': Streamable HTTP error: Error POSTing to endpoint: bad request: Authorization header is badly formatted
+ StreamableHTTPError: Streamable HTTP error: Error POSTing to endpoint: bad request: Authorization header is badly formatted
+
+    at StreamableHTTPClientTransport.send (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@modelcontextprotocol/sdk/dist/esm/client/streamableHttp.js:364:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) {
+  code: 400
+}
+Registering notification handlers for server 'google-workspace'. Capabilities: { tools: { listChanged: true } }
+Server 'google-workspace' supports tool updates. Listening for changes...
+Registering notification handlers for server 'stitch'. Capabilities: { tools: { listChanged: false } }
+Server 'stitch' has tools but did not declare 'listChanged' capability. Listening anyway for robustness...
+Registering notification handlers for server 'chirp3-hd'. Capabilities: { prompts: {}, resources: {}, tools: { listChanged: true } }
+Server 'chirp3-hd' supports tool updates. Listening for changes...
+Server 'chirp3-hd' has resources but did not declare 'listChanged' capability. Listening anyway for robustness...
+Server 'chirp3-hd' has prompts but did not declare 'listChanged' capability. Listening anyway for robustness...
+Registering notification handlers for server 'context7'. Capabilities: { tools: { listChanged: true } }
+Server 'context7' supports tool updates. Listening for changes...
+Registering notification handlers for server 'context7'. Capabilities: { tools: { listChanged: true } }
+Server 'context7' supports tool updates. Listening for changes...
+Tool with name "mcp_context7_resolve-library-id" is already registered. Overwriting.
+Tool with name "mcp_context7_query-docs" is already registered. Overwriting.
+Registering notification handlers for server 'chrome-devtools'. Capabilities: { logging: {}, tools: { listChanged: true } }
+Server 'chrome-devtools' supports tool updates. Listening for changes...
+Registering notification handlers for server 'playwright'. Capabilities: { tools: {} }
+Server 'playwright' has tools but did not declare 'listChanged' capability. Listening anyway for robustness...
+Scheduling MCP context refresh...
+Executing MCP context refresh...
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh complete.
+Coalescing burst refresh requests (300ms delay)...
+Executing MCP context refresh...
+MCP context refresh complete.
+Registering notification handlers for server 'lark-mcp'. Capabilities: { tools: { listChanged: true } }
+Server 'lark-mcp' supports tool updates. Listening for changes...
+Registering notification handlers for server 'exa'. Capabilities: {
+  completions: {},
+  prompts: { listChanged: true },
+  resources: { listChanged: true },
+  tools: { listChanged: true }
+}
+Server 'exa' supports tool updates. Listening for changes...
+Server 'exa' supports resource updates. Listening for changes...
+Server 'exa' supports prompt updates. Listening for changes...
+Scheduling MCP context refresh...
+Executing MCP context refresh...
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh already in progress, queuing trailing execution.
+MCP context refresh complete.
+Coalescing burst refresh requests (300ms delay)...
+Executing MCP context refresh...
+MCP context refresh complete.
+Skill "skill-creator" from "/Volumes/My house/Users/Sheldon/.gemini/skills/skill-creator/SKILL.md" is overriding the built-in skill.
+Skill conflict detected: "remotion-best-practices" from "/Volumes/My house/Users/Sheldon/.agents/skills/remotion-best-practices/SKILL.md" is overriding the same skill from "/Volumes/My house/Users/Sheldon/.gemini/skills/remotion/SKILL.md".Skill conflict detected: "frontend-design" from "/Volumes/My house/Users/Sheldon/.agents/skills/frontend-design-3-0.1.0/SKILL.md" is overriding the same skill from "/Volumes/My house/Users/Sheldon/.gemini/skills/frontend-design/SKILL.md".Error when talking to Gemini API Full report available at: /var/folders/z_/vs2x14996njcmms0czk3q2980000gn/T/gemini-client-error-Turn.run-sendMessageStream-2026-03-29T07-10-50-158Z.json ModelNotFoundError: Requested entity was not found.
+    at classifyGoogleError (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/googleQuotaErrors.js:166:16)
+    at retryWithBackoff (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:190:37)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async GeminiChat.makeApiCallAndProcessStream (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:453:32)
+    at async GeminiChat.streamWithRetries (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:267:40)
+    at async Turn.run (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/turn.js:71:30)
+    at async GeminiClient.processTurn (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:494:26)
+    at async GeminiClient.sendMessageStream (file:///usr/local/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/client.js:613:20)
+    at async file:///usr/local/lib/node_modules/@google/gemini-cli/dist/src/nonInteractiveCli.js:195:34
+    at async main (file:///usr/local/lib/node_modules/@google/gemini-cli/dist/src/gemini.js:452:9) {
+  code: 404
+}
+An unexpected critical error occurred:[object Object]

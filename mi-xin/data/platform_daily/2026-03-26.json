@@ -1,0 +1,24 @@
+{
+  "date": "2026-03-26",
+  "platform": "微信公众号",
+  "articles": [
+    {
+      "title": "龙虾时代的普通人突围：为什么不会代码反而是你的优势",
+      "author": "陈同学AGI",
+      "media_id": "_9ibZdusdmeqZ4ujHJe6rnpsgN3PrmZmOcaW1CvLRlU1Ux8G76yG1qdlQtMkhZso",
+      "word_count": 2800,
+      "published_at": "2026-03-26T12:10:00+08:00",
+      "source": "快刀青衣「AI龙虾十日谈」系列直播",
+      "tags": ["AI", "OpenClaw", "龙虾", "普通人", "认知升级"],
+      "fact_checked": true,
+      "workflow_version": "SOP V3.2",
+      "agents_involved": ["mi-wen", "mi-hua"],
+      "images_count": 3
+    }
+  ],
+  "daily_stats": {
+    "total_articles": 1,
+    "total_word_count": 2800,
+    "avg_production_time": "约40分钟"
+  }
+}

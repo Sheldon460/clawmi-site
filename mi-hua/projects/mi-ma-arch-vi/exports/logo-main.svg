@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120" width="500" height="120">
+  <defs>
+    <linearGradient id="brandGradientMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A1628"/>
+      <stop offset="50%" style="stop-color:#1E3A5F"/>
+      <stop offset="100%" style="stop-color:#00D4AA"/>
+    </linearGradient>
+    <linearGradient id="textGradientMain" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A1628"/>
+      <stop offset="100%" style="stop-color:#00D4AA"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 图形标志 (左侧) -->
+  <g transform="translate(20, 10)">
+    <!-- 外框：建筑结构感 -->
+    <path d="M0 22.5 L40 7.5 L80 22.5 L80 67.5 L40 82.5 L0 67.5 Z" 
+          fill="none" 
+          stroke="url(#brandGradientMain)" 
+          stroke-width="2"
+          stroke-linejoin="round"/>
+    
+    <!-- 左括号 -->
+    <path d="M20 31.5 L15 36 L15 54 L20 58.5" 
+          fill="none" 
+          stroke="#00D4AA" 
+          stroke-width="2.5"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+    
+    <!-- 右括号 -->
+    <path d="M60 31.5 L65 36 L65 54 L60 58.5" 
+          fill="none" 
+          stroke="#00D4AA" 
+          stroke-width="2.5"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+    
+    <!-- 中心节点 -->
+    <circle cx="40" cy="45" r="4.5" fill="#00D4AA"/>
+    
+    <!-- 连接线 -->
+    <line x1="28" y1="45" x2="36" y2="45" stroke="#6366F1" stroke-width="1.5"/>
+    <line x1="44" y1="45" x2="52" y2="45" stroke="#6366F1" stroke-width="1.5"/>
+  </g>
+  
+  <!-- 分隔线 -->
+  <line x1="115" y1="20" x2="115" y2="100" stroke="#E2E8F0" stroke-width="1"/>
+  
+  <!-- 文字部分 (右侧) -->
+  <g transform="translate(135, 35)">
+    <!-- 英文标识 -->
+    <text x="0" y="30" 
+          font-family="'Space Grotesk', 'Inter', sans-serif" 
+          font-size="32" 
+          font-weight="600" 
+          fill="url(#textGradientMain)"
+          letter-spacing="0.12em">MI-MA-ARCH</text>
+    
+    <!-- 中文标识 -->
+    <text x="0" y="60" 
+          font-family="'Noto Sans SC', 'Source Han Sans', sans-serif" 
+          font-size="18" 
+          font-weight="500" 
+          fill="#475569"
+          letter-spacing="0.3em">幂码 - 架构</text>
+    
+    <!-- 装饰线 -->
+    <line x1="280" y1="25" x2="340" y2="25" stroke="#00D4AA" stroke-width="2"/>
+    <circle cx="340" cy="25" r="3" fill="#00D4AA"/>
+  </g>
+</svg>

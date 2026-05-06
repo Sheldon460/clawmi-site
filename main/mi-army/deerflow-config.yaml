@@ -1,0 +1,118 @@
+# DeerFlow 风格子代理编排配置
+
+# 代理池配置
+agents:
+  # 研究型代理
+  research:
+    - id: mi-zhi
+      name: 幂智
+      role: 首席信息官
+      capabilities: [web_search, web_fetch, browser, data_analysis]
+      max_parallel: 3
+      
+  # 编码型代理
+  coding:
+    - id: mi-ma-code
+      name: 幂码-编程
+      role: 核心编程
+      capabilities: [exec, code_review, debugging]
+      max_parallel: 2
+      
+    - id: mi-ma-arch
+      name: 幂码-架构
+      role: 首席架构师
+      capabilities: [architecture_design, code_review]
+      max_parallel: 1
+      
+  # 内容型代理
+  content:
+    - id: mi-wen
+      name: 幂文
+      role: 内容创作师
+      capabilities: [writing, editing, translation]
+      max_parallel: 2
+      
+    - id: mi-hua
+      name: 幂画
+      role: 视觉设计师
+      capabilities: [image_generation, design]
+      max_parallel: 2
+      
+  # 运营型代理
+  operations:
+    - id: mi-ling
+      name: 幂领
+      role: 运营总监
+      capabilities: [task_coordination, quality_check]
+      max_parallel: 1
+
+# 任务编排模式
+workflows:
+  # 深度研究流程
+  deep_research:
+    name: 深度研究
+    description: 多代理并行研究，综合输出报告
+    steps:
+      - parallel:
+          - agent: mi-zhi
+            task_template: "研究主题背景: {topic}"
+          - agent: mi-zhi
+            task_template: "研究市场现状: {topic}"
+          - agent: mi-zhi
+            task_template: "研究技术趋势: {topic}"
+      - sequential:
+          - agent: mi-wen
+            task_template: "基于研究结果撰写报告: {research_results}"
+          - agent: mi-ling
+            task_template: "审核并优化报告: {draft_report}"
+            
+  # 全栈开发流程
+  fullstack_dev:
+    name: 全栈开发
+    description: 从需求到代码的完整开发流程
+    steps:
+      - sequential:
+          - agent: mi-ma-arch
+            task_template: "设计系统架构: {requirements}"
+          - parallel:
+              - agent: mi-ma-code
+                task_template: "实现后端: {architecture}"
+              - agent: mi-ma-code
+                task_template: "实现前端: {architecture}"
+          - agent: mi-ce
+            task_template: "测试代码: {code}"
+            
+  # 内容创作流程
+  content_creation:
+    name: 内容创作
+    description: 从选题到发布的完整内容流程
+    steps:
+      - parallel:
+          - agent: mi-zhi
+            task_template: "调研热门话题"
+          - agent: mi-zhi
+            task_template: "分析竞品内容"
+      - sequential:
+          - agent: mi-wen
+            task_template: "撰写文案: {topic}"
+          - agent: mi-hua
+            task_template: "设计配图: {content}"
+          - agent: mi-xin
+            task_template: "发布到公众号: {final_content}"
+
+# 执行配置
+execution:
+  # 默认超时时间（秒）
+  default_timeout: 300
+  
+  # 最大重试次数
+  max_retries: 2
+  
+  # 结果聚合策略
+  aggregation:
+    strategy: "concatenate"  # concatenate, summarize, or vote
+    
+  # 错误处理
+  error_handling:
+    on_failure: "fallback"  # fallback, retry, or abort
+    fallback_agent: "mi-ling"

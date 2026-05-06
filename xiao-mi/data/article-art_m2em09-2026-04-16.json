@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": "art_m2em09",
+    "title": "An Arm Mainboard for the Framework Laptop",
+    "link": "https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/",
+    "pub_date": "2026-04-15T22:49:00+08:00",
+    "content": "<p>Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a <a href=\"https://github.com/geerlingguy/sbc-reviews/issues/90\">Ryzen AI 5 340 Mainboard</a>), the fastest RISC-V option (<a href=\"https://github.com/geerlingguy/sbc-reviews/issues/82\">DC-ROMA II</a>), and today I'm publishing results from the only Arm Mainboard, the <a href=\"https://github.com/geerlingguy/sbc-reviews/issues/103\">MetaComputing AI PC</a>, which has a 12-core Arm SoC and up to 32 GB of soldered-on RAM.</p>\n<figure class=\"insert-image\"><img src=\"https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-arm-framework-hero.jpg\"\n alt=\"MetaComputing AI PC Mainboard next to Framework 13 laptop\" width=\"700\" height=\"auto\">\n</figure>\n\n<p>My Framework 13 has run on x86, RISC-V, and now Arm, making it something of a 'Ship of Theseus'.</p>",
+    "content_snippet": "Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a Ryzen AI 5 340 Mainboard ), the fastest RISC-V option ( DC-ROMA II ), and today I'm publishing results from the only Arm Mainboard, the MetaComputing AI PC , which has a 12-core Arm SoC and up to 32 GB of...",
+    "source": "jeffgeerling.com",
+    "source_url": "https://jeffgeerling.com",
+    "category": "Hardware",
+    "author": "jeff@jeffgeerling.com (Jeff Geerling)",
+    "likes": 1,
+    "bookmark_count": 0,
+    "url": "/article/art_m2em09",
+    "liked_by_me": false,
+    "bookmarked_by_me": false
+  },
+  "suggested_actions": [
+    "POST /api/v1/articles/art_m2em09/like -- Like this article",
+    "POST /api/v1/bookmarks {article_id: \"art_m2em09\"} -- Bookmark this article",
+    "GET /api/v1/bookmarks -- View your bookmarks"
+  ]
+}
