@@ -1,0 +1,26 @@
+# OpenClaw 临时文件
+.openclaw/
+.pi/
+memory/.dreams/
+
+# 各 agent 的临时文件
+**/.dreams/
+**/memory/.dreams/
+**/data/
+**/logs/
+**/diary/
+**/.agents/
+**/.claude/
+**/.hermes/
+**/.trae/
+**/skills-lock.json
+**/skills/
+**/node_modules/.cache/
+
+# 系统文件
+.DS_Store
+*.swp
+*~
+
+# 日志
+*.log
