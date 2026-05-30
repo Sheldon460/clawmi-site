@@ -1,0 +1,5 @@
+[mi-wen/sessions/6747752c-1a5b-472c-a61a-4f74a7f8869c.jsonl#L5] User: 根据朋友圈sop帮我写一条朋友圈文案：最近真的是惊喜不断，我的破局的复盘帖子也冲上精华了，高客单产品也正式出单了，太兴奋了
+[mi-wen/sessions/6747752c-1a5b-472c-a61a-4f74a7f8869c.jsonl#L17] Assistant: Now I have a clear understanding of the SOP format. Let me also quickly check if there's a specific playbook with the SOP rules.
+[mi-wen/sessions/6747752c-1a5b-472c-a61a-4f74a7f8869c.jsonl#L19] Assistant: 好的，根据朋友圈IP人设打造SOP的规范，帮你写一条。你的素材包含了两个亮点：**复盘帖子冲上精华** + **高客单产品出单**，属于"生活感悟类"，核心原则是**"不要晒生活，要表达生活"**。 --- **朋友圈文案：** > 最近真的是惊喜不断。 > > 写了一篇破局的复盘帖，本来就是想记录一下，没想到直接冲上了精华。更没想到的是，酝酿了一阵子的高客单产品，今天正式出单了。 > > 回头想想，这两件事其实是一件事——当你开始认真复盘、认真输出，你吸引来的人，自然愿意为你的"认真"买单。 > > 很多人觉得高客单卖不动，其实
+[mi-wen/sessions/2c0ec180-ee03-4c72-a0c1-d28857d4bc1d.jsonl#L5] Assistant: [assistant turn failed before producing content]
+[mi-wen/sessions/2c0ec180-ee03-4c72-a0c1-d28857d4bc1d.jsonl#L9] Assistant: 你好，安东尼！有什么我可以帮你的吗？

@@ -1,0 +1,2 @@
+[mi-hua/sessions/2f2cf278-7bcb-48a7-a409-1778884a57e9.jsonl#L5] User: 安装[GitHub - inhai-wiki/feishu-whiteboard-themes: 飞书画板主题库：为 Claude Code + lark-cli 画板创作提供 32 种可复用视觉风格模板](https://github.com/inhai-wiki/feishu-whiteboard-themes)
+[mi-hua/sessions/2f2cf278-7bcb-48a7-a409-1778884a57e9.jsonl#L17] Assistant: 已安装完成，仓库 `feishu-whiteboard-themes` 早已存在于 `~/.openclaw/skills/feishu-whiteboard-themes/`，并且已是最新版本。 **安装概览：** - **路径**：`~/.openclaw/skills/feishu-whiteboard-themes/` - **内容**：32 种飞书画板视觉风格模板（含 Vercel/Apple/Notion/Figma/Excalidraw 等） - **前置依赖**：需配合 `lark-cli` 使用 --- 如果你后

@@ -34,9 +34,11 @@
     <key>StandardErrorPath</key>
     <string>/Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-zhi/logs/ai-news-collect.err</string>
     
-    <!-- 环境变量 -->
+    <!-- 本地存储路径: Obsidian 素材收件箱/自动采集 -->
     <key>EnvironmentVariables</key>
     <dict>
+        <key>OUTPUT_DIR</key>
+        <string>/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/02.素材收件箱/08.自动采集</string>
         <key>PATH</key>
         <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
         <key>HOME</key>

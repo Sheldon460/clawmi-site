@@ -110,7 +110,7 @@ op run -- env | grep SECRET
 2. 调用 feishu_create_doc 转换为飞书文档
 3. 发送飞书文档链接到对话
 4. 同步到 Obsidian:
-   /Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/
+   /Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/
 ```
 
 ### PDF 处理

@@ -1904,7 +1904,7 @@ Possible Lasting Truths: # 工作日志 (2026-02-26) - [x] 完成 Agent 数字�
 
 *April 23, 2026 at 3:23 AM GMT+8*
 
-✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/AI_资讯早报_20260415.md`
+✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/AI_资讯早报_20260415.md`
 
 
 ---
@@ -1918,14 +1918,14 @@ Possible Lasting Truths: # 工作日志 (2026-02-26) - [x] 完成 Agent 数字�
 
 *April 24, 2026 at 7:23 AM GMT+8*
 
-✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/AI_资讯早报_20260416.md`
+✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/AI_资讯早报_20260416.md`
 
 
 ---
 
 *April 24, 2026 at 7:23 AM GMT+8*
 
-✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/AI_资讯早报_20260416.md`
+✅ 执行结果: **状态**: 成功完成（降级模式） **输出**: 10 条精选 AI 资讯早报 **本地保存**: ✅ `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/AI_资讯早报_20260416.md`
 
 
 ---

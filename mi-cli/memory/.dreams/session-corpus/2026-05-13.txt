@@ -1,0 +1,8 @@
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L5] Assistant: [assistant turn failed before producing content]
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L6] Assistant: [assistant turn failed before producing content]
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L7] Assistant: [assistant turn failed before producing content]
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L8] Assistant: [assistant turn failed before producing content]
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L11] User: /minimax
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L15] Assistant: [[reply_to_current]] 收到，我是幂CLI 🦞 当前模型：`xiaomimimo/xiaomi/mimo-v2.5-pro` 会话：`agent:mi-cli:feishu:direct:ou_09ee86eb274331452b966e503fcac926` 有什么可以帮你的？
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L16] User: 你改名叫幂claw
+[mi-cli/sessions/f7a115f9-c3b4-4b8e-98eb-92bc3812c7f3.jsonl#L18] Assistant: [[reply_to_current]] 好的，以后叫我 **幂claw** 🦞 简洁有力，CLI精神 ✌️

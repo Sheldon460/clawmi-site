@@ -1,0 +1,39 @@
+{
+  "version": 3,
+  "files": {
+    "mi-ying:sessions/020043b1-0856-42ab-8bda-2c9e9cdcac08.jsonl.reset.2026-03-27T10-32-26.810Z": {
+      "mtimeMs": 1773011655000,
+      "size": 19791,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "mi-ying:sessions/2302886f-1d62-4891-b771-ad54b9cc8d09.jsonl.reset.2026-03-18T10-43-05.456Z": {
+      "mtimeMs": 1773072662000,
+      "size": 117713,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "mi-ying:sessions/2ef18e92-c301-48a3-aa54-c73fe18f615e.jsonl.reset.2026-03-27T20-28-59.958Z": {
+      "mtimeMs": 1774608222812,
+      "size": 401906,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "mi-ying:sessions/5326d12e-7a1b-404c-9383-25456d86e257.jsonl.reset.2026-03-26T20-38-34.674Z": {
+      "mtimeMs": 1773831887133,
+      "size": 36257,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    }
+  },
+  "seenMessages": {
+    "mi-ying:020043b1-0856-42ab-8bda-2c9e9cdcac08": [],
+    "mi-ying:2302886f-1d62-4891-b771-ad54b9cc8d09": [],
+    "mi-ying:2ef18e92-c301-48a3-aa54-c73fe18f615e": [],
+    "mi-ying:5326d12e-7a1b-404c-9383-25456d86e257": []
+  }
+}

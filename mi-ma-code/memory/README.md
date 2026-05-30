@@ -18,7 +18,7 @@ memory/
 ## 🔗 Obsidian 同步路径
 
 ```
-/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-ma-code/memory/
+/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-ma-code/memory/
     ↓ 双向同步 ↓
 workspace/mi-ma-code/memory/
 ```

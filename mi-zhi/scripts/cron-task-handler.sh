@@ -12,7 +12,7 @@ echo "⏰ $(date)" | tee -a "$LOG_FILE"
 echo "" | tee -a "$LOG_FILE"
 
 # 配置
-WORK_DIR="/Volumes/My house/Users/Sheldon/clawd/mi-army/mi-zhi"
+WORK_DIR="/Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-zhi"
 OUTPUT_DIR="/tmp/ai_news_output"
 mkdir -p "$OUTPUT_DIR"
 

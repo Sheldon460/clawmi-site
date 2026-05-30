@@ -40,7 +40,7 @@
 
 **执行**：
 1. 飞书文档：`skill-feishu-docx-powerwrite`
-2. Obsidian 同步：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/`
+2. Obsidian 同步：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/`
 
 #### 2. 去 AI 味流程
 **工具**：`humanizer-zh`
@@ -178,7 +178,7 @@
 <!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:44:45 -->
 - - recalls: 0 - status: staged - Candidate: 今日反思: **需要改进的地方**： - confidence: 0.00 - evidence: memory/2026-04-16.md:43-43 - recalls: 0 - status: staged - Candidate: 今日反思: 网络资源获取受限，需要寻找其他信息获取渠道; IP定位信息缺失，文案未完全贴合用户人设 [score=0.858 recalls=0 avg=0.620 source=memory/2026-04-16.md:102-109]
 <!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:38:38 -->
-- - recalls: 0 - status: staged - Candidate: 任务1：为安东尼生成《刻意练习》朋友圈文案: 执行双重产出协议：; 创建飞书文档：https://www.feishu.cn/docx/YWY9dUk5CoqCVjxIloMcgCDGnzg; 同步到本地知识库：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/刻意练习朋友圈文案集合-2026-04-16.md` - confidence: 0.00 - evidence: memory/2026-04-16.md:26-28 - recalls: 0 - status: staged - Candidate: 今日反思: **做得好的地方**： [score=0.847 recalls=0 avg=0.620 source=memory/2026-04-16.md:87-94]
+- - recalls: 0 - status: staged - Candidate: 任务1：为安东尼生成《刻意练习》朋友圈文案: 执行双重产出协议：; 创建飞书文档：https://www.feishu.cn/docx/YWY9dUk5CoqCVjxIloMcgCDGnzg; 同步到本地知识库：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/刻意练习朋友圈文案集合-2026-04-16.md` - confidence: 0.00 - evidence: memory/2026-04-16.md:26-28 - recalls: 0 - status: staged - Candidate: 今日反思: **做得好的地方**： [score=0.847 recalls=0 avg=0.620 source=memory/2026-04-16.md:87-94]
 
 ## Promoted From Short-Term Memory (2026-04-29)
 

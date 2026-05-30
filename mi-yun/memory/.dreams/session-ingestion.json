@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "files": {
+    "mi-yun:sessions/486c0481-91c3-4122-8be2-856eb253f8f9.jsonl.reset.2026-03-27T10-32-26.271Z": {
+      "mtimeMs": 1773011047000,
+      "size": 16871,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    }
+  },
+  "seenMessages": {
+    "mi-yun:486c0481-91c3-4122-8be2-856eb253f8f9": []
+  }
+}

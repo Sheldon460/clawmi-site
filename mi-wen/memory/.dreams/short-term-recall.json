@@ -1,0 +1,1440 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-27T19:01:44.317Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 将下面内容拆解成构建飞书知识库的提示词：我需要你帮我搭建内容的知识库，我的内容模块主要是 你会怎么建议？先给建议，不急着搭建# 一人公司闭环思维导图（文字版） --- ## 一、个人管理（人生操作系统） - **时间管理系统** - 结构化时间 - 深度工作块 - 三件重要事 - **精力管理** - 能量管理 - 睡眠/运动 - 工作节奏 - **行动系统** - OKR拆解 - 周计划设计 - 复盘闭环 - **情绪与心智** - 反刍思维 - 主体性 - 增量思维 - **个人成长系统** - 持续学习 - 认知升级 - 方向探索 --",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "睡眠/运动",
+        "下面",
+        "内容",
+        "拆解",
+        "知识",
+        "提示",
+        "需要",
+        "搭建"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: # 飞书知识库构建建议 基于你提供的\"一人公司闭环思维导图\"内容结构，我给出以下建议： ## 📊 结构分析 你的内容呈现**清晰的四层架构**： - **Level 1**: 核心领域（4大模块） - **Level 2**: 功能子系统（15个子模块） - **Level 3**: 具体实践点（约60个实践项） - **Level 4**: 可扩展的知识颗粒度 ## 🏗️ 推荐知识库架构 ### 方案 A：扁平化知识空间（适合快速检索） ``` 一人公司知识库/ ├── 个人管理/ │ ├── 时间管理.md │ ├── 精力",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "时间管理.md",
+        "知识",
+        "建议",
+        "基于",
+        "提供",
+        "一人",
+        "公司",
+        "思维"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 第三期：完善\"一人公司\"（商业化闭环） 3. **知识颗粒度建议**： - 每个子系统（如\"时间管理\"）作为独立文档 - 实践点（如\"结构化时间\"）用二级标题展开 - 每个实践点下预留\"方法论\"、\"工具\"、\"案例\"、\"反思\"四个小节 ## 🎯 下一步提示词框架 我可以为你生成以下两类提示词，你希望我先准备哪一类？ **类型 1：结构化批量创建提示词** - 一次性生成完整的知识空间结构 - 自动创建对应数量的空白文档 - 预设标题和导航链接 **类型 2：渐进式填充提示词** - 针对某个具体子系统（如\"AI工作流\"） - 生成该",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "第三",
+        "完善",
+        "一人",
+        "公司",
+        "商业",
+        "知识",
+        "颗粒",
+        "建议"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 好的，我现在为你生成**方案A：扁平化知识空间**的完整构建提示词。 让我先创建这个提示词文档：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "好的",
+        "现在",
+        "生成",
+        "方案",
+        "扁平",
+        "知识",
+        "空间",
+        "完整"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 现在我将这个提示词转换为飞书文档并同步到本地知识库：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "现在",
+        "这个",
+        "提示",
+        "转换",
+        "同步",
+        "本地",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 现在同步到本地知识库：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "现在",
+        "同步",
+        "本地",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: --- ✅ **双重产出确认**： - **飞书文档**：[已上传至飞书对话] https://www.feishu.cn/docx/YbFjdxiXKoSiwPx7KfMcD7Qincb - **本地知识库**：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/飞书知识库构建提示词-方案A.md` --- ## 📦 提示词已生成完毕 我已经将你提供的\"一人公司闭环思维导图\"拆解为完整的飞书知识库构建提示词（方案A：扁平化架构）。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "双重",
+        "确认",
+        "对话",
+        "https",
+        "www.feishu.cn",
+        "docx",
+        "ybfjdxixkosiwpx7kfmcd7qincb"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: [media attached: /Volumes/My house/Users/Sheldon/.openclaw/media/inbound/58bd6158-872b-49d7-8ebe-80367aefe489.jpg (image/jpeg) | /Volumes/My house/Users/Sheldon/.openclaw/media/inbound/58bd6158-872b-49d7-8ebe-80367aefe489.jpg] /Volumes/My house/Users/Sheldon/.openclaw/media",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "house/users/sheldon",
+        "image/jpeg",
+        "openclaw/media",
+        "media",
+        "attached",
+        "volumes",
+        "house"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 我来分析这张图片中的系统结构，然后帮你创建飞书知识库。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "我来",
+        "分析",
+        "图片",
+        "中的",
+        "系统",
+        "结构",
+        "然后",
+        "创建"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 抱歉，图片分析暂时遇到了技术问题。不过我注意到你之前已经提供了\"一人公司闭环思维导图\"的文字版本，我可以基于那个内容直接开始创建飞书知识库。 让我现在开始执行创建任务：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "抱歉",
+        "图片",
+        "分析",
+        "暂时",
+        "遇到",
+        "技术",
+        "问题",
+        "不过"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: 我需要先获得飞书知识库的创建权限。系统已经自动向你发送了授权请求卡片，请点击卡片中的链接完成授权。 授权完成后，我将继续为你创建完整的知识库结构。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "需要",
+        "获得",
+        "知识",
+        "创建",
+        "权限",
+        "系统",
+        "已经",
+        "自动"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: 我已完成飞书账号授权，请继续执行之前的操作。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "完成",
+        "授权",
+        "继续",
+        "执行",
+        "之前",
+        "操作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 好的！现在开始创建飞书知识库。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "好的",
+        "现在",
+        "开始",
+        "创建",
+        "知识"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 太好了！知识空间创建成功。现在创建四个顶级节点：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "太好了",
+        "知识",
+        "空间",
+        "创建",
+        "成功",
+        "现在",
+        "节点"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 让我先查看知识空间的根节点结构：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "我先",
+        "查看",
+        "知识",
+        "空间",
+        "节点",
+        "结构"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 让我尝试在知识空间根目录下创建节点：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "尝试",
+        "知识",
+        "空间",
+        "目录",
+        "创建",
+        "节点"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查知识空间的详细信息：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "检查",
+        "知识",
+        "空间",
+        "详细",
+        "信息"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 知识库节点创建需要额外授权。让我改用飞书文档方式来创建这套系统。我将创建一个总索引文档，然后为每个模块创建独立的文档：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "知识",
+        "节点",
+        "创建",
+        "需要",
+        "额外",
+        "授权",
+        "改用",
+        "方式"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: 好的，索引文档创建成功！现在开始创建16个子系统文档：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "好的",
+        "索引",
+        "创建",
+        "成功",
+        "现在",
+        "开始",
+        "个子",
+        "系统"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: 遇到了频率限制，让我放慢速度，继续创建剩余的文档：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "遇到",
+        "频率",
+        "限制",
+        "放慢",
+        "速度",
+        "继续",
+        "创建",
+        "剩余"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: 完美！现在更新索引文档，填入所有文档链接：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "完美",
+        "现在",
+        "更新",
+        "索引",
+        "填入",
+        "所有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: 现在创建完整的文档清单：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "现在",
+        "创建",
+        "完整",
+        "清单"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: --- # ✅ 飞书知识库创建完成！ ## 📊 创建成果 ### 知识空间 - **名称**：一人公司闭环思维 - **Space ID**：7637395723776265167 - **描述**：整合个人管理、AI提效、表达系统、商业变现的完整闭环方法论 ### 文档统计 - **总文档数**：17个（1个索引 + 16个子系统） - **架构类型**：扁平化结构 - **统一框架**：每个文档包含方法论、工具清单、实践模板、案例反思 --- ## 📚 完整文档清单 ### 一、个人管理（5个） 1. [时间管理](http",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "知识",
+        "创建",
+        "完成",
+        "成果",
+        "空间",
+        "名称",
+        "一人",
+        "公司"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: [AI智能体体系](https://www.feishu.cn/docx/FqGAdaonpoJm83xG1gFcfl6QnSe) ### 三、表达系统（4个） 1. [内容创作](https://www.feishu.cn/docx/RKVmdJ8fBorximxqZvTcxTionTd) 2. [写作系统](https://www.feishu.cn/docx/Zi67dPsOeoHLDlxitYncoGxwnNi) 3. [个人IP叙事](https://www.feishu.cn/docx/PBjddBO31o3yizxXL",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:06.161Z",
+      "lastRecalledAt": "2026-05-08T19:01:06.161Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "智能",
+        "体系",
+        "https",
+        "www.feishu.cn",
+        "docx",
+        "fqgadaonpojm83xg1gfcfl6qnse",
+        "表达",
+        "系统"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 根据朋友圈SOP为我写文案：当一件事解释成本太高会变成一种消耗，所以你不需要赢下每一次解释。 你只需要确保，自己没有在解释中一点一点被掏空。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:32.028Z",
+      "lastRecalledAt": "2026-05-10T19:00:32.028Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "根据",
+        "朋友",
+        "sop",
+        "为我",
+        "文案",
+        "一件事",
+        "解释",
+        "成本"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 根据 SOP 中的「生活感悟类」模板，为你改写这条朋友圈文案： --- **原句内核**：解释成本太高 = 消耗，不必赢下每一次解释，但要守住自己不被掏空。 --- **朋友圈文案（生活感悟类）**： > 昨晚一个朋友找我诉苦，说跟家里人解释自己的职业选择，解释了三个小时，对方还是那句\"你就是不务正业\"。 > > 她说那一刻突然觉得特别累，不是身体累，是心被掏空的那种累。 > > 我跟她说了一句话：**你不需要赢下每一次解释。** > > 有些事，解释成本太高，就会变成一种消耗。你花三小时证明自己是对的，对方花三秒钟否定你，这笔账怎",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:32.028Z",
+      "lastRecalledAt": "2026-05-10T19:00:32.028Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "根据",
+        "sop",
+        "中的",
+        "生活",
+        "感悟",
+        "模板",
+        "改写",
+        "朋友"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 根据朋友圈sop帮我写一条朋友圈文案：最近真的是惊喜不断，我的破局的复盘帖子也冲上精华了，高客单产品也正式出单了，太兴奋了",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:02:03.823Z",
+      "lastRecalledAt": "2026-05-11T19:02:03.823Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "根据",
+        "朋友",
+        "sop",
+        "一条",
+        "文案",
+        "最近",
+        "真的是",
+        "惊喜"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Now I have a clear understanding of the SOP format. Let me also quickly check if there's a specific playbook with the SOP rules.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:02:03.823Z",
+      "lastRecalledAt": "2026-05-11T19:02:03.823Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "now",
+        "clear",
+        "understanding",
+        "sop",
+        "format",
+        "let",
+        "quickly",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 好的，根据朋友圈IP人设打造SOP的规范，帮你写一条。你的素材包含了两个亮点：**复盘帖子冲上精华** + **高客单产品出单**，属于\"生活感悟类\"，核心原则是**\"不要晒生活，要表达生活\"**。 --- **朋友圈文案：** > 最近真的是惊喜不断。 > > 写了一篇破局的复盘帖，本来就是想记录一下，没想到直接冲上了精华。更没想到的是，酝酿了一阵子的高客单产品，今天正式出单了。 > > 回头想想，这两件事其实是一件事——当你开始认真复盘、认真输出，你吸引来的人，自然愿意为你的\"认真\"买单。 > > 很多人觉得高客单卖不动，其实不",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:02:03.823Z",
+      "lastRecalledAt": "2026-05-11T19:02:03.823Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "好的",
+        "根据",
+        "朋友",
+        "打造",
+        "sop",
+        "规范",
+        "一条",
+        "你的"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:32.424Z",
+      "lastRecalledAt": "2026-05-12T19:00:32.424Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 你好，安东尼！有什么我可以帮你的吗？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:32.424Z",
+      "lastRecalledAt": "2026-05-12T19:00:32.424Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "你好",
+        "东尼",
+        "什么",
+        "可以",
+        "你的"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 安装这三个技能https://github.com/weiyongw/Skills",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "github.com/weiyongw/skills",
+        "安装",
+        "技能",
+        "https",
+        "github.com",
+        "weiyongw",
+        "skills"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: https://my.feishu.cn/docx/N08kdNJIroFeEqxvWVEcAfY5nhe?from=from_copylinkhttps://my.feishu.cn/docx/X9vBdqKrKo2LlNxB55pcYEAmnwh?dcuId=7583347993596677343&from=vc_assistant_notice#doxcnHheqwwJJfcM5BPkTPuj1Nbhttps://my.feishu.cn/docx/EciBdsMXooFznVxMWyFcfbxSn3n?dcuId=7583347993",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "from-copylinkhttps",
+        "vc-assistant-notice",
+        "https",
+        "my.feishu.cn",
+        "docx",
+        "n08kdnjirofeeqxvwvecafy5nhe",
+        "x9vbdqkrko2llnxb55pcyeamnwh",
+        "dcuid"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **已完成**：5篇飞书文档已全部写入 Obsidian 咨询案例库，按日期和主题分类归档。 --- **📁 写入路径**： `13.Openclaw/mi-dang/咨询案例/` **📄 5篇案例列表**： | 文件名 | 日期 | 主题 | |:---|:---|:---| | `2026-05-11-自媒体入门及AI工具应用规划.md` | 5月11日 | 自媒体入门、AI工具应用 | | `2026-05-11-小龙虾工具应用功能讨论.md` | 5月11日 | 小龙虾系统功能咨询 | | `2026-05-12-A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "13.openclaw/mi-dang/咨询案例",
+        "2026-05-11-自媒体入门及ai工具应用规划.md",
+        "2026-05-11-小龙虾工具应用功能讨论.md",
+        "2026-05-12-a",
+        "完成",
+        "全部",
+        "obsidian",
+        "咨询"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: https://my.feishu.cn/docx/WFu0d8K2uoHSCixRAg2cpwCInba?dcuId=7583347993596677343&from=vc_assistant_notice#doxcnjDeVccyNrlTQ1ZA27HGfgf这个也放入咨询案例中",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "vc-assistant-notice",
+        "https",
+        "my.feishu.cn",
+        "docx",
+        "wfu0d8k2uohscixrag2cpwcinba",
+        "dcuid",
+        "doxcnjdevccynrltq1za27hgfgf",
+        "这个"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **已归档**：这篇飞书文档已写入 Obsidian 咨询案例库。 📄 **文件名**：`2026-05-13-AI辅助副业提效方法讨论.md` 📁 **路径**：`13.Openclaw/mi-dang/咨询案例/` **主题**：AI辅助副业提效（知识库搭建、小龙虾技能培养、定时任务配置、技术问题解答等）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "2026-05-13-ai辅助副业提效方法讨论.md",
+        "13.openclaw/mi-dang/咨询案例",
+        "归档",
+        "obsidian",
+        "咨询",
+        "案例",
+        "文件",
+        "辅助"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 测试WeChat-article-publisher这个技能抓取公众号文章https://mp.weixin.qq.com/s/6FriXVGqSo-C23z8xNGoXg",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "测试",
+        "wechat",
+        "article",
+        "publisher",
+        "这个",
+        "技能",
+        "抓取",
+        "公众"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: **测试报告：wechat-article-publisher 技能抓取公众号文章** ❌ **测试失败** - 微信公众号文章有强反爬机制，直接请求无法获取渲染内容。 | 测试项 | 结果 | 原因 | |:---|:---|:---| | `extract_to_markdown.py` | ❌ 无法找到正文 | 微信 JS 动态渲染，非浏览器请求被拦截 | | `extract_and_convert.js` | ❌ null result | @extractus/article-extractor 不支持微信 | | `c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "wechat-article-publisher",
+        "extract-to-markdown.py",
+        "extract-and-convert.js",
+        "extractus/article-extractor",
+        "测试",
+        "报告",
+        "wechat",
+        "article"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: html-ppt-skill按装这个技能",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "html-ppt-skill按装这个技能",
+        "html",
+        "ppt",
+        "skill",
+        "这个",
+        "技能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **html-ppt 技能安装成功** 📦 **安装路径**：`~/.openclaw/skills/html-ppt` **技能简介**：HTML PPT Studio — 可创作专业的静态 HTML 演示文稿 | 核心能力 | 内容 | |:---|:---| | **主题** | 36 种主题（minimal-white, editorial-serif, soft-pastel, cyberpunk-neon, xiaohongshu-white 等） | | **完整模板** | 14 套全流程演示稿模板 | | *",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "html-ppt",
+        "openclaw/skills/html-ppt",
+        "minimal-white",
+        "editorial-serif",
+        "soft-pastel",
+        "cyberpunk-neon",
+        "xiaohongshu-white",
+        "html"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 帮我生成图片:帮我生成图片:我现在要做一个公众号的首图，比例是2.35:1，主要用于公众号首图。 这篇文章的主题是:在AI时代，如果你不用Al，AI就是定生死的。 具体设计需求如下: 1.主题展示:要把这个主题完整地展示出来，表现一个人在面对AI的选择时，决定生死的紧迫感。 2.画面要求: (a)画面要刺激、丰富一点 (b)能够吸引人的眼球 (c)让大家觉得效果很厉害 请给我出一个类似的公众号首图。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "比例是2.35",
+        "1.主题展示",
+        "2.画面要求",
+        "生成",
+        "图片",
+        "现在",
+        "一个",
+        "公众"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-14.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-14.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **公众号首图生成完成！** | 项目 | 内容 | |:---|:---| | **主题** | 在AI时代，如果你不用AI，AI就是定生死的 | | **比例** | 21:9（接近 2.35:1） | | **尺寸** | 2048 × 877 px | | **生成模型** | 阿里云通义万相 Qwen Image 2.0 Pro | | **风格** | 电影海报级数字艺术、科技感、赛博朋克 | **📁 输出文件**： - `/tmp/wechat-cover-21x9-final.png` — 裁剪后成品（21:9",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:15.417Z",
+      "lastRecalledAt": "2026-05-13T19:00:15.417Z",
+      "queryHashes": [
+        "ebfce2d015c5"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "2.35",
+        "2.0",
+        "tmp/wechat-cover-21x9-final.png",
+        "公众",
+        "生成",
+        "完成",
+        "项目",
+        "内容"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [media attached: /Volumes/My house/Users/Sheldon/.openclaw/media/inbound/2f1d6a31-7cc1-49bf-a8b3-4351911e5c51.jpg (image/jpeg) | /Volumes/My house/Users/Sheldon/.openclaw/media/inbound/2f1d6a31-7cc1-49bf-a8b3-4351911e5c51.jpg] /Volumes/My house/Users/Sheldon/.openclaw/media",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:01:34.617Z",
+      "lastRecalledAt": "2026-05-27T19:01:34.617Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "house/users/sheldon",
+        "image/jpeg",
+        "openclaw/media",
+        "media",
+        "attached",
+        "volumes",
+        "house"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: [认领] 已由 @mi-wen 领衔处理，为您深度解读这份\"朋友圈每天六条内容布局\"指南。 --- ## 📱 朋友圈每天六条内容布局 · 完整解读 ### ⏰ 六大时间节点排期 | 序号 | 发布时间 | 内容类型 | 核心定位 | |:---:|:---:|:---:|:---| | ① | **7:00-8:00** | 早起打卡 / 早安金句 | 传递正能量生活方式 | | ② | **8:00-9:00** | 早餐打卡 / 生活方式 | Lifestyle 认证 | | ③ | **12:00-13:00** | 午餐打",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:01:34.617Z",
+      "lastRecalledAt": "2026-05-27T19:01:34.617Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "mi-wen",
+        "00-8",
+        "00-9",
+        "00-13",
+        "wen",
+        "处理",
+        "深度",
+        "解读"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 这份布局的精妙之处在于**\"轻重搭配+时间节奏感\"**： - **高频生活露出来源：** 3条 Lifestyle 打卡贯穿早/午/晚，建立信任感 - **情绪曲线：** 早起正能量 → 午后轻松 → 晚间情感收尾 - **硬软比例：** 硬内容（IP/产品）不单独标注时间节点，暗示需**穿插植入**而非硬推 --- 如需我基于这份框架，生成任意时间节点的**朋友圈文案**或**完整一周排期方案**，请直接吩咐！ 🚀",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:01:34.617Z",
+      "lastRecalledAt": "2026-05-27T19:01:34.617Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "打卡贯穿早/午/晚",
+        "ip/产品",
+        "布局",
+        "精妙",
+        "在于",
+        "搭配",
+        "时间",
+        "节奏"
+      ]
+    }
+  }
+}

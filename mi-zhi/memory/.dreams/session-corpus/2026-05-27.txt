@@ -1,0 +1,3 @@
+[mi-zhi/sessions/fac65f79-bbaf-487b-bd16-05dd12591bdb.jsonl#L24] Assistant: Now let me create the daily AI news report based on the collected data:
+[mi-zhi/sessions/fac65f79-bbaf-487b-bd16-05dd12591bdb.jsonl#L26] Assistant: Now let me write the key news to the Feishu bitable and send the summary to the chat:
+[mi-zhi/sessions/fac65f79-bbaf-487b-bd16-05dd12591bdb.jsonl#L38] Assistant: --- ## ✅ AI资讯早报采集完成 **执行时间**: 2026-05-27 07:34 (Asia/Shanghai) **采集源**: TechCrunch AI · The Verge · Hacker News ### 📊 今日亮点摘要 | 类别 | 热门话题 | |------|----------| | **🔥 头条** | DuckDuckGo暴涨30%、OpenRouter估值$1.3B | | **🏢 大厂** | Google/Apple/Amazon AR眼镜、Meta裁员、Dropbox CEO卸

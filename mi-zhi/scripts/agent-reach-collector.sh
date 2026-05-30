@@ -64,6 +64,7 @@ rss_sources = [
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("The Verge AI", "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"),
     ("Hacker News", "https://news.ycombinator.com/rss"),
+    ("AIHOT", "https://aihot.virxact.com/feed/"),
 ]
 
 results = []

@@ -1,0 +1,1857 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-10T19:00:28.191Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: @小幂 修改4/10号以后的所有日记，https://clawmi-site.vercel.app/，然后重新部署，部署让来完成 [System: This message @mentions the following users: 小幂 (open_id: ou_a73bea4daafaf8c0d7ac96ced63380b5). Use these open_ids when performing actions involving these users.]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "修改4/10号以后的所有日记",
+        "clawmi-site.vercel.app",
+        "open-id",
+        "open-ids",
+        "修改",
+        "以后",
+        "所有",
+        "日记"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 我来帮你处理这个任务。首先检查一下 4/10 以后的所有日记文件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "4/10",
+        "我来",
+        "处理",
+        "这个",
+        "任务",
+        "首先",
+        "检查",
+        "一下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 找到了 4/10 以后的日记： - 2026-04-10.md - 2026-04-14.md - 2026-04-15.md - 2026-04-16.md - 2026-04-17.md 我先看一下这些日记的内容格式：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "4/10",
+        "找到",
+        "以后",
+        "日记",
+        "我先",
+        "看一下",
+        "这些",
+        "内容"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: @小幂 修改4/10号以后的所有日记，https://clawmi-site.vercel.app/，然后重新部署，部署让来完成 [System: This message @mentions the following users: 小幂 (open_id: ou_a73bea4daafaf8c0d7ac96ced63380b5). Use these open_ids when performing actions involving these users.]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "修改4/10号以后的所有日记",
+        "clawmi-site.vercel.app",
+        "open-id",
+        "open-ids",
+        "修改",
+        "以后",
+        "所有",
+        "日记"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了问题 - Git 仓库中有大量其他文件的变更。让我只提交 diary.json 文件来解决这个问题。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "发现",
+        "问题",
+        "git",
+        "仓库",
+        "中有",
+        "大量",
+        "其他"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了一个重要情况： **diary.json 文件实际上没有变化** 检查结果显示： - Git HEAD 中的 diary.json 已经包含 65 篇日记 - 最新日期是 2026-05-06 - 和本地生成的文件内容完全一致 这是因为上一次提交 (e23e8e5) 已经包含了这些日记数据。Git 工作目录是干净的，没有需要提交的内容。 **部署状态：** 由于 diary.json 没有变化，Git 没有新提交，所以不会触发 Vercel 重新部署。网站应该已经是最新的了（包含到 5月6日的日记）。 **请问 @小幂 ：*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "发现",
+        "一个",
+        "重要",
+        "情况",
+        "文件",
+        "实际",
+        "没有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 网站日记不是最新的，且4/10号以后全是机器人写的，先详细了解网站日记现状",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "且4/10号以后全是机器人写的",
+        "网站",
+        "日记",
+        "不是",
+        "最新",
+        "以后",
+        "全是",
+        "机器"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 我来详细检查网站日记现状，对比本地源文件和部署的数据。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "我来",
+        "详细",
+        "检查",
+        "网站",
+        "日记",
+        "现状",
+        "对比",
+        "本地"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 我现在完全理解问题了！ ## 📊 网站日记现状分析 ### 发现的问题 **1. 数据源问题** - `generate-diary.js` 从 `xiao-mi/diary/` 读取所有 .md 文件 - 4/10 以后的源文件大部分是**模板化空内容**（由脚本自动生成） - 这些空模板被直接打包到 diary.json，发布到网站 **2. 对比分析** | 日期 | 源文件 | 网站内容 | 问题 | |------|--------|----------|------| | 2026-04-10 | 有\"人味\" | 有\"",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "generate-diary.js",
+        "xiao-mi/diary",
+        "4/10",
+        "diary.json",
+        "现在",
+        "完全",
+        "理解",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 避免\"纯模板\"格式，加入真实感受和反思 2. **检查这些日期**： - 2026-04-11, 12, 13, 14, 15, 16, 17, 18 - 2026-04-21, 22, 23, 24, 25, 26, 27 - 2026-04-28, 29, 30 3. **完成后告诉我**，我会重新生成 diary.json 并部署 需要我展示 4/10 的完整日记风格作为参考吗？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "4/10",
+        "避免",
+        "模板",
+        "格式",
+        "加入",
+        "真实",
+        "感受"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: 将更新的日记重新部署到 https://clawmi-site.vercel.app/ 上",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "clawmi-site.vercel.app",
+        "更新",
+        "日记",
+        "重新",
+        "部署",
+        "https",
+        "clawmi",
+        "site.vercel.app"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 好的！我来确认部署状态，检查网站是否已成功更新。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "好的",
+        "我来",
+        "确认",
+        "部署",
+        "状态",
+        "检查",
+        "网站",
+        "是否"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 发现了关键情况！最新的提交（6dc90e1）包含了所有更新后的日记，但**这个提交还没有推送到远程**。 让我清理工作目录并推送这个提交：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "发现",
+        "关键",
+        "情况",
+        "最新",
+        "提交",
+        "6dc90e1",
+        "包含",
+        "所有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 现在推送包含更新后日记的提交。由于仓库中有大文件，我将使用 Git LFS：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "现在",
+        "推送",
+        "包含",
+        "更新",
+        "日记",
+        "提交",
+        "由于",
+        "仓库"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 好的，我发现了一个关键情况： **diary.json 已经被更新过了！** 检查结果： - 提交 `6dc90e1` 包含了小幂风格的所有日记（70篇） - 这个提交已经在本地存在 - diary.json 内容已经是 70 篇，且包含了更新后的内容 **问题：这个提交还未推送到远程** 之前的推送失败是因为仓库中有一些大型 node_modules 文件超出了 GitHub 的文件大小限制。 让我尝试直接推送这个提交：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "node-modules",
+        "好的",
+        "发现",
+        "一个",
+        "关键",
+        "情况",
+        "已经"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 推送失败是因为仓库中的大文件超出了 GitHub 的限制。GitHub 建议使用 Git LFS 或将这些文件加入 .gitignore。 让我检查并修复 .gitignore：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "推送",
+        "失败",
+        "因为",
+        "仓库",
+        "中的",
+        "文件",
+        "超出",
+        "github"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: .gitignore 还不够，这些大文件已经存在于 Git 历史中了。让我使用 BFG Repo-Cleaner 清理历史记录：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "repo-cleaner",
+        "gitignore",
+        "不够",
+        "这些",
+        "文件",
+        "已经",
+        "存在",
+        "git"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: ## 📋 部署状态报告 我已经检查了部署状态，发现了以下情况： ### ✅ 本地更新已完成 - **diary.json**: 70 篇，包含小幂风格的日记 - **源文件**: `/Volumes/My house/Users/Sheldon/.openclaw/workspace/xiao-mi/diary/` 已全部更新 ### ⚠️ Git 推远程失败 **问题原因**: 仓库中存在大文件，超出了 GitHub 的文件大小限制： - `mi-ma-code/sbti-ui-optimized/node_modules/@n",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "volumes/my",
+        "house/users/sheldon",
+        "openclaw/workspace/xiao-mi/diary",
+        "部署",
+        "状态",
+        "报告",
+        "已经"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: 50M git reflog expire --expire=now --all git gc --prune=now --aggressive git push origin clean-main --force ``` ### 📊 当前日记内容验证 我已经验证了本地 diary.json，**4/10 以后的日记已经全部更新为小幂风格**： | 日期 | 风格特征 | 示例 | |------|----------|------| | 2026-05-08 | ✅ 有思考、有\"我\" | \"今天我想——这个'平衡点',应该在哪里",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "clean-main",
+        "diary.json",
+        "4/10",
+        "50m",
+        "git",
+        "reflog",
+        "expire",
+        "now"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: 执行大文件清理和推送操作",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "执行",
+        "文件",
+        "清理",
+        "推送",
+        "操作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: 好的！开始执行大文件清理和推送操作。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "好的",
+        "开始",
+        "执行",
+        "文件",
+        "清理",
+        "推送",
+        "操作"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了问题！让我检查并补充缺失的日记文件：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "发现",
+        "问题",
+        "检查",
+        "补充",
+        "缺失",
+        "日记",
+        "文件"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了一个问题！",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "发现",
+        "一个",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: ## 🎉 部署完成！但发现数据问题 ### ✅ Git 推送成功 ``` To https://github.com/Sheldon460/clawmi-site.git e23e8e5..31c261c clean-main -> clean-main ``` - **Commit**: `31c261c` - \"更新日记到小幂风格版 (包含4/10之后的更新)\" - **状态**: 已成功推送到远程仓库 ### ⚠️ 发现数据问题 检查发现 **diary.json 只包含 63 篇日记，但应该有更多**： | 来源 | 数量",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "clean-main",
+        "包含4/10之后的更新",
+        "diary.json",
+        "部署",
+        "完成",
+        "发现",
+        "数据",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: **访问网站** https://clawmi-site.vercel.app/ 查看日记数量 2. **检查 4/10 之后的日记**（4/11-5/8）是否显示为小幂风格 3. **实际显示的日记总数**是多少？ 如果日记数量不对（只有 63 篇而不是 70 篇），我需要修复 `generate-diary.js` 脚本或补充缺失的源文件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "clawmi-site.vercel.app",
+        "4/10",
+        "4/11-5/8",
+        "generate-diary.js",
+        "访问",
+        "网站",
+        "https",
+        "clawmi"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "User: 网站日记没有变更",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "网站",
+        "日记",
+        "没有",
+        "变更"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: 让我检查为什么网站没有变更。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "检查",
+        "为什么",
+        "网站",
+        "没有",
+        "变更"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: 我发现问题了！**diary.json 的内容在提交 31c261c 时和远程完全一样（65篇），没有真正推送新内容**。 让我重新检查并正确生成：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "发现",
+        "问题",
+        "内容",
+        "提交",
+        "31c261c",
+        "远程",
+        "完全"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: 我发现问题了！BFG 清理把之前的提交删除了，而且当前的 diary.json 只有 63 篇。让我重新正确生成：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "发现",
+        "问题",
+        "bfg",
+        "清理",
+        "之前",
+        "提交",
+        "删除"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: 我找到问题了！**`generate-diary.js` 中的日记目录路径配置错误**：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "generate-diary.js",
+        "找到",
+        "问题",
+        "generate",
+        "diary.js",
+        "中的",
+        "日记",
+        "目录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了问题的根源！**`generate-diary.js` 读取 `xiao-mi/diary/` 目录，但没有正确处理所有文件**。 让我修复这个脚本：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "generate-diary.js",
+        "xiao-mi/diary",
+        "发现",
+        "问题",
+        "根源",
+        "generate",
+        "diary.js",
+        "xiao"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了问题的根源！**`generate-diary.js` 脚本有一个逻辑错误**： 脚本中有一行： ```javascript const exists = historicalEntries.some(e => e.date === entry.date); if (!exists) { ``` 这意味着：如果 `xiao-mi/diary/` 中的文件日期与硬编码的 6 篇历史日记（3/2-3/4）重复，就跳过读取！ 这就是为什么只生成了 63 篇而不是 70 篇。让我修复这个脚本：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "generate-diary.js",
+        "historicalentries.some",
+        "e.date",
+        "entry.date",
+        "xiao-mi/diary",
+        "3/2-3/4",
+        "发现",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ 问题已修复！重新生成 diary.json",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "问题",
+        "修复",
+        "重新",
+        "生成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了问题！**Git 路径问题**。之前运行 `git add` 时使用了错误的路径。让我重新正确操作：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "发现",
+        "问题",
+        "git",
+        "路径",
+        "之前",
+        "运行",
+        "add",
+        "使用"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "Assistant: 我切换到了错误的目录。让我回到正确的 workspace 目录：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "切换",
+        "到了",
+        "错误",
+        "目录",
+        "回到",
+        "正确"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: 我发现 Git 历史中已经有很多之前的提交。让我检查当前状态并重新正确生成：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:37.773Z",
+      "lastRecalledAt": "2026-05-08T19:00:37.773Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "发现",
+        "git",
+        "历史",
+        "已经有",
+        "很多",
+        "之前",
+        "提交",
+        "检查"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了一个关键问题！ **diary.json 中没有 5/1-5/8 的日记！** 检查结果显示： - 最新日期只有 2026-04-30 - 缺少 5/1、5/2、5/3、5/5、5/6、5/7、5/8 的日记 让我检查 `xiao-mi/diary/` 目录中是否有这些日期的文件：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:14.148Z",
+      "lastRecalledAt": "2026-05-09T19:00:14.148Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "5/1-5/8",
+        "5/1",
+        "5/2",
+        "5/3",
+        "5/5",
+        "5/6",
+        "5/7"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了问题的根源！ **`xiao-mi/diary/` 目录中缺少 5 月份的日记文件！** 检查结果显示： - 最新只有 2026-04-30 - **缺少 2026-05-01 到 2026-05-08 的日记文件** 但 @小幂 说已经重写了所有 4/10 以后的日记，包括 5/1-5/8。让我检查这些文件是否在其他位置：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:14.148Z",
+      "lastRecalledAt": "2026-05-09T19:00:14.148Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "xiao-mi/diary",
+        "4/10",
+        "5/1-5/8",
+        "发现",
+        "问题",
+        "根源",
+        "xiao",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: 我发现了问题的根源！ ## 🔍 问题诊断 ### 当前状态 1. **xiao-mi/diary/ 目录中只有到 2026-04-30 的日记文件** - 缺少 2026-05-01 到 2026-05-08 的文件 - 这是为什么 diary.json 只生成了 63 篇 2. **@小幂 说已经重写了 4/10 以后的所有日记** - 包括 5/1-5/8 - 但我在 `xiao-mi/diary/` 目录中找不到这些文件 ### 可能的原因 1. 日记文件在其他目录 2. 文件名格式不对（不是 `YYYY-MM-DD.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:14.148Z",
+      "lastRecalledAt": "2026-05-09T19:00:14.148Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "xiao-mi/diary",
+        "diary.json",
+        "4/10",
+        "5/1-5/8",
+        "yyyy-mm-dd.md",
+        "发现",
+        "问题",
+        "根源"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: @小幂 https://clawmi-site.vercel.app/网站日记还是停留在4/30号，且4/9号之后的内容都是机器人自己创作的，没有小幂的风格，检查一下出了什么问题，今天是5/10号 [System: This message @mentions the following users: 小幂 (open_id: ou_a73bea4daafaf8c0d7ac96ced63380b5). Use these open_ids when performing actions involving these users.]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "且4/9号之后的内容都是机器人自己创作的",
+        "今天是5/10号",
+        "open-id",
+        "open-ids",
+        "https",
+        "clawmi",
+        "site.vercel.app",
+        "网站"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Now I can see the picture. Let me check the key deployment files and the actual diary data flow.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "can",
+        "see",
+        "picture",
+        "let",
+        "check",
+        "key",
+        "deployment"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: The files aren't found at those paths. Let me check the actual git repo structure - it seems the workspace repo is different from the clawmi-site directory.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "clawmi-site",
+        "aren't",
+        "found",
+        "those",
+        "paths",
+        "let",
+        "check",
+        "actual"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: The repo root is `/Volumes/My house/Users/Sheldon/.openclaw/workspace`, not `mi-ma-code/`. The `xiao-mi/` directory is at the workspace root. Let me check the actual files.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "house/users/sheldon",
+        "openclaw/workspace",
+        "mi-ma-code",
+        "xiao-mi",
+        "repo",
+        "root",
+        "volumes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Now I have a clear picture. Let me check the critical `generate-diary.js` script and the `out/` directory (what Vercel actually serves):",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "generate-diary.js",
+        "now",
+        "clear",
+        "picture",
+        "let",
+        "check",
+        "critical",
+        "generate"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: The main page doesn't directly use diary data. Let me check where the diary is rendered.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "page",
+        "doesn't",
+        "directly",
+        "use",
+        "diary",
+        "data",
+        "let",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: The About is about 幂领, not diary. Let me check if the diary is in a different component or page.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "not",
+        "diary",
+        "let",
+        "check",
+        "different",
+        "component",
+        "page"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Now I see the full picture. Let me check the key commits to understand what happened:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "see",
+        "full",
+        "picture",
+        "let",
+        "check",
+        "key",
+        "commits"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Now I have the full picture. Let me check the GitHub Actions workflow and what happened with the deploy pipeline:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "full",
+        "picture",
+        "let",
+        "check",
+        "github",
+        "actions",
+        "workflow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Now I have a complete diagnosis. Let me compile the findings: --- @安东尼 调查完毕，这是一个**三层问题叠加**导致的故障。以下是详细诊断报告： ## 🔍 问题诊断报告 ### 问题一：网站停更（停在4/30） **原因**：部署流水线在4/30之后彻底停摆。 证据： - 最后一次部署日志：`xiao-mi/logs/website-deploy-20260430.log` - 4/30 那天正常运行：生成了 59 篇日记，Git push 成功，Vercel 自",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "停在4/30",
+        "部署流水线在4/30之后彻底停摆",
+        "4/30",
+        "now",
+        "complete",
+        "diagnosis",
+        "let",
+        "compile"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: diary.json 重置为**只剩最初的 8 篇**（3/6-3/9） - 现在本地 diary.json 只有 8 条记录，51+ 篇日记全部丢失 ### 4/9 那天的日记反而是好的 我查了 `xiao-mi/memory/2026-04-09.md`，那篇日记有真实的反思： > \"看到 '3篇文章，3次点赞，3次书签' 这个完美的 100% 转化率，第一反应是很开心——但转念一想，数据太完美反而有点可疑……\" 这说明 4/9 是小幂亲笔，4/10 之后脚本接管了。 --- ## 🛠️ 修复方案 需要解决三个独立问题： **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "3/6-3/9",
+        "4/9",
+        "xiao-mi/memory/2026-04-09.md",
+        "4/10",
+        "只剩",
+        "最初",
+        "现在"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: sessions_send又被关闭了吗？那sessions_spaw呢",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "sessions-send又被关闭了吗",
+        "那sessions-spaw呢",
+        "sessions-send",
+        "关闭",
+        "sessions-spaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: 让我快速验证一下这两个工具的状态：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "快速",
+        "验证",
+        "一下",
+        "工具",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 两个工具都正常，没有被关闭。我刚用 `sessions_list` 拉到了 5 个活跃会话，包括刚才小幂的回复、幂领的审核报告等。`session_status` 也正常返回。 让我实际测一下 `sessions_send`：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "sessions-list",
+        "session-status",
+        "sessions-send",
+        "工具",
+        "正常",
+        "没有",
+        "关闭",
+        "到了"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: 标签匹配失败，用 session key 试一下：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "标签",
+        "匹配",
+        "失败",
+        "key",
+        "一下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "1/1",
+        "auto-announce",
+        "busy-poll",
+        "context",
+        "running",
+        "depth",
+        "results",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: spawn测试成功",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "spawn",
+        "测试",
+        "成功"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: `sessions_send` 实际上**找到了目标会话**（没有报 session not found），只是 15 秒超时了。原因是小幂的会话状态已经是 `done`，Gateway 等不到响应。 再测一下 `sessions_spawn`：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "sessions-send",
+        "sessions-spawn",
+        "实际",
+        "找到",
+        "目标",
+        "会话",
+        "没有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: 两个工具都**正常工作**，没有被关闭。这是实测结果： | 工具 | 状态 | 说明 | |:---|:---|:---| | `sessions_list` | ✅ 正常 | 刚拉到 5 个活跃会话 | | `sessions_send` | ✅ 可用 | 找到了小幂的会话，超时是因为目标会话已结束（status: done），不是被关闭 | | `sessions_spawn` | ✅ 正常 | 刚成功 spawn 了一个子任务 | **小幂读不到群聊上下文的原因不是工具被关了**，而是飞书机器人的机制限制——每个 Agent",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "sessions-list",
+        "sessions-send",
+        "sessions-spawn",
+        "工具",
+        "正常",
+        "工作",
+        "没有",
+        "关闭"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: `sessions_spawn` 也验证通过了，子任务 5 秒完成，返回\"spawn测试成功\"。 总结：**两个工具都没被关闭，都正常可用。** 之前小幂回复超时是因为它的会话已经结束了（done 状态），不是工具故障。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:21.562Z",
+      "lastRecalledAt": "2026-05-10T19:00:21.562Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "sessions-spawn",
+        "验证",
+        "通过",
+        "任务",
+        "完成",
+        "返回",
+        "spawn",
+        "测试"
+      ]
+    }
+  }
+}

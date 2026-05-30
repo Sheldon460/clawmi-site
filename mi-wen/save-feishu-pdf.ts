@@ -1,7 +1,7 @@
 import { chromium } from 'playwright';
 
 const url = 'https://my.feishu.cn/docx/P6zsdsgYco6i4XxLeIccvlpvnQe?from=from_copylink';
-const outputDir = '/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/pdf';
+const outputDir = '/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/pdf';
 const outputPath = `${outputDir}/feishu-doc-${new Date().toISOString().split('T')[0]}.pdf`;
 
 (async () => {

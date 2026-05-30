@@ -6,7 +6,7 @@ const path = require('path');
 
 const CONFIG = {
   // 数据存储路径
-  DATA_DIR: '/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/smart-collect',
+  DATA_DIR: '/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/smart-collect',
 
   // 收藏数据文件
   COLLECTIONS_FILE: 'collections.json',

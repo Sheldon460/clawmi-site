@@ -57,7 +57,7 @@
 
 ### 文档输出路径
 - 飞书文档：当前飞书对话
-- 本地知识库：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/`
+- 本地知识库：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/`
 
 ### 记忆系统路径
 - 个人记忆：`main/self-improving/memory.md`

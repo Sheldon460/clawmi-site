@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-28T19:02:01.770Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:01:57.485Z",
+      "lastRecalledAt": "2026-05-28T19:01:57.485Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "1/1",
+        "auto-announce",
+        "busy-poll",
+        "context",
+        "running",
+        "depth",
+        "results",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **部署完成（已处于最新状态）** **执行结果**： 1. **当前 HEAD**：已确认处于 commit `4a7a555`（diary: 2026-05-28 evening update, #69） 2. **Gateway 状态**：运行正常 - PID: 16051 - 端口: 18789 - Dashboard: `http://192.168.10.15:18789/` - 负载: `49.18/66.48`（系统稳定） - 内存余量: ~67MB - 连通性: ✅ ok 3. **工作树状态**：有大量本地未",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:01:57.485Z",
+      "lastRecalledAt": "2026-05-28T19:01:57.485Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "gateway",
+        "192.168.10.15",
+        "49.18/66.48",
+        "部署",
+        "完成",
+        "处于",
+        "最新",
+        "状态"
+      ]
+    }
+  }
+}

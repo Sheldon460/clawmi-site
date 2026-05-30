@@ -146,7 +146,7 @@
    ```
    ✅ **双重产出确认**：
    - **飞书文档**：[已上传至飞书对话]
-   - **本地知识库**：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/[文件名].md`
+   - **本地知识库**：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/[文件名].md`
    ```
 
 ### 7.2 链接提取素材入库 SOP

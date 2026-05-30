@@ -1,0 +1,2943 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-30T04:39:47.935Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 聊天窗发给我",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "聊天"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 我来获取一下我们的聊天记录：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "我来",
+        "获取",
+        "一下",
+        "我们",
+        "聊天",
+        "记录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 看起来我无法直接获取我们的聊天记录。不过没关系，我可以根据 OpenClaw 的会话机制来查看上下文信息。让我检查一下会话状态：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "看起来",
+        "无法",
+        "直接",
+        "获取",
+        "我们",
+        "聊天",
+        "记录",
+        "不过"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 抱歉，我遇到了一些技术限制，无法直接获取到您之前的那条消息内容。 ## 🔍 问题说明 我尝试了以下方法但都失败了： 1. **飞书 IM API 获取消息历史** - 错误：`fetch failed` - 原因：可能是权限不足或 API 限制 2. **lark-cli 命令行工具** - 错误：`not configured`（未配置） - 提示：需要运行 `lark-cli config init --new` 完成初始化 3. **会话历史查询** - 只能获取到会话元数据（更新时间、状态等） - 无法获取具体消息内容 #",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "lark-cli",
+        "抱歉",
+        "遇到",
+        "一些",
+        "技术",
+        "限制",
+        "无法",
+        "直接"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 用wechat cli抓取🦞5月OpenClaw实战营｜觉醒新商学里大家关于小龙虾的问题",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "wechat",
+        "cli",
+        "抓取",
+        "openclaw",
+        "实战",
+        "觉醒",
+        "商学",
+        "大家"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 好嘞！我来用 wechat-cli 抓取群里关于小龙虾的问题。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "wechat-cli",
+        "我来",
+        "wechat",
+        "cli",
+        "抓取",
+        "关于",
+        "龙虾",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: 完美！已成功抓取到群里关于**小龙虾**的所有讨论内容。 ## 📊 抓取结果统计 | 项目 | 数值 | |:---|:---:| | **搜索关键词** | 小龙虾 | | **搜索范围** | 🦞5月OpenClaw实战营｜觉醒新商学 | | **消息总数** | 12 条 | | **时间范围** | 2026-05-01 ~ 2026-05-08 | --- ## 💬 消息列表（按时间排序） ### 🗓️ 5月1日 **[12:42] 桃子：** > 我想问一下，部署小龙虾对电脑配置有要求吗？ --- ### 🗓️",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "完美",
+        "成功",
+        "抓取",
+        "关于",
+        "龙虾",
+        "所有",
+        "讨论",
+        "内容"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 财富觉醒「医生」💞黄静：** > 大家的资源都好丰富哟，不过在课程外的AI暂时不发群里哟，我们先专注小龙虾老师提供的内容，毕竟已经验证过啦[呲牙] **[22:44] 鱼堂主：** > 对的，我们这一次先让大家学会用小龙虾。后面再教： > > 1. Claude > 2. Cda > 3. 笔记软件 > > 我们尽可能多教大家一些 AI 的应用 --- ### 🗓️ 5月8日 **[13:16] 太阳当空赵｜视觉设计：** > 已经在约希尔顿老师的时间，给队长们安排1V1咨询啦～ > > 本次实战营队长招募：你将带队实践Open",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "财富",
+        "觉醒",
+        "医生",
+        "大家",
+        "资源",
+        "都好",
+        "丰富",
+        "不过"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: 帮我抓取5月openclaw实战营中关于小龙虾的问题，并汇总",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "抓取",
+        "openclaw",
+        "实战",
+        "关于",
+        "龙虾",
+        "问题"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 好嘞！我来抓取并做深度汇总分析。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "我来",
+        "抓取",
+        "深度",
+        "分析"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: 完成！已成功抓取并深度汇总了5月OpenClaw实战营中关于小龙虾的所有讨论。 ## 📊 抓取统计 | 项目 | 数据 | |:---|:---:| | **消息总数** | 17 条 | | **时间跨度** | 5/1 ~ 5/8 (8天) | | **核心话题** | 5大类 | --- ## 🎯 核心问题分类 ### 1️⃣ 技术部署（3条） **问题：** 电脑配置要求？ **答案：** 无特殊要求，有浏览器即可。云服务器 + 远程控制，与本地系统无关。 **问题：** 飞书秒搭版本费用？ **答案：** 69元/月，",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "5/1",
+        "5/8",
+        "69元/月",
+        "完成",
+        "成功",
+        "抓取",
+        "深度",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: | 小龙虾 → Claude → Cda → 笔记软件 | ### ⚠️ 需要关注 1. **部署进度不透明**：除蔚蓝序章外，其他同学进度未知 2. **计费差异未完全明确**：飞书秒搭 vs 自建方案 3. **课程外资源管理**：群内已规范，但可能存在私下分享 --- ## 📁 完整报告 已生成详细报告： **`/tmp/openclaw/小龙虾讨论汇总_2026-05-08.md`** 包含内容： - ✅ 17条消息完整记录 - ✅ 话题分类与时间线 - ✅ 用户参与统计 - ✅ 活跃度趋势图 - ✅ 建议与后续行动 需要",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "龙虾",
+        "claude",
+        "cda",
+        "笔记",
+        "软件",
+        "需要",
+        "关注",
+        "部署"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: 安装这个技能",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "安装",
+        "这个",
+        "技能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 您好！您想安装哪个技能呢？ 请提供以下信息之一： 1. **技能名称**：例如 `wechat-cli`、`lark-im-read`、`content-collector` 等 2. **技能仓库链接**：来自 clawhub.ai 的技能 3. **技能文件路径**：本地的 SKILL.md 文件路径 --- ## 🧰 可能有用的相关技能 根据我们刚才的工作（抓取微信消息），您可能需要： | 技能 | 功能 | |:---|:---| | `content-collector` | 内容采集与整理 | | `feishu-ch",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "wechat-cli",
+        "lark-im-read",
+        "content-collector",
+        "clawhub.ai",
+        "skill.md",
+        "feishu-ch",
+        "您好",
+        "安装"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: 安装这个技能包",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "安装",
+        "这个",
+        "技能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 收到！我来下载并安装这个飞书技能包。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "收到",
+        "我来",
+        "下载",
+        "安装",
+        "这个",
+        "技能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **安装成功！** ## 📦 安装摘要 | 项目 | 状态 | |:---|:---:| | **技能名称** | feishu-qa-bot-skill | | **版本** | 1.4.1 | | **作者** | hongchen | | **安装路径** | `~/.agents/skills/feishu-qa-bot` | | **OpenClaw 注入** | ✅ 已链接到 `~/.openclaw/skills/feishu-qa-bot-skill` | --- ## 🎯 技能能力 这个技能是一个**飞书群",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "feishu-qa-bot-skill",
+        "1.4.1",
+        "agents/skills/feishu-qa-bot",
+        "安装",
+        "成功",
+        "摘要",
+        "项目",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 飞书应用密钥 | `xxxxxxxxxxxxxxxx` | | `QA_CHAT_ID` | 监听的群聊 ID | `oc_xxxxxxxxxxxxxxxx` | | `QA_BITABLE_BASE_URL` | 多维表格 URL | `https://xxx.feishu.cn/base/RQL...` | | `QA_TABLE_NAME` | 表格名称（可选） | `问答记录` | ### 3️⃣ 安装 Python 依赖 ```bash cd ~/.agents/skills/feishu-qa-bot pip insta",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "qa-chat-id",
+        "oc-xxxxxxxxxxxxxxxx",
+        "qa-bitable-base-url",
+        "xxx.feishu.cn/base/rql",
+        "qa-table-name",
+        "agents/skills/feishu-qa-bot",
+        "应用",
+        "xxxxxxxxxxxxxxxx"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: QA_OPENCLAW_SEARCH_AGENT=main ``` ### 知识库同步（可选） ```bash # 手动同步 python3 scripts/sync_knowledge_base.py --source \"$QA_KB_SOURCE\" ``` --- ## 📖 文档位置 - **安装指南**: `~/.agents/skills/feishu-qa-bot/INSTALL.md` - **使用说明**: `~/.agents/skills/feishu-qa-bot/README.md` - **Skill 文件",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "qa-openclaw-search-agent",
+        "scripts/sync-knowledge-base.py",
+        "qa-kb-source",
+        "知识",
+        "同步",
+        "bash",
+        "python3",
+        "scripts"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: /Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/将双文档协议的本地路径修改为这个，所有agent的都修改，并保持其他内容不变",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "documents/icloud",
+        "volumes",
+        "house",
+        "users",
+        "sheldon",
+        "library",
+        "mobile"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 好嘞！我来帮您修改所有 agent 的双文档协议本地路径。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:01:52.806Z",
+      "lastRecalledAt": "2026-05-08T19:01:52.806Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "我来",
+        "修改",
+        "所有",
+        "协议",
+        "本地",
+        "路径"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: 切换所有agent默认模型为MiMo-V2.5-Pro",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "切换所有agent默认模型为mimo-v2.5-pro",
+        "切换",
+        "所有",
+        "默认",
+        "模型",
+        "mimo",
+        "v2.5",
+        "pro"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: 切换所有agent默认模型为MiMo-V2.5-Pro",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "切换所有agent默认模型为mimo-v2.5-pro",
+        "切换",
+        "所有",
+        "默认",
+        "模型",
+        "mimo",
+        "v2.5",
+        "pro"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 用wechat cli收集Helen发给我的所有信息，并根据信息，总结分享资料怎么写，复盘文案怎么写",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "wechat",
+        "cli",
+        "收集",
+        "helen",
+        "我的",
+        "所有",
+        "信息",
+        "根据"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: 用wechat cli收集Helen发给我的所有信息，并根据信息，总结分享资料怎么写，复盘文案怎么写",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "wechat",
+        "cli",
+        "收集",
+        "helen",
+        "我的",
+        "所有",
+        "信息",
+        "根据"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: 用wechat cli收集Helen发给我的所有信息，并根据信息，总结分享资料怎么写，复盘文案怎么写",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "wechat",
+        "cli",
+        "收集",
+        "helen",
+        "我的",
+        "所有",
+        "信息",
+        "根据"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: 用wechat cli收集Helen发给我的所有信息，并根据信息，总结分享资料怎么写，复盘文案怎么写",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "wechat",
+        "cli",
+        "收集",
+        "helen",
+        "我的",
+        "所有",
+        "信息",
+        "根据"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: 用wechat cli收集Helen发给我的所有信息，并根据信息，总结分享资料怎么写，复盘文案怎么写",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "wechat",
+        "cli",
+        "收集",
+        "helen",
+        "我的",
+        "所有",
+        "信息",
+        "根据"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 两个任务并行处理。先查配置路径，同时搜索Helen的联系人信息。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "任务",
+        "并行",
+        "处理",
+        "配置",
+        "路径",
+        "同时",
+        "搜索",
+        "helen"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: There are many \"Helen\" contacts. I need to check which one has recent messages, and also work on the model switch. Let me handle both:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "many",
+        "helen",
+        "contacts",
+        "need",
+        "check",
+        "which",
+        "one",
+        "has"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: Let me look at the config file path and also search for Helen in recent sessions more broadly:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "let",
+        "look",
+        "config",
+        "path",
+        "helen",
+        "recent",
+        "broadly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: The config file isn't where I expected. Let me find it and also check the wechat-cli sessions output format.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "wechat-cli",
+        "config",
+        "isn't",
+        "where",
+        "expected",
+        "let",
+        "find",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: Found the config file path. The gateway requires pairing, so I'll edit the config directly. Let me also find Helen in the sessions.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "found",
+        "config",
+        "path",
+        "requires",
+        "pairing",
+        "i'll",
+        "edit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: Good news: **所有agent的默认模型已经是 MiMo-V2.5-Pro 了**！`agents.defaults.model.primary` 已经是 `xiaomimimo/xiaomi/mimo-v2.5-pro`，所有 agent 都继承默认值。 现在来收集 Helen 的消息：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "mimo-v2.5-pro",
+        "agents.defaults.model.primary",
+        "xiaomimimo/xiaomi/mimo-v2.5-pro",
+        "good",
+        "news",
+        "所有",
+        "默认",
+        "模型"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: 需要用 username 来查询。Helen 的 username 是 `catwang2011`。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "需要",
+        "username",
+        "查询",
+        "helen",
+        "catwang2011"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: 收到所有信息了！现在来总结。Helen 的消息一共有 27 条，我来整理核心要点： --- ## 📋 从 Helen 消息中提取的关键信息 **背景：** 你是\"一人公司内容6群|10期\"行动营的学员，Helen 是本期的资料官。她邀请你在学习群里做一次成果分享，并且快结营了，还需要写复盘贴。 --- ## 📝 分享资料怎么写 **要求：** - 形式：**图文形式**，群内分享 - 时长：**3-5 分钟**（最多10分钟），不用太复杂 - 内容：聊聊这 **20多天的学习方法、心得体会，或者拿到的小成果** - 分享时段：1",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "3-5",
+        "收到",
+        "所有",
+        "信息",
+        "现在",
+        "总结",
+        "helen",
+        "消息"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: 飞书参考文档1：<https://bagty5t00dc.feishu.cn/wiki/WN8Mwp60diPWwMkR6ChcmLKanzb> 3. 飞书参考文档2：<https://bagty5t00dc.feishu.cn/wiki/Q2VSwwJVDiTHnZkpRwJcm1DNnIb> **建议结构：** 1. **行动营概况** — 参加的是什么营、多长时间 2. **目标与完成情况** — 当初的目标是什么，完成了多少 3. **学习过程** — 关键节点、做了哪些事 4. **成果展示** — 用数据/截图说话 5.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:27.009Z",
+      "lastRecalledAt": "2026-05-09T19:00:27.009Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "用数据/截图说话",
+        "参考",
+        "https",
+        "bagty5t00dc.feishu.cn",
+        "wiki",
+        "wn8mwp60dipwwmkr6chcmlkanzb",
+        "q2vswwjvdithnzkprwjcm1dnnib",
+        "建议"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: https://github.com/alchaincyf/huashu-md-html安装这个技能",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "https",
+        "github.com",
+        "alchaincyf",
+        "huashu",
+        "html",
+        "安装",
+        "这个",
+        "技能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 先看看这个仓库的内容，然后安装。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "看看",
+        "这个",
+        "仓库",
+        "内容",
+        "然后",
+        "安装"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: ClawHub 不支持直接 GitHub URL，需要手动克隆安装。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "clawhub",
+        "支持",
+        "直接",
+        "github",
+        "url",
+        "需要",
+        "安装"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: This is a proper OpenClaw skill with SKILL.md. Let me copy it to the skills directory and install dependencies.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "proper",
+        "openclaw",
+        "skill",
+        "let",
+        "copy",
+        "skills",
+        "directory"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Pandoc is already installed. Let me install the Python dependencies.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "pandoc",
+        "already",
+        "installed",
+        "let",
+        "install",
+        "python",
+        "dependencies"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: System Python is externally managed. Let me use pipx or create a venv for this.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "python",
+        "externally",
+        "managed",
+        "let",
+        "use",
+        "pipx",
+        "create",
+        "venv"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Let me read the SKILL.md to see if it has specific installation instructions.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "let",
+        "read",
+        "see",
+        "has",
+        "specific",
+        "installation",
+        "instructions"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Now let me install the Python dependencies. I'll use `--user` to avoid breaking system packages.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "install",
+        "python",
+        "dependencies",
+        "i'll",
+        "use",
+        "avoid"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: All Python dependencies installed successfully in a virtual environment. Now let me update the scripts to use the venv's Python, and verify everything works.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "all",
+        "python",
+        "dependencies",
+        "installed",
+        "successfully",
+        "virtual",
+        "environment",
+        "now"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: The scripts use `#!/usr/bin/env python3` which will find the system Python. I need to point them to the venv's Python so the installed packages are available. Let me update the shebangs.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "usr/bin/env",
+        "scripts",
+        "use",
+        "usr",
+        "bin",
+        "env",
+        "python3",
+        "which"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Now let me make the scripts executable and verify everything works.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "scripts",
+        "executable",
+        "verify",
+        "everything",
+        "works"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: The first two imports worked. Let me test the remaining ones separately.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "first",
+        "two",
+        "imports",
+        "worked",
+        "let",
+        "test",
+        "remaining",
+        "ones"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: All dependencies verified. Now let me check if OpenClaw can discover this skill properly. The skill needs to be in the right location.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "all",
+        "dependencies",
+        "verified",
+        "now",
+        "let",
+        "check",
+        "openclaw",
+        "can"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: The skill is installed at `~/.openclaw/skills/skills/huashu-md-html/`. Now let me update TOOLS.md to document this skill, and also clean up.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "skill",
+        "installed",
+        "openclaw",
+        "skills",
+        "huashu",
+        "html",
+        "now"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: Now let me update TOOLS.md to document the new skill.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "now",
+        "let",
+        "update",
+        "document",
+        "new",
+        "skill"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: Wait, I updated the shebangs to point to the venv Python, so the scripts can be run directly. Let me fix the TOOLS.md to use the scripts directly instead of `python3 script.py`.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "script.py",
+        "wait",
+        "updated",
+        "shebangs",
+        "point",
+        "venv",
+        "python"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: Now let me verify the shebangs are correct:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "verify",
+        "shebangs",
+        "correct"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: 技能 `huashu-md-html` 安装完成 ✅ **安装概要：** - 📁 位置：`~/.openclaw/skills/skills/huashu-md-html/` - 🐍 Python 依赖：已在 `.venv/` 虚拟环境中安装（markitdown、trafilatura、html-to-markdown、markdownify 等） - 📄 Pandoc：已就绪（`/opt/homebrew/bin/pandoc`） - 🔧 脚本 shebang 已指向 venv Python，可直接运行 **三个能力：*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:50.644Z",
+      "lastRecalledAt": "2026-05-10T19:00:50.644Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "huashu-md-html",
+        "html-to-markdown",
+        "opt/homebrew/bin/pandoc",
+        "技能",
+        "huashu",
+        "html",
+        "安装",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: https://my.feishu.cn/docx/N08kdNJIroFeEqxvWVEcAfY5nhe?from=from_copylinkhttps://my.feishu.cn/docx/X9vBdqKrKo2LlNxB55pcYEAmnwh?dcuId=7583347993596677343&from=vc_assistant_notice#doxcnHheqwwJJfcM5BPkTPuj1Nbhttps://my.feishu.cn/docx/EciBdsMXooFznVxMWyFcfbxSn3n?dcuId=7583347993",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "from-copylinkhttps",
+        "vc-assistant-notice",
+        "https",
+        "my.feishu.cn",
+        "docx",
+        "n08kdnjirofeeqxvwvecafy5nhe",
+        "x9vbdqkrko2llnxb55pcyeamnwh",
+        "dcuid"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: https://my.feishu.cn/docx/N08kdNJIroFeEqxvWVEcAfY5nhe?from=from_copylinkhttps://my.feishu.cn/docx/X9vBdqKrKo2LlNxB55pcYEAmnwh?dcuId=7583347993596677343&from=vc_assistant_notice#doxcnHheqwwJJfcM5BPkTPuj1Nbhttps://my.feishu.cn/docx/EciBdsMXooFznVxMWyFcfbxSn3n?dcuId=7583347993",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "from-copylinkhttps",
+        "vc-assistant-notice",
+        "https",
+        "my.feishu.cn",
+        "docx",
+        "n08kdnjirofeeqxvwvecafy5nhe",
+        "x9vbdqkrko2llnxb55pcyeamnwh",
+        "dcuid"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: https://my.feishu.cn/docx/N08kdNJIroFeEqxvWVEcAfY5nhe?from=from_copylinkhttps://my.feishu.cn/docx/X9vBdqKrKo2LlNxB55pcYEAmnwh?dcuId=7583347993596677343&from=vc_assistant_notice#doxcnHheqwwJJfcM5BPkTPuj1Nbhttps://my.feishu.cn/docx/EciBdsMXooFznVxMWyFcfbxSn3n?dcuId=7583347993",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "from-copylinkhttps",
+        "vc-assistant-notice",
+        "https",
+        "my.feishu.cn",
+        "docx",
+        "n08kdnjirofeeqxvwvecafy5nhe",
+        "x9vbdqkrko2llnxb55pcyeamnwh",
+        "dcuid"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Something went wrong while processing your request. Please try again, or use /new to start a fresh session.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "something",
+        "went",
+        "wrong",
+        "while",
+        "processing",
+        "request",
+        "please",
+        "try"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: [Queued messages while agent was busy] --- Queued #1 (from 安东尼) System: [2026-05-12 23:39:57 GMT+8] Feishu[mi-cli] DM | 安东尼 (ou_09ee86eb274331452b966e503fcac926) [msg:om_x100b6f00cfa964b0c2a48c3eb263779]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "mi-cli",
+        "queued",
+        "messages",
+        "while",
+        "was",
+        "busy",
+        "东尼",
+        "gmt"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: 将这5篇文档写入obsidian的咨询案例中，并要遵守obsidian中的格式规范https://my.feishu.cn/docx/N08kdNJIroFeEqxvWVEcAfY5nhe?from=from_copylinkhttps://my.feishu.cn/docx/X9vBdqKrKo2LlNxB55pcYEAmnwh?dcuId=7583347993596677343&from=vc_assistant_notice#doxcnHheqwwJJfcM5BPkTPuj1Nbhttps://my.feishu.cn/docx/Eci",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "from-copylinkhttps",
+        "vc-assistant-notice",
+        "my.feishu.cn/docx/eci",
+        "obsidian",
+        "咨询",
+        "案例",
+        "遵守",
+        "中的"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-12T19:00:59.502Z",
+      "lastRecalledAt": "2026-05-12T19:00:59.502Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13",
+        "2026-05-12"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: /minimax",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "minimax"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] 收到，我是幂CLI 🦞 当前模型：`xiaomimimo/xiaomi/mimo-v2.5-pro` 会话：`agent:mi-cli:feishu:direct:ou_09ee86eb274331452b966e503fcac926` 有什么可以帮你的？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "xiaomimimo/xiaomi/mimo-v2.5-pro",
+        "mi-cli",
+        "收到",
+        "我是",
+        "cli",
+        "当前",
+        "模型"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: 你改名叫幂claw",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "改名",
+        "claw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] 好的，以后叫我 **幂claw** 🦞 简洁有力，CLI精神 ✌️",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:29.039Z",
+      "lastRecalledAt": "2026-05-13T19:00:29.039Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "好的",
+        "以后",
+        "claw",
+        "简洁",
+        "有力",
+        "cli",
+        "精神"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] 需要什么？把你的需求说清楚，我好帮你搞定。😎",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "需要",
+        "什么",
+        "你的",
+        "需求",
+        "说清楚",
+        "搞定"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: https://ycnezwebj31p.feishu.cn/docx/Z36fd2rw7oMqPexENNDcsDl2nVg?from=from_copylink",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "from-copylink",
+        "https",
+        "ycnezwebj31p.feishu.cn",
+        "docx",
+        "z36fd2rw7omqpexenndcsdl2nvg"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] 这个文档需要授权才能访问。我已经发送了授权请求卡片给你，请点击卡片中的链接完成授权，授权完成后告诉我，我再重新读取文档内容。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "这个",
+        "需要",
+        "授权",
+        "才能",
+        "访问",
+        "已经",
+        "发送"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: 更改所有agent本地存储路径为/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/10.自动化接口/OpenClaw任务包",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "更改所有agent本地存储路径为/volumes/my",
+        "documents/icloud",
+        "更改",
+        "所有",
+        "本地",
+        "存储",
+        "路径",
+        "volumes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 明白了！你要把所有 agent 的本地存储路径（workspace）从： `/Volumes/My house/Users/Sheldon/WorkBuddy/Claw/mi-army/<agent-id>` 改为： `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/10.自动化接口/OpenClaw任务包/<agent-id>` 我来执行这个更改：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "agent-id",
+        "documents/icloud",
+        "明白",
+        "你要",
+        "所有",
+        "本地",
+        "存储"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 已更新所有 30 个 agent 的 workspace 路径。重启 gateway 使配置生效：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "更新",
+        "所有",
+        "路径",
+        "配置",
+        "生效"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] 搞定！已将所有 **30 个 agent** 的本地存储路径从： `/Volumes/My house/Users/Sheldon/WorkBuddy/Claw/mi-army/` 改为： `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/10.自动化接口/OpenClaw任务包/` Gateway 已重启生效。每个 agent 的 workspace 目录都已迁移到新",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "reply-to-current",
+        "volumes/my",
+        "documents/icloud",
+        "搞定",
+        "所有",
+        "本地",
+        "存储"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: /Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/10.自动化接口/OpenClaw，这是workspace；/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/10.自动化接口/OpenClaw任务包，这是任务内容归档的地方",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "documents/icloud",
+        "volumes",
+        "house",
+        "users",
+        "sheldon",
+        "library",
+        "mobile"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: 明白了！理解错了用途，我来修正： - **workspace** 应在：`.../OpenClaw` - **任务归档** 应在：`.../OpenClaw任务包` 之前改错了，现在改回来：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "明白",
+        "理解",
+        "用途",
+        "我来",
+        "修正",
+        "openclaw",
+        "任务",
+        "归档"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] 已完成！ 所有 **30 个 agent** 的 workspace 路径已全部更正： - **错误路径**：`...OpenClaw任务包/xxx` - **正确路径**：`...OpenClaw/xxx` 即 `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/10.自动化接口/OpenClaw` Gateway 已重启生效。每个 agent 的工作区现在都指向 Op",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "reply-to-current",
+        "openclaw任务包/xxx",
+        "openclaw/xxx",
+        "volumes/my",
+        "documents/icloud",
+        "完成",
+        "所有"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: 工作区还是按照原先的~/.openclaw，/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/10.自动化接口/OpenClaw任务包，这个做内容归档",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "documents/icloud",
+        "工作",
+        "还是",
+        "按照",
+        "原先",
+        "openclaw",
+        "volumes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 搞定了！所有 30 个 agent 的 workspace 都恢复为默认路径： - **workspace**: `~/.openclaw/workspace/{agent_id}` - **归档目录**: `OpenClaw任务包` Gateway 无需重启，配置已自动生效。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:03:29.321Z",
+      "lastRecalledAt": "2026-05-27T19:03:29.321Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openclaw/workspace",
+        "agent-id",
+        "搞定",
+        "所有",
+        "恢复",
+        "默认",
+        "路径"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: baoyu-article-illustrator",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T04:39:47.935Z",
+      "lastRecalledAt": "2026-05-30T04:39:47.935Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "baoyu-article-illustrator",
+        "baoyu",
+        "article",
+        "illustrator"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 我来读取一下这个 skill 的内容：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T04:39:47.935Z",
+      "lastRecalledAt": "2026-05-30T04:39:47.935Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "我来",
+        "一下",
+        "这个",
+        "skill",
+        "内容"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 找不到 `baoyu-article-illustrator` 这个 skill，本地没有这个目录。 可能是： 1. **还没拉下来** — 在其他机器上创建的 2. **名字记错了** — 正确名称是什么？ 你可以把 `baoyu-article-illustrator` 的 `SKILL.md` 内容贴过来，我直接用它做演示。或者告诉我完整名称我帮你搜一下。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T04:39:47.935Z",
+      "lastRecalledAt": "2026-05-30T04:39:47.935Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "baoyu-article-illustrator",
+        "skill.md",
+        "找不到",
+        "baoyu",
+        "article",
+        "illustrator",
+        "这个",
+        "skill"
+      ]
+    }
+  }
+}

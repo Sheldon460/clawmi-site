@@ -1,0 +1,8 @@
+[mi-zhi/sessions/6470fc88-4cf7-4495-a87c-8dda7524a4ea.jsonl#L6] Assistant: 🔥 **幂智启动每日情报采集** **执行时间**: 2026-05-25 07:30 (UTC+8) **任务**: AI资讯早报采集 --- **预检流程：加载实战策略**
+[mi-zhi/sessions/6470fc88-4cf7-4495-a87c-8dda7524a4ea.jsonl#L15] Assistant: 已加载最新策略（2026-05-03降级模式：web_search为主要数据源）。开始执行今日采集。
+[mi-zhi/sessions/6470fc88-4cf7-4495-a87c-8dda7524a4ea.jsonl#L26] Assistant: Good, TechCrunch RSS is accessible via curl. Let me collect the full article list and write the report.
+[mi-zhi/sessions/6470fc88-4cf7-4495-a87c-8dda7524a4ea.jsonl#L29] Assistant: 采集到了20条TechCrunch最新AI资讯，开始生成早报。
+[mi-zhi/sessions/6470fc88-4cf7-4495-a87c-8dda7524a4ea.jsonl#L31] Assistant: Now let me write today's log and create the Feishu doc:
+[mi-zhi/sessions/6470fc88-4cf7-4495-a87c-8dda7524a4ea.jsonl#L33] Assistant: Now let me send the daily report to the Feishu group:
+[mi-zhi/sessions/6470fc88-4cf7-4495-a87c-8dda7524a4ea.jsonl#L35] Assistant: --- ## ✅ 今日采集完成 **📊 执行报告** | 项目 | 状态 | |------|------| | 数据采集 | ✅ TechCrunch RSS（20条） | | 内容处理 | ✅ 18条精选，6大分类 | | 趋势分析 | ✅ 3大核心信号 + 历史对比 | | 本地同步 | ✅ Obsidian已保存 | | 飞书推送 | ✅ 已发送至群组 | **🔥 今日核心洞察** 1. **AI安全成为行业级行动** — Google自己也在"实时导航"，Trump推迟安全行政令 2. **Spotify AI音频全
+[mi-zhi/sessions/781b65bf-44da-45c2-a98e-69ac9dae68a0.jsonl#L8] Assistant: 🤖 **AI资讯早报** | 2026年5月25日（周一） 📡 **数据来源**：TechCrunch AI RSS | 18条精选 --- **🔥 今日3大核心信号** **① AI安全成行业共识** Google全员实时应对AI安全，连自己也在"导航"。Trump推迟AI安全行政令，措辞"可能成为障碍"。监管博弈持续。 **② Spotify AI音频矩阵成型** 单日发布3条AI音频产品（播客创作+简报生成+ElevenLabs有声书），正面对垒Google NotebookLM。 **③ AI可穿戴进入产品化阶段** 

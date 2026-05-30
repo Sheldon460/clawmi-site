@@ -20,7 +20,7 @@ sleep 2
 # 步骤 3: 生成执行报告
 echo ""
 echo "📊 步骤 2/4: 生成采集报告..."
-OUTPUT_DIR="/tmp/ai_news"
+OUTPUT_DIR="/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/02.素材收件箱/08.自动采集"
 DATE=$(date +%Y%m%d)
 
 if [ -f "$OUTPUT_DIR/report_$DATE.md" ]; then

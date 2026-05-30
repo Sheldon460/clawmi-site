@@ -1,0 +1,1 @@
+[mi-ling/sessions/1fd169ed-4fcf-4176-89e8-96a8c768a3a8.jsonl#L23] Assistant: **午间日记 & 部署检查完成** ✅ 📊 **Gateway 状态** (PID 93679): - 端口 18789 ✅ | Dashboard ✅ | LaunchAgent ❌ 🔴 **系统告警**： - 负载：**104.91** / 97.62 / 93.19 — 比昨日(89.84)更恶化 - 内存：仅剩 **104MB 空闲**（15G used） - 已持续运行 **21天8小时**，建议重启 Mac mini 释放资源

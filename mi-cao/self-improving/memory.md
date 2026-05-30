@@ -60,7 +60,7 @@
 ### 双重产出协议
 ```
 1. 飞书文档：feishu_create_doc (markdown → 飞书)
-2. Obsidian 本地：/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/[文件名].md
+2. Obsidian 本地：/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/[文件名].md
 3. 汇报格式：
    ✅ 双重产出确认：
    - 飞书文档：[已上传至飞书对话]

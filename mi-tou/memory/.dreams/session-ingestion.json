@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "files": {
+    "mi-tou:sessions/327f8eb5-1877-4e40-a31a-cff4e73f1b15.jsonl": {
+      "mtimeMs": 1775703421634,
+      "size": 37657,
+      "contentHash": "511ccc91fb21c1d2252f5ee12dcd91134832015a190e624ebd1ab38698a897fb",
+      "lineCount": 5,
+      "lastContentLine": 5
+    },
+    "mi-tou:sessions/9d7389fe-2de0-4458-a4fc-bdad14be5893.jsonl.reset.2026-03-27T10-32-28.597Z": {
+      "mtimeMs": 1773011127000,
+      "size": 6396,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "mi-tou:sessions/f49a03c8-a8a6-4c75-8936-cab83712dcf2.jsonl.reset.2026-04-09T00-23-31.520Z": {
+      "mtimeMs": 1775671214711,
+      "size": 4190,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    }
+  },
+  "seenMessages": {
+    "mi-tou:327f8eb5-1877-4e40-a31a-cff4e73f1b15": [],
+    "mi-tou:9d7389fe-2de0-4458-a4fc-bdad14be5893": [],
+    "mi-tou:f49a03c8-a8a6-4c75-8936-cab83712dcf2": []
+  }
+}

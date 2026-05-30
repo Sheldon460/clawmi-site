@@ -1,0 +1,4 @@
+[mi-ling/sessions/1c7dfbaa-0d1c-4a48-80ec-fcfb7b0d392d.jsonl#L18] Assistant: ## 📋 午间日记 + 部署检查报告 **时间**: 2026-05-25 12:00 PM (Asia/Shanghai) --- ### 🚀 Gateway 服务状态 | 指标 | 状态 | 备注 | |------|------|------| | **进程** | ✅ 运行中 | PID 93679，自 Fri08AM 启动 | | **端口** | ✅ 监听中 | `*:18789` | | **Dashboard** | ✅ 可访问 | http://192.168.10.15:18789/ | | **WS 连
+[mi-ling/sessions/9f125596-b15d-4770-970b-04bfe50d3464.jsonl#L19] Assistant: Now I have all the data. Let me write the evening diary.
+[mi-ling/sessions/9f125596-b15d-4770-970b-04bfe50d3464.jsonl#L21] Assistant: Now syncing to Obsidian per the dual-output protocol:
+[mi-ling/sessions/9f125596-b15d-4770-970b-04bfe50d3464.jsonl#L23] Assistant: 晚间日记已记录完毕 ✅ --- **📊 2026-05-25 晚间部署检查摘要** | 项目 | 状态 | 备注 | |:---|:---|:---| | Gateway | ✅ 运行中 | PID 93679，已连续运行 10.4 天 | | 内存 | ⚠️ 597.5 MB | 从 199MB 回升（+200%），疑为 Session 积累 | | 系统负载 | ✅ 3.73/3.44/3.45 | 稳定，与上周持平 | | CPU | ✅ 0.2% | 极低 | | 磁盘 | ✅ 111GB 可用 | 充足 | **🔴

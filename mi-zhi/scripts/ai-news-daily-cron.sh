@@ -15,10 +15,13 @@ echo "🤖 执行Agent: mi-zhi"
 echo ""
 
 # 工作目录
-WORK_DIR="/Volumes/My house/Users/Sheldon/clawd/mi-army/mi-zhi"
+WORK_DIR="/Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-zhi"
 SCRIPTS_DIR="$WORK_DIR/scripts"
 OUTPUT_DIR="/tmp/ai_news_daily"
 mkdir -p "$OUTPUT_DIR"
+
+# ✅ 本地存储路径
+LOCAL_OUTPUT_DIR="/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/02.素材收件箱/08.自动采集"
 
 # 1. 采集热点资讯
 echo "📡 步骤1: 采集热点资讯..."
@@ -73,7 +76,7 @@ REPORT=$(cat <<EOF
   "status": "success",
   "log_file": "$LOG_FILE",
   "summary": {
-    "sources_checked": ["TechCrunch", "The Verge", "Hacker News"],
+    "sources_checked": ["TechCrunch", "The Verge", "Hacker News", "AIHOT"],
     "records_added": "见飞书表格",
     "chat_notified": "$CHAT_ID"
   }

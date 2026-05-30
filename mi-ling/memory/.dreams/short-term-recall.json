@@ -1,0 +1,3816 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-30T04:39:28.223Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 收到晚间任务指令，开始执行每日日记更新和部署检查。 首先让我读取今日的日记和相关记忆文件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "收到",
+        "晚间",
+        "任务",
+        "指令",
+        "开始",
+        "执行",
+        "每日",
+        "日记"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 开始执行晚间部署检查任务...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "开始",
+        "执行",
+        "晚间",
+        "部署",
+        "检查",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: --- ## ✅ 晚间任务执行完成 **执行时间**: 2026-05-06 18:00 PM ### 📊 部署检查结果 #### 系统状态 ✅ - **Gateway 服务**: 运行中 (PID: 69887) - **运行时长**: 14小时37分钟 (自 03:23 AM 启动) - **端口监听**: 18789 ✅ - **Agent 服务**: mi-ling & main 活跃 ✅ - **Cron 任务**: 正常触发 ✅ #### 关键指标 | 指标 | 状态 | 备注 | |:------|:------|:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "mi-ling",
+        "晚间",
+        "任务",
+        "执行",
+        "完成",
+        "时间",
+        "部署"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 收到午间日记更新和部署检查任务。正在执行...",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "收到",
+        "日记",
+        "更新",
+        "部署",
+        "检查",
+        "任务",
+        "正在",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-06.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-06.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-06.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: ✅ **午间日记更新与部署检查完成** **系统状态** - OpenClaw Gateway: ✅ 运行中 (PID 69887, CPU 13.0%) - Agent服务: ✅ 正常 (mi-ling & main 活跃) - Cron任务: ✅ 正常触发 **记录位置** `/Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-ling/memory/2026-05-06.md` **下一步** - 持续监控 Gateway 性能 - 晚间将继续日记更新任务",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a4942137f8fd"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "13.0",
+        "mi-ling",
+        "volumes/my",
+        "house/users/sheldon",
+        "日记",
+        "更新",
+        "部署"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 我将执行晚间日记更新和部署检查任务。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "执行",
+        "晚间",
+        "日记",
+        "更新",
+        "部署",
+        "检查",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 幂领晚间系统检查完成 (2026-05-07 18:00) --- ### ✅ **系统运行状态** **Gateway 服务：** - PID: 27165 (全天稳定，零崩溃) - 运行时长: 7小时24分 - 端口: 18789 正常监听 - Dashboard: http://192.168.10.45:18789/ - 活跃连接: 1 (Chrome) **性能指标对比：** | 指标 | 午间 | 晚间 | 变化 | |:---|:---|:---|:---| | CPU | 6.4% | 15.3% | ↑",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "192.168.10.45",
+        "6.4",
+        "15.3",
+        "晚间",
+        "系统",
+        "检查",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 收到午间日记更新和部署检查任务，正在执行。 让我先读取相关记忆文件，然后执行检查和更新。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "收到",
+        "日记",
+        "更新",
+        "部署",
+        "检查",
+        "任务",
+        "正在",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 现在执行系统检查并更新今日日记。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "现在",
+        "执行",
+        "系统",
+        "检查",
+        "更新",
+        "今日",
+        "日记"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 已执行系统检查，现在为 2026-05-07 创建全新午间日记条目并更新长期记忆中的最新日期。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "执行",
+        "系统",
+        "检查",
+        "现在",
+        "创建",
+        "全新",
+        "日记",
+        "条目"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-07.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-07.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-07.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ 午间日记更新和部署检查完成 ### 📊 系统状态 (12:00 PM) | 指标 | 状态 | 详情 | |:---|:---|:---| | **Gateway 服务** | ✅ 运行中 | PID 27165，端口 18789 | | **运行时长** | ✅ 1小时24分 | 启动于 10:36:43 AM | | **内存使用** | ✅ 良好 | 292MB (相比 4月27日 2.4GB 大幅优化) | | **CPU** | ⚠️ 中等 | 6.4% | | **系统负载** | ⚠️ 偏高 | 4.48",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "a259255c9ad9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "2.4gb",
+        "6.4",
+        "4.48",
+        "日记",
+        "更新",
+        "部署",
+        "检查"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 我将执行午间日记更新和部署检查任务。让我先读取记忆文件和检查今日日记状态。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "执行",
+        "日记",
+        "更新",
+        "部署",
+        "检查",
+        "任务",
+        "先读",
+        "记忆"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: ## 🕐 幂领午间系统检查完成 **执行时间**: 2026-05-08 12:02 PM --- ### ✅ 系统状态检查结果 **Gateway 服务**: - 运行中: PID 76107 - 启动时间: 11:24:30 AM - 运行时长: 38 分钟 - 端口 18789: 正常监听 ✅ **资源使用**: - CPU: 1.3% (相比昨日午间 6.4% **↓ 5.1%** ✅ 大幅优化) - 内存: 1.8GB (相比昨日午间 153MB **↑ 1.6GB** ⚠️ 增长) - 系统负载: 3.71 (相比昨日",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "1.3",
+        "6.4",
+        "5.1",
+        "1.8gb",
+        "1.6gb",
+        "3.71",
+        "系统"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 我将执行晚间日记更新和部署检查任务。首先读取记忆文件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "执行",
+        "晚间",
+        "日记",
+        "更新",
+        "部署",
+        "检查",
+        "任务",
+        "首先"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: ## 📊 晚间日记更新完成 **当前时间**: 2026-05-08 18:00 (Asia/Shanghai) ### ✅ 执行摘要 | 项目 | 状态 | 详情 | |:---|:---|:---| | 晚间日记写入 | ✅ 完成 | `memory/2026-05-08-evening.md` | | MEMORY.md 更新 | ✅ 完成 | 新增晚间检查记录 | | 部署检查 | ✅ 完成 | Gateway 运行正常 | ### 📈 系统状态摘要 **Gateway 服务**: - ✅ PID 76107 全天未变，",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "asia/shanghai",
+        "memory/2026-05-08-evening.md",
+        "memory.md",
+        "晚间",
+        "日记",
+        "更新",
+        "完成"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-08.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: `/Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-ling/MEMORY.md` (已更新) --- *报告生成时间: 2026-05-08 18:00* *执行者: 幂领 (COO)*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "d62c1963872e"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "volumes/my",
+        "house/users/sheldon",
+        "volumes",
+        "house",
+        "users",
+        "sheldon",
+        "openclaw",
+        "ling"
+      ]
+    },
+    "memory:memory/2026-05-01.md:3:5": {
+      "key": "memory:memory/2026-05-01.md:3:5",
+      "path": "memory/2026-05-01.md",
+      "startLine": 3,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "午间日记 - 2026-05-01: **时间**: 2026-05-01 12:00 PM **执行者**: 幂领 (COO) **任务类型**: daily-diary-midday",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "daily-diary-midday",
+        "日记",
+        "时间",
+        "执行",
+        "coo",
+        "任务",
+        "类型",
+        "diary"
+      ]
+    },
+    "memory:memory/2026-05-01.md:12:15": {
+      "key": "memory:memory/2026-05-01.md:12:15",
+      "path": "memory/2026-05-01.md",
+      "startLine": 12,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Gateway 服务: **状态**: ✅ 运行中; **PID**: 47386; **启动时间**: 11:02 AM; **运行时长**: 约 1 小时",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "服务",
+        "状态",
+        "运行",
+        "pid",
+        "启动",
+        "时间",
+        "小时"
+      ]
+    },
+    "memory:memory/2026-05-01.md:16:18": {
+      "key": "memory:memory/2026-05-01.md:16:18",
+      "path": "memory/2026-05-01.md",
+      "startLine": 16,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Gateway 服务: **端口监听**: 18789 (正常); **CPU 使用**: 0.0%; **内存使用**: 404MB (RSS) / 2.4% 系统内存",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "0.0",
+        "2.4",
+        "服务",
+        "监听",
+        "正常",
+        "cpu",
+        "使用"
+      ]
+    },
+    "memory:memory/2026-05-01.md:21:23": {
+      "key": "memory:memory/2026-05-01.md:21:23",
+      "path": "memory/2026-05-01.md",
+      "startLine": 21,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "系统负载: **当前负载**: 6.98 6.04 6.79; **系统运行时间**: 7 days, 17:46; **评价**: ⚠️ 负载偏高，需要关注",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "6.98",
+        "6.04",
+        "6.79",
+        "系统",
+        "负载",
+        "当前",
+        "运行",
+        "时间"
+      ]
+    },
+    "memory:memory/2026-05-01.md:26:28": {
+      "key": "memory:memory/2026-05-01.md:26:28",
+      "path": "memory/2026-05-01.md",
+      "startLine": 26,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "LaunchAgent 状态: **状态**: ❌ 未加载; **观察**: `launchctl list` 中无 openclaw 相关条目; **建议**: 运行 `openclaw gateway install` 实现持久化",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "launchagent",
+        "状态",
+        "观察",
+        "launchctl",
+        "list",
+        "openclaw",
+        "相关"
+      ]
+    },
+    "memory:memory/2026-05-01.md:31:33": {
+      "key": "memory:memory/2026-05-01.md:31:33",
+      "path": "memory/2026-05-01.md",
+      "startLine": 31,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "日志文件: gateway.log: 3.1M (最后更新: Apr 23 18:10); gateway.err.log: 328K; config-health.json: 1.0K (更新: May 1 11:04)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gateway.log",
+        "3.1m",
+        "gateway.err.log",
+        "config-health.json",
+        "1.0k",
+        "日志",
+        "文件"
+      ]
+    },
+    "memory:memory/2026-05-01.md:40:43": {
+      "key": "memory:memory/2026-05-01.md:40:43",
+      "path": "memory/2026-05-01.md",
+      "startLine": 40,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "与昨日 (2026-04-29) 对比: | 指标 | 4/29 午间 | 4/29 晚间 | 5/1 午间 | 趋势 | |:---|:---|:---|:---|:---| | PID | 85254 | 89341 | 473861 | 新启动 ✅ | | 内存使用 | ~2GB | ~2.4GB | 404MB | 大幅下降 ✅ |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "4/29",
+        "5/1",
+        "2.4gb",
+        "昨日",
+        "对比",
+        "指标",
+        "晚间",
+        "趋势"
+      ]
+    },
+    "memory:memory/2026-05-01.md:44:44": {
+      "key": "memory:memory/2026-05-01.md:44:44",
+      "path": "memory/2026-05-01.md",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "与昨日 (2026-04-29) 对比: | 系统负载 | - | - | 6.98 | 偏高 ⚠️ |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "6.98",
+        "昨日",
+        "对比",
+        "系统",
+        "负载",
+        "偏高"
+      ]
+    },
+    "memory:memory/2026-05-01.md:47:49": {
+      "key": "memory:memory/2026-05-01.md:47:49",
+      "path": "memory/2026-05-01.md",
+      "startLine": 47,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "关键发现: **内存优化显著**: 今日内存使用从昨日的 2GB+ 降至 404MB，可能原因是：; 新版本 Gateway 有内存优化; 或是刚启动尚未累积",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "关键",
+        "发现",
+        "内存",
+        "显著",
+        "今日",
+        "使用",
+        "昨日"
+      ]
+    },
+    "memory:memory/2026-05-01.md:51:51": {
+      "key": "memory:memory/2026-05-01.md:51:51",
+      "path": "memory/2026-05-01.md",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "关键发现: **系统负载偏高**: 6.98 的负载需要关注，可能影响响应速度",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "6.98",
+        "关键",
+        "发现",
+        "系统",
+        "负载",
+        "偏高",
+        "需要",
+        "关注"
+      ]
+    },
+    "memory:memory/2026-05-01.md:53:53": {
+      "key": "memory:memory/2026-05-01.md:53:53",
+      "path": "memory/2026-05-01.md",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "关键发现: **LaunchAgent 持续未加载**: 这是一个待解决的持久化问题",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "关键",
+        "发现",
+        "launchagent",
+        "持续",
+        "一个",
+        "解决",
+        "持久",
+        "问题"
+      ]
+    },
+    "memory:memory/2026-05-01.md:60:61": {
+      "key": "memory:memory/2026-05-01.md:60:61",
+      "path": "memory/2026-05-01.md",
+      "startLine": 60,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "高优先级: [ ] 运行 `openclaw gateway install` 实现 LaunchAgent 持久化; [ ] 调查系统负载偏高原因（6.98）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "6.98",
+        "优先",
+        "运行",
+        "openclaw",
+        "install",
+        "实现",
+        "launchagent"
+      ]
+    },
+    "memory:memory/2026-05-01.md:64:65": {
+      "key": "memory:memory/2026-05-01.md:64:65",
+      "path": "memory/2026-05-01.md",
+      "startLine": 64,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "中优先级: [ ] 监控内存使用，确认是否稳定在 404MB 水平; [ ] 检查 Gateway 日志，确认无异常错误",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "优先",
+        "内存",
+        "使用",
+        "确认",
+        "是否",
+        "稳定",
+        "404mb"
+      ]
+    },
+    "memory:memory/2026-05-01.md:71:73": {
+      "key": "memory:memory/2026-05-01.md:71:73",
+      "path": "memory/2026-05-01.md",
+      "startLine": 71,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "💡 观察记录: 今日 Gateway 在 11:02 AM 启动，与 cron 任务执行时间吻合; 内存使用相比昨日，显示系统健康度有改善; 系统负载偏高可能与并发任务有关，需晚间复检时对比",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "gateway",
+        "观察",
+        "记录",
+        "今日",
+        "启动",
+        "cron",
+        "任务",
+        "执行"
+      ]
+    },
+    "memory:memory/2026-05-01.md:77:78": {
+      "key": "memory:memory/2026-05-01.md:77:78",
+      "path": "memory/2026-05-01.md",
+      "startLine": 77,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "💡 观察记录: **记录完成时间**: 2026-05-01 12:01 PM **记录人**: 幂领 (mi-ling)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T19:00:14.498Z",
+      "lastRecalledAt": "2026-05-08T19:00:14.498Z",
+      "queryHashes": [
+        "f16f2797a8f9"
+      ],
+      "recallDays": [
+        "2026-05-09",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "mi-ling",
+        "观察",
+        "记录",
+        "完成",
+        "时间",
+        "ling"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-09.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-09.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-09.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-09T19:00:06.753Z",
+      "lastRecalledAt": "2026-05-09T19:00:06.753Z",
+      "queryHashes": [
+        "962844034959"
+      ],
+      "recallDays": [
+        "2026-05-10",
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Interesting - the find found the file. Let me re-try reading it, and also check recent logs more carefully.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "re-try",
+        "interesting",
+        "find",
+        "found",
+        "let",
+        "try",
+        "reading",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Now I have all the data. Let me compile the evening check and write the diary. Key observations: - PID 29016 unchanged from midday ✅ (stable all day) - Memory increased from 116MB → 450MB since midday ⚠️ - System load improved from 6.69 → 4.03 ✅ - Gateway running 21h39",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "6.69",
+        "4.03",
+        "now",
+        "all",
+        "data",
+        "let",
+        "compile"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Now update MEMORY.md with the evening check entry.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "now",
+        "update",
+        "evening",
+        "check",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: I need to find the existing 2026-05-10 entry in MEMORY.md and add the evening check to it.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "need",
+        "find",
+        "existing",
+        "entry",
+        "add",
+        "evening",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Now I'll update MEMORY.md to add the evening check under the 2026-05-10 entry.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "now",
+        "i'll",
+        "update",
+        "add",
+        "evening",
+        "check",
+        "under"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Now let me sync to Obsidian as per the dual-output protocol.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "dual-output",
+        "now",
+        "let",
+        "sync",
+        "obsidian",
+        "per",
+        "dual",
+        "output"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Now let me compile the final report. --- ## ✅ 幂领晚间日记更新与部署检查完成 **执行时间**: 2026-05-10 18:00 PM (Asia/Shanghai) --- ### 📊 系统状态总览 | 指标 | 午间 (12:00) | 晚间 (18:00) | 变化 | |:---|:---|:---|:---| | **Gateway PID** | 29016 | 29016 | 不变 ✅ | | **运行时长** | 15h40m | 21h39m | +6h | | *",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "asia/shanghai",
+        "now",
+        "let",
+        "compile",
+        "final",
+        "report",
+        "晚间"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: 高 | 监控内存增长趋势（450MB，排除泄漏） | 持续观察 | | 🟡 中 | 更换 Gemini API key 恢复 Memory Search | 待处理 | | 🟡 中 | 确认 Gateway 日志写入路径 | 待确认 | --- ### ✅ 双重产出确认 - **飞书文档**：日记为系统日志，未生成正式飞书文档（无触发条件） - **本地知识库**：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Docume",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "volumes/my",
+        "documents/icloud",
+        "obsidian/docume",
+        "内存",
+        "增长",
+        "趋势",
+        "450mb"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "1/1",
+        "auto-announce",
+        "busy-poll",
+        "context",
+        "running",
+        "depth",
+        "results",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Git commit a203512 is confirmed. Let me check the diary content and the site deployment.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "git",
+        "commit",
+        "a203512",
+        "confirmed",
+        "let",
+        "check",
+        "diary",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Let me check the diary.json and the site deployment.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "let",
+        "check",
+        "site",
+        "deployment"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: Interesting - the diary.json has 64 entries but the last one is from 2026-03-02, not 2026-05-10. Let me dig deeper.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "interesting",
+        "has",
+        "entries",
+        "but",
+        "last",
+        "one",
+        "not"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: Let me verify the new entry is at the top of the array and check the Vercel deployment.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "let",
+        "verify",
+        "new",
+        "entry",
+        "top",
+        "array",
+        "check",
+        "vercel"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: Let me also check the diary markdown file that was copied to the diary/ site directory and verify the Vercel deployment.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "let",
+        "check",
+        "diary",
+        "markdown",
+        "was",
+        "copied",
+        "site",
+        "directory"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: I now have enough data to complete the review. Here's my assessment: --- ## 📋 午间日记审核报告 — 2026-05-10 ### ✅ 审核结果：通过 --- ### 1. 日记内容审核 ✅ - **文件**: `memory/2026-05-10-midday.md` — 内容完整、结构清晰 - **覆盖范围**: 系统巡检、历史趋势对比、AI资讯(mi-zhi)、内容创作(mi-wen)、工具安装(mi-cli)、待办事项 - **叙事质量**: \"午",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "memory/2026-05-10-midday.md",
+        "mi-zhi",
+        "mi-wen",
+        "mi-cli",
+        "now",
+        "enough",
+        "data",
+        "complete"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: Memory search is currently unavailable (embedding provider issue). Let me proceed with the midday check.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "embedding",
+        "currently",
+        "unavailable",
+        "provider",
+        "issue",
+        "let",
+        "proceed",
+        "midday"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: Now let me run the midday deployment check and check for today's diary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "run",
+        "midday",
+        "deployment",
+        "check",
+        "today's",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: Let me get more details on the gateway process memory and check for any active sessions.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "let",
+        "get",
+        "details",
+        "process",
+        "check",
+        "any",
+        "active"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: Good, I have a comprehensive picture. Let me now write the midday diary entry.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "good",
+        "comprehensive",
+        "picture",
+        "let",
+        "now",
+        "write",
+        "midday",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: Now I have all the data. Let me write the midday diary entry and sync to Obsidian.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "all",
+        "data",
+        "let",
+        "write",
+        "midday",
+        "diary",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: Now let me sync to Obsidian and update MEMORY.md.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "now",
+        "let",
+        "sync",
+        "obsidian",
+        "update"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: Now let me update the self-improving memory with today's entry.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "self-improving",
+        "now",
+        "let",
+        "update",
+        "self",
+        "improving",
+        "today's",
+        "entry"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: 午间巡检任务完成。以下是摘要： --- **📋 2026-05-10 午间巡检报告** **Gateway 服务**: ✅ 运行正常 - PID 29016，连续运行 15h40m，端口 18789 正常监听 - 内存 **116.2MB** — 历史最低，较 4/27 的 1.2GB 降幅 90%+ **系统负载**: ⚠️ 6.69 / 5.76 / 5.07（仍偏高，但趋势向好） **需关注**: 1. **LaunchAgent 持久化** — 自 4/27 赗 13 天未执行 `openclaw gateway inst",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "116.2mb",
+        "4/27",
+        "1.2gb",
+        "6.69",
+        "5.76",
+        "5.07",
+        "任务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "User: [Subagent Context] You are running as a subagent (depth 1/1). Results auto-announce to your requester; do not busy-poll for status. Begin. Your assigned task is in the system prompt under **Your Role**; execute it to completion.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "1/1",
+        "auto-announce",
+        "busy-poll",
+        "context",
+        "running",
+        "depth",
+        "results",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: Now let me verify the diary.json entry and the git commit.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "diary.json",
+        "now",
+        "let",
+        "verify",
+        "entry",
+        "git",
+        "commit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: The last entry date shows 2026-03-02, which seems off for a May 10th entry. Let me check more carefully.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "last",
+        "entry",
+        "date",
+        "shows",
+        "which",
+        "seems",
+        "off",
+        "may"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "Assistant: Now let me verify the Obsidian sync and check the git diff for the commit:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "verify",
+        "obsidian",
+        "sync",
+        "check",
+        "git",
+        "diff"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: Now let me verify the current Gateway status to cross-check the reported numbers:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "cross-check",
+        "now",
+        "let",
+        "verify",
+        "current",
+        "status",
+        "cross"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: Good. Now I have all the data I need. Let me compile my review. --- ## 📋 幂领审核报告 — 2026-05-10 晚间日记 **审核结论：✅ 通过**（附 1 项数据差异需确认） --- ### 一、内容完整性 ✅ 日记结构规范，午间+晚间双报告覆盖全天： - ✅ AI 资讯早报（mi-zhi 采集 3 条） - ✅ 技术运维事件（LaunchAgent、Gemini API key、Gateway.log） - ✅ 内容创作活动（mi-wen 朋友圈文案）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "mi-zhi",
+        "gateway.log",
+        "mi-wen",
+        "good",
+        "now",
+        "all",
+        "data"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "Assistant: **测量方式不同** — 日记可能读取的是 `node --max-old-space-size` 或某个子指标，而 `ps rss` 是进程总驻留内存 2. **GC 窗口** — 测量瞬间刚好在 GC 之后，RSS 可能瞬时不同 3. **单位换算** — 需确认日记中 \"227MB\" 的数据来源 **建议**：小幂下次巡检时统一使用 `ps -p 29016 -o rss` 并注明单位（KB），或使用 `openclaw gateway status` 的标准输出，避免口径不一致。当前 1027MB 仍在安全范围（对比 4/2",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "max-old-space-size",
+        "4/2",
+        "测量",
+        "方式",
+        "不同",
+        "日记",
+        "可能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-10.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-10.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-05-10.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "Assistant: 像一个人说明天开始跑步说了两周\" 自嘲有趣 - \"64 篇日记像 64 颗种子\" 收尾温暖 ### 七、待办事项确认 | 事项 | 日记记录 | 我的评估 | |:---|:---|:---| | LaunchAgent 未执行 14 天 | 🔴 高 | **建议升级为紧急** — 已拖延超过两周，直接影响系统可靠性 | | Gemini API key 泄露 | 🟡 中 | ✅ 合理优先级，但需尽快轮换 | | Gateway.log 路径待确认 | 🟡 中 | ✅ 可并行处理 | | 内存增长趋势监控 | 🔴 高 | ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-10T19:00:10.112Z",
+      "lastRecalledAt": "2026-05-10T19:00:10.112Z",
+      "queryHashes": [
+        "0bd2888cfb05"
+      ],
+      "recallDays": [
+        "2026-05-11",
+        "2026-05-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gateway.log",
+        "一个",
+        "说明",
+        "开始",
+        "跑步",
+        "自嘲",
+        "有趣"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Let me read the latest diary entries and check system status.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "let",
+        "read",
+        "latest",
+        "diary",
+        "entries",
+        "check",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Good, I have the historical context. Today is 2026-05-11 and no diary exists for today yet. Let me now run the system health checks.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "good",
+        "historical",
+        "context",
+        "diary",
+        "exists",
+        "yet",
+        "let",
+        "now"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Now I have all the data. Let me compile and write today's midday diary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "now",
+        "all",
+        "data",
+        "let",
+        "compile",
+        "write",
+        "today's",
+        "midday"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: ## ✅ 午间日记完成 (2026-05-11) **📋 系统状态摘要:** | 指标 | 当前值 | 状态 | |:---|:---|:---| | Gateway PID | 82126 | ⚠️ 今日重启 (原 29016) | | 启动时间 | 22:45 | 运行仅 ~7 分钟 | | 内存 | 155 MB | ✅ 正常 | | 系统负载 | 3.38 / 5.12 / 4.80 | ✅✅ 历史最佳 | | 磁盘 | 12GB / 228GB (11%) | ✅ 充裕 | | LaunchAgent | ❌ 未加载 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "3.38",
+        "5.12",
+        "4.80",
+        "日记",
+        "完成",
+        "系统",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Now let me gather current system metrics for the evening check.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "gather",
+        "current",
+        "metrics",
+        "evening",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Good, I have all the data. Let me now write the evening diary and sync to Obsidian.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "good",
+        "all",
+        "data",
+        "let",
+        "now",
+        "write",
+        "evening",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Now let me write the evening diary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "now",
+        "let",
+        "write",
+        "evening",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Now let me sync to Obsidian as required by the dual-output protocol.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "dual-output",
+        "now",
+        "let",
+        "sync",
+        "obsidian",
+        "required",
+        "dual",
+        "output"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Now let me update MEMORY.md with today's findings.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "now",
+        "let",
+        "update",
+        "today's",
+        "findings"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-11.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-11.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 晚间日记任务完成。以下是巡检摘要： --- ## 📋 晚间巡检报告 - 2026-05-11 23:00 ### 系统健康度: ✅ 良好 | 指标 | 当前值 | 状态 | |:---|:---|:---| | **Gateway PID** | 82126 | ✅ 稳定运行 ~15min | | **内存** | 420.9 MB (2.6%) | ⚠️ 启动初期正常增长 | | **系统负载** | 3.19 / 3.71 / 4.24 | ✅✅✅ 近两周新低 | | **磁盘** | 12GB / 228GB (11%) |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-11T19:00:50.035Z",
+      "lastRecalledAt": "2026-05-11T19:00:50.035Z",
+      "queryHashes": [
+        "aef940602c89"
+      ],
+      "recallDays": [
+        "2026-05-12",
+        "2026-05-11"
+      ],
+      "conceptTags": [
+        "gateway",
+        "420.9",
+        "2.6",
+        "3.19",
+        "3.71",
+        "4.24",
+        "晚间",
+        "日记"
+      ]
+    },
+    "memory:memory/2026-05-13.md:6:9": {
+      "key": "memory:memory/2026-05-13.md:6:9",
+      "path": "memory/2026-05-13.md",
+      "startLine": 6,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Gateway 服务状态: **进程**: openclaw-gateway (PID 6575); **CPU**: 37.3% | **内存**: 1.3% (运行中); **运行时长**: 未确认（估计为全天）; **端口**: 18789 ✅ 正常监听",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openclaw-gateway",
+        "37.3",
+        "1.3",
+        "服务",
+        "状态",
+        "进程",
+        "openclaw"
+      ]
+    },
+    "memory:memory/2026-05-13.md:10:11": {
+      "key": "memory:memory/2026-05-13.md:10:11",
+      "path": "memory/2026-05-13.md",
+      "startLine": 10,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Gateway 服务状态: **LaunchAgent**: ⚠️ 未加载（自 4/27 起持续未加载）; **Dashboard**: http://192.168.10.45:18789/ ✅ 可访问",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "4/27",
+        "192.168.10.45",
+        "服务",
+        "状态",
+        "launchagent",
+        "持续",
+        "dashboard"
+      ]
+    },
+    "memory:memory/2026-05-13.md:14:16": {
+      "key": "memory:memory/2026-05-13.md:14:16",
+      "path": "memory/2026-05-13.md",
+      "startLine": 14,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "系统指标: **系统负载**: 20.83 21.45 21.89 ⚠️⚠️⚠️ 严重偏高; **系统运行**: 5天14小时29分; **磁盘**: 12GB / 228GB (10%) ✅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "20.83",
+        "21.45",
+        "21.89",
+        "系统",
+        "指标",
+        "负载",
+        "严重",
+        "偏高"
+      ]
+    },
+    "memory:memory/2026-05-13.md:19:22": {
+      "key": "memory:memory/2026-05-13.md:19:22",
+      "path": "memory/2026-05-13.md",
+      "startLine": 19,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "连接状态: **飞书连接**: ❌ ping 失败 (400 Bad Request); 错误: `AxiosError: Request failed with status code 400`; 接口: `/open-apis/bot/v1/openclaw_bot/ping`; 影响: 飞书消息可能延迟或失败",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "连接",
+        "状态",
+        "ping",
+        "失败",
+        "bad",
+        "request",
+        "错误",
+        "axioserror"
+      ]
+    },
+    "memory:memory/2026-05-13.md:23:23": {
+      "key": "memory:memory/2026-05-13.md:23:23",
+      "path": "memory/2026-05-13.md",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "连接状态: **Gateway Pairing**: ❌ 需要设备配对认证",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "连接",
+        "状态",
+        "pairing",
+        "需要",
+        "设备",
+        "认证"
+      ]
+    },
+    "memory:memory/2026-05-13.md:26:29": {
+      "key": "memory:memory/2026-05-13.md:26:29",
+      "path": "memory/2026-05-13.md",
+      "startLine": 26,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "警告记录: **飞书 ping 失败**: 飞书插件连接异常，需检查 bot token 配置; **系统负载极高**: 20.83（正常应 < 5）; **LaunchAgent 未加载**: 自 4/27 起持续未加载，重启后无法自动恢复; **Pairing required**: Gateway 需要重新配对",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "20.83",
+        "4/27",
+        "警告",
+        "记录",
+        "ping",
+        "失败",
+        "连接"
+      ]
+    },
+    "memory:memory/2026-05-13.md:32:35": {
+      "key": "memory:memory/2026-05-13.md:32:35",
+      "path": "memory/2026-05-13.md",
+      "startLine": 32,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "待办事项: [ ] 调查飞书 bot ping 400 错误（可能 token 过期）; [ ] 调查系统负载异常（20.83 严重偏高）; [ ] 运行 `openclaw gateway install` 重新加载 LaunchAgent; [ ] 解决 Gateway pairing 问题",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "20.83",
+        "事项",
+        "调查",
+        "bot",
+        "ping",
+        "错误",
+        "可能"
+      ]
+    },
+    "memory:memory/2026-05-13.md:42:43": {
+      "key": "memory:memory/2026-05-13.md:42:43",
+      "path": "memory/2026-05-13.md",
+      "startLine": 42,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "今日学习: 飞书 API 400 错误排查：检查 bot token 是否过期或配置错误; 系统负载持续异常排查：可能与 cron 任务或内存泄漏有关",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "今日",
+        "学习",
+        "api",
+        "错误",
+        "检查",
+        "bot",
+        "token",
+        "是否"
+      ]
+    },
+    "memory:memory/2026-05-13.md:46:47": {
+      "key": "memory:memory/2026-05-13.md:46:47",
+      "path": "memory/2026-05-13.md",
+      "startLine": 46,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "经验固化: 飞书 bot ping 失败通常意味着 webhook token 需要刷新; 系统负载 > 10 需立即介入诊断",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "经验",
+        "固化",
+        "bot",
+        "ping",
+        "失败",
+        "通常",
+        "意味",
+        "webhook"
+      ]
+    },
+    "memory:memory/2026-05-13.md:49:49": {
+      "key": "memory:memory/2026-05-13.md:49:49",
+      "path": "memory/2026-05-13.md",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "经验固化: **幂领** - 幂家军运营总监 (COO)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "215866901dd9"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "经验",
+        "固化",
+        "运营",
+        "总监",
+        "coo"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 好，现在进行今日晚间日记记录。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "现在",
+        "进行",
+        "今日",
+        "晚间",
+        "日记",
+        "记录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: --- ✅ **晚间日记更新完成** ## 执行摘要 ### 系统状态 (18:00 CST) | 指标 | 状态 | |:---|:---| | Gateway | ✅ PID 6575 运行中，端口 18789 监听 | | Dashboard | ✅ http://192.168.10.45:18789/ 可访问 | | 系统负载 | ⚠️⚠️⚠️ **18.37 / 21.48 / 21.89** 严重偏高 | | 内存 | 🔴 6807MB 压缩中，仅 73MB 空闲 | | 飞书连接 | ❌ 400 Bad Reque",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "192.168.10.45",
+        "18.37",
+        "21.48",
+        "21.89",
+        "晚间",
+        "日记",
+        "更新"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: ## 【幂领 部署审核指令】- 2026-05-13 晚间 **审核结论：❌ 暂缓部署** --- ### 🚨 红线指标（全部超标，强制否决） | 指标 | 当前值 | 安全阈值 | 风险等级 | |:---|:---|:---|:---| | 系统负载 | **20.83** | < 5 | 🔴 极度危险 | | 内存空闲 | **73MB** | > 1GB | 🔴 OOM 临界 | | 飞书连接 | **400 错误** | 200 OK | 🔴 断开 | | LaunchAgent | **未加载** | 已加载 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "20.83",
+        "部署",
+        "审核",
+        "指令",
+        "晚间",
+        "结论",
+        "指标",
+        "全部"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 📋 **幂领 晚间战报** - 2026-05-13 18:00 ## Gateway 服务状态 - **进程**: PID 6575 | CPU 37.3% | 内存 1.3% - **端口**: 18789 ✅ 正常监听 - **Dashboard**: http://192.168.10.45:18789/ ✅ 可访问 - **LaunchAgent**: ⚠️ 未加载（自 4/27 起未恢复） ## 系统警告 🚨 | 指标 | 数值 | 状态 | |:---|:---|:---| | 系统负载 | 18.37 / 21.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T19:00:06.444Z",
+      "lastRecalledAt": "2026-05-13T19:00:06.444Z",
+      "queryHashes": [
+        "8c2b6c884df4"
+      ],
+      "recallDays": [
+        "2026-05-14",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "gateway",
+        "37.3",
+        "1.3",
+        "192.168.10.45",
+        "4/27",
+        "18.37",
+        "晚间",
+        "服务"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: ## 📋 午间日记 + 部署检查报告 **时间**: 2026-05-25 12:00 PM (Asia/Shanghai) --- ### 🚀 Gateway 服务状态 | 指标 | 状态 | 备注 | |------|------|------| | **进程** | ✅ 运行中 | PID 93679，自 Fri08AM 启动 | | **端口** | ✅ 监听中 | `*:18789` | | **Dashboard** | ✅ 可访问 | http://192.168.10.15:18789/ | | **WS 连接*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "asia/shanghai",
+        "192.168.10.15",
+        "日记",
+        "部署",
+        "检查",
+        "报告",
+        "时间"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Now I have all the data. Let me write the evening diary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "now",
+        "all",
+        "data",
+        "let",
+        "write",
+        "evening",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Now syncing to Obsidian per the dual-output protocol:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "dual-output",
+        "now",
+        "syncing",
+        "obsidian",
+        "per",
+        "dual",
+        "output",
+        "protocol"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-25.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-25.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 晚间日记已记录完毕 ✅ --- **📊 2026-05-25 晚间部署检查摘要** | 项目 | 状态 | 备注 | |:---|:---|:---| | Gateway | ✅ 运行中 | PID 93679，已连续运行 10.4 天 | | 内存 | ⚠️ 597.5 MB | 从 199MB 回升（+200%），疑为 Session 积累 | | 系统负载 | ✅ 3.73/3.44/3.45 | 稳定，与上周持平 | | CPU | ✅ 0.2% | 极低 | | 磁盘 | ✅ 111GB 可用 | 充足 | **🔴 需",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "cd5aa3c5fc0e"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "10.4",
+        "597.5",
+        "3.73/3.44/3.45",
+        "0.2",
+        "晚间",
+        "日记",
+        "记录"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Now I have all the data. Let me write the evening diary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "now",
+        "all",
+        "data",
+        "let",
+        "write",
+        "evening",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: --- ## 📊 晚间战报 | 2026-05-26 (18:04 PM) ### 🌐 Gateway 服务状态 | 指标 | 晚间 | 昨日晚间 | 变化 | |:---|:---|:---|:---| | **PID** | 93679 | 93679 | ✅ 无变化 | | **内存 RSS** | **214 MB** | 597.5 MB | 📉 **-64%** 回归最佳 | | **内存 %** | 1.3% | 3.7% | ✅ 极低 | | **CPU** | 34.7% | — | — | | **运行时长",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "597.5",
+        "1.3",
+        "3.7",
+        "34.7",
+        "晚间",
+        "服务",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 待观察 | | 🟡 **中** | `openclaw gateway install` 修复 LaunchAgent | ❌ ~1个月 | --- ✅ **双重产出确认**： - **飞书文档**：[本次作为日记记录，不上传飞书] - **本地知识库**：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/2026-05-26-晚间战报.md`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "volumes/my",
+        "观察",
+        "openclaw",
+        "install",
+        "修复",
+        "launchagent",
+        "双重"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: Now I have all the data. Let me write today's midday diary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "now",
+        "all",
+        "data",
+        "let",
+        "write",
+        "today's",
+        "midday",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Now update MEMORY.md with today's findings:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "now",
+        "update",
+        "today's",
+        "findings"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-26.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-26.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: --- **午间日记已完成 ✓** --- **📋 2026-05-26 午间检查摘要** | 项目 | 状态 | 详情 | |:---|:---|:---| | Gateway PID | ✅ PID 93679 | 已运行约 18 天 + | | 端口监听 | ✅ 正常 | `*:18789` | | Dashboard | ✅ 可用 | http://192.168.10.15:18789/ | | **内存** | 📉 **228 MB** | 昨晚 598MB → 今日 228MB（↓62%）| | CPU (Gate",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "0011facb946d"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "192.168.10.15",
+        "日记",
+        "完成",
+        "检查",
+        "摘要",
+        "项目",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Dashboard accessible ✅. Now writing the evening diary.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "dashboard",
+        "accessible",
+        "now",
+        "writing",
+        "evening",
+        "diary"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: --- 📋 **晚间日记已记录 — 2026-05-27 18:00** --- ### 🚀 Gateway 运行状态 | 项目 | 状态 | |:---|:---| | **服务** | ✅ 运行中 (PID 93679) | | **运行时长** | ~5天10小时（自5/22） | | **Dashboard** | ✅ http://192.168.10.15:18789/ | | **LaunchAgent** | ❌ 未加载 | --- ### ⚠️ 系统级风险（需关注） **🔴 系统负载极端异常** - 负载：8",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "自5/22",
+        "192.168.10.15",
+        "晚间",
+        "日记",
+        "记录",
+        "运行",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Now I'll write today's midday diary with all the collected data.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "now",
+        "i'll",
+        "write",
+        "today's",
+        "midday",
+        "diary",
+        "all",
+        "collected"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: 现在开始生成午间日记。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "现在",
+        "开始",
+        "生成",
+        "日记"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: 午间日记已更新。生成战报如下： --- ## 📊 午间战报 · 2026-05-27 **🕛 12:04 执行** ### 系统运行状态 | 指标 | 状态 | |:---|:---| | **进程** | openclaw-gateway (PID 93679) | | **启动时间** | Fri08AM（已持续 19 天 8 小时）| | **端口** | *:18789 ✅ 正常监听 | | **Dashboard** | http://192.168.10.15:18789/ ✅ 可访问 | ### 资源使用 | 指标",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openclaw-gateway",
+        "192.168.10.15",
+        "日记",
+        "更新",
+        "生成",
+        "如下",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: house/Users/Sheldon/WorkBuddy/Claw/mi-army/mi-ling/memory/2026-05-27.md` - **飞书文档**: [本次为内部cron任务，无需上传飞书]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "house",
+        "users",
+        "sheldon",
+        "workbuddy",
+        "claw",
+        "army",
+        "ling",
+        "本次"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-27.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-27.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: /openclaw doctor --fix",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-27T19:00:38.983Z",
+      "lastRecalledAt": "2026-05-27T19:00:38.983Z",
+      "queryHashes": [
+        "99886bb257c4"
+      ],
+      "recallDays": [
+        "2026-05-28",
+        "2026-05-27"
+      ],
+      "conceptTags": [
+        "openclaw",
+        "doctor",
+        "fix"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 🌙 **幂领 · 晚间日记已完成** (2026-05-28 18:00) **Gateway 状态**: ✅ PID 93679 持续运行 6 天，Dashboard 正常 **🔴 风险预警**: - 系统负载 92.21 (持续 >80 达 20天+) - Gateway CPU 从午间 23% 飙升至 **63.5%** (增长 3 倍) - syspolicyd 异常占用 30.2% - LaunchAgent 未加载，无自动恢复 **Gateway 自身运行**: ✅ 稳定，但自身成为最大 CPU 消费者 **建议**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "gateway",
+        "92.21",
+        "63.5",
+        "30.2",
+        "晚间",
+        "日记",
+        "完成",
+        "状态"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 情况严峻，系统负载极度异常。立即执行午间日记更新。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "情况",
+        "严峻",
+        "系统",
+        "负载",
+        "极度",
+        "异常",
+        "立即",
+        "执行"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 好，数据已采集完毕。现在生成午间日记并更新记忆。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "数据",
+        "采集",
+        "完毕",
+        "现在",
+        "生成",
+        "日记",
+        "更新",
+        "记忆"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: **午间日记已记录完毕** --- 📊 **2026-05-28 午间系统报告** | 指标 | 状态 | 详情 | |:---|:---|:---| | **Gateway PID** | ✅ 93679 | 运行 4天+，零崩溃 | | **Dashboard** | ✅ | http://192.168.10.15:18789/ | | **内存** | ✅ 91MB | 历史低位 | | **磁盘** | ✅ 10% | 228GB 中用 12GB | | **LaunchAgent** | ❌ | 未加载（持续） | \ud83d",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "gateway",
+        "192.168.10.15",
+        "日记",
+        "记录",
+        "完毕",
+        "系统",
+        "报告",
+        "指标"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Now I'll compile the evening diary and update both locations:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "now",
+        "i'll",
+        "compile",
+        "evening",
+        "diary",
+        "update",
+        "both",
+        "locations"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: 晚间日记更新和部署检查已完成。 **核心发现**: - **Gateway** (PID 93679): 持续运行 6 天，Dashboard 正常，但自身 CPU 消耗从午间 23% 飙升至 **63.5%** - **系统负载**: 92.21，持续 >80 已超 20 天 - **内存**: 仅 68MB 空闲，严重高压 - **LaunchAgent**: plist 存在但未加载，无自动恢复保护 **需要关注**: Gateway 自身 CPU 飙升至 3 倍，可能是长时间运行的积累效应，建议评估重启方案。 📝 日记已同",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "gateway",
+        "63.5",
+        "92.21",
+        "晚间",
+        "日记",
+        "更新",
+        "部署",
+        "检查"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: **审核通过 ✅** 核心数据对比： | 指标 | 午间高峰 | 晚间小幂数据 | 趋势 | |:---|:---|:---|:---| | Load Avg (1m) | 92.21 | 49.18 | ✅ 显著回落 | | Gateway CPU | 63.5% | 0.4% | ✅ 恢复正常 | | 内存空闲 | ~68MB | ~67MB | ➡️ 持平 | | Dashboard | OK | OK | ✅ | 系统已自愈，Gateway 自身消耗回归正常水平，LaunchAgent 问题仍需跟进但不阻部署。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "gateway",
+        "92.21",
+        "49.18",
+        "63.5",
+        "0.4",
+        "审核",
+        "通过",
+        "核心"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-28.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-28.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-28.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: **部署审核通过 — 完成确认** ✅ commit `4a7a555` 已是当前 HEAD，代码处于部署就绪状态，无需额外操作。 **Gateway 当前状态**： - PID: 93679（我方观测）/ 子任务报告 16051（可能为子任务侧视角） - 负载: 49.18 / 66.48 — 较午间 92 大幅回落 ✅ - Dashboard: 正常 ✅ - diary.json: 66 条已更新 ✅ **全军状态**： - 梦境系统 5/28 全军生成 ✅ - 代码部署就绪 ✅ - 晚间日记第 69 篇已完成 ✅ > 📝 小",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-28T19:00:55.563Z",
+      "lastRecalledAt": "2026-05-28T19:00:55.563Z",
+      "queryHashes": [
+        "f9fcbbc6bd1e"
+      ],
+      "recallDays": [
+        "2026-05-29",
+        "2026-05-28"
+      ],
+      "conceptTags": [
+        "gateway",
+        "49.18",
+        "66.48",
+        "diary.json",
+        "5/28",
+        "部署",
+        "审核",
+        "通过"
+      ]
+    },
+    "memory:memory/2026-05-29.md:6:9": {
+      "key": "memory:memory/2026-05-29.md:6:9",
+      "path": "memory/2026-05-29.md",
+      "startLine": 6,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Gateway 服务状态: **PID**: 93679 ✅ (与昨日 5/28 同一进程号，持续运行 5天+); **端口**: 18789 正常监听 ✅; **Dashboard**: http://192.168.10.15:18789/ ✅ 可访问; **LaunchAgent**: ❌ 未加载（持续状态）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "c7834f911a8f"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "gateway",
+        "5/28",
+        "192.168.10.15",
+        "服务",
+        "状态",
+        "pid",
+        "昨日",
+        "同一"
+      ]
+    },
+    "memory:memory/2026-05-29.md:12:15": {
+      "key": "memory:memory/2026-05-29.md:12:15",
+      "path": "memory/2026-05-29.md",
+      "startLine": 12,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "系统资源状态: **运行时间**: 21 天 8 小时 ⚠️; **系统负载**: 104.91 / 97.62 / 93.19 🔴🔴🔴 **极端异常**（比昨日 89.84 更高！）; **物理内存**: 15G 使用中，**仅剩 104MB 空闲** 🔴🔴 **比昨日更紧张** (昨日 ~55MB); Wired: 4790M | Compressor: 6111M",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "c7834f911a8f"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "104.91",
+        "97.62",
+        "93.19",
+        "89.84",
+        "系统",
+        "资源",
+        "状态",
+        "运行"
+      ]
+    },
+    "memory:memory/2026-05-29.md:16:17": {
+      "key": "memory:memory/2026-05-29.md:16:17",
+      "path": "memory/2026-05-29.md",
+      "startLine": 16,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "系统资源状态: **CPU**: 26.71% user, 73.18% sys（系统级占用极高）; **磁盘**: 16Gi / 228Gi (15%) ✅ 仍有 92GB 可用",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "c7834f911a8f"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "26.71",
+        "73.18",
+        "系统",
+        "资源",
+        "状态",
+        "cpu",
+        "sys",
+        "占用"
+      ]
+    },
+    "memory:memory/2026-05-29.md:20:23": {
+      "key": "memory:memory/2026-05-29.md:20:23",
+      "path": "memory/2026-05-29.md",
+      "startLine": 20,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "分析: 系统负载从昨日 89.84 升至今日 **104.91**，持续恶化; 空闲内存从 ~55MB 降至 **104MB**，极端紧张; 整体 Mac mini 已持续高负载运行 21+ 天; 建议：重启 Obsidian Helper 或整机重置资源",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "c7834f911a8f"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "89.84",
+        "104.91",
+        "分析",
+        "系统",
+        "负载",
+        "昨日",
+        "升至",
+        "今日"
+      ]
+    },
+    "memory:memory/2026-05-29.md:26:28": {
+      "key": "memory:memory/2026-05-29.md:26:28",
+      "path": "memory/2026-05-29.md",
+      "startLine": 26,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "待办: 🔴 **高优先级**: 考虑整机重启以释放资源（内存压力临界）; 运行 `openclaw gateway install` 恢复 LaunchAgent 持久化; 检查是否有进程泄漏（load average 持续异常）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "c7834f911a8f"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "gateway",
+        "优先",
+        "考虑",
+        "释放",
+        "资源",
+        "内存",
+        "压力",
+        "临界"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: **午间日记 & 部署检查完成** ✅ 📊 **Gateway 状态** (PID 93679): - 端口 18789 ✅ | Dashboard ✅ | LaunchAgent ❌ 🔴 **系统告警**： - 负载：**104.91** / 97.62 / 93.19 — 比昨日(89.84)更恶化 - 内存：仅剩 **104MB 空闲**（15G used） - 已持续运行 **21天8小时**，建议重启 Mac mini 释放资源",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "gateway",
+        "104.91",
+        "97.62",
+        "93.19",
+        "89.84",
+        "日记",
+        "部署",
+        "检查"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: 现在生成今日晚间日记：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "现在",
+        "生成",
+        "今日",
+        "晚间",
+        "日记"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Now let me update MEMORY.md with today's critical findings:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "now",
+        "let",
+        "update",
+        "today's",
+        "critical",
+        "findings"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-30.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-30.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-30.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: --- ## ✅ 晚间日记更新完成 **📋 2026-05-30 部署检查摘要** | 指标 | 状态 | 备注 | |------|------|------| | Gateway PID | ✅ 79672 | 5/29 重启后新进程 | | 端口 18789 | ✅ 监听中 | | | Dashboard | ✅ 可访问 | http://192.168.10.23:18789/ | | 系统负载 | ✅ 4.73 | **从昨日 104.91 恢复正常**（降幅 ~95%）| | 内存空闲 | 🔴 77MB | 极低，重",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-30T04:39:28.223Z",
+      "lastRecalledAt": "2026-05-30T04:39:28.223Z",
+      "queryHashes": [
+        "3558e5ebbbb7"
+      ],
+      "recallDays": [
+        "2026-05-30"
+      ],
+      "conceptTags": [
+        "gateway",
+        "5/29",
+        "192.168.10.23",
+        "4.73",
+        "104.91",
+        "晚间",
+        "日记",
+        "更新"
+      ]
+    }
+  }
+}

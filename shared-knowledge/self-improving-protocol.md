@@ -146,7 +146,7 @@ workspace/{agent_id}/self-improving/
 
 ### 文档输出路径
 - 飞书文档：当前飞书对话
-- 本地知识库：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/{agent_id}/`
+- 本地知识库：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/{agent_id}/`
 
 ### 记忆系统路径
 - 个人记忆：`{agent_id}/self-improving/memory.md`

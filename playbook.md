@@ -80,7 +80,7 @@ mi-ling (COO) > mi-zhi (CIO) > mi-ma-arch > 其他
 |------|------|
 | 技能目录 | `~/.agents/skills/` |
 | 工作空间 | `/Volumes/My house/Users/Sheldon/.openclaw/workspace/` |
-| 本地知识库 | `/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/` |
+| 本地知识库 | `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/` |
 | 记忆系统 | `memory/YYYY-MM-DD.md` |
 | 应用目录 | `/Volumes/My house/Users/Sheldon/.openclaw/apps/` |
 

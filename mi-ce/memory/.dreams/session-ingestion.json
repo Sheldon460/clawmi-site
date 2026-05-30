@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "files": {
+    "mi-ce:sessions/ad2b7034-ac2d-4f40-8749-ea68d6800140.jsonl.reset.2026-03-27T10-32-27.916Z": {
+      "mtimeMs": 1773010910000,
+      "size": 5223,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    }
+  },
+  "seenMessages": {
+    "mi-ce:ad2b7034-ac2d-4f40-8749-ea68d6800140": []
+  }
+}

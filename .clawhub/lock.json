@@ -4,6 +4,10 @@
     "self-improving": {
       "version": "1.2.10",
       "installedAt": 1773006901183
+    },
+    "html-ppt": {
+      "version": "1.0.0",
+      "installedAt": 1778687323367
     }
   }
 }

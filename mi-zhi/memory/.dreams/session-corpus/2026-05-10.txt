@@ -1,0 +1,13 @@
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L12] Assistant: 已加载最新实战策略。现在开始执行 2026-05-10 的 AI 资讯每日采集任务。
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L15] Assistant: Good, scripts exist. Let me check the collector script and run it.
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L19] Assistant: Now let me run the collection script:
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L23] Assistant: 采集成功！三个平台数据均已采集。现在读取内容进行分析。
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L27] Assistant: 数据采集完成，内容非常丰富。现在开始分析提取 TOP 10 AI 资讯并生成早报。
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L29] Assistant: Now let me try creating a Feishu doc:
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L31] Assistant: 飞书权限仍然缺失，降级为直接输出。现在写入今日日记。
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L33] Assistant: Now let me send the report via message to the Feishu chat. Let me check if there's a way to deliver this. Since this is a cron job, I should output the final reply which will be delivered automatically. --- # 🤖 AI 资讯早报 - 2026年5月10日（周日） > 📡 数据来源：TechCrunch AI / The V
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L33] Assistant: 裁员1100人，AI使用量增长600%。CEO称这是"定义Agent AI时代如何运营"。讽刺的是收入刚创历史新高。成为"AI替代人类工作"最直接案例。 ### 5. 💼 Meta员工因AI推进和裁员潮陷入痛苦 (9.3) Meta开始追踪员工电脑活动训练AI模型，计划裁减10%员工，推动员工创建大量AI Agent引发"愤怒和焦虑"。部分员工不再视Meta为长期职业选择。 ### 6. 🚀 OpenAI发布Codex Chrome扩展，AI可直接操控浏览器 (9.2) Codex Chrome扩展允许AI直接在用户已登录的网
+[mi-zhi/sessions/41125943-0288-4178-abf6-46ed8135aec1.jsonl#L33] Assistant: Sony和TSMC组建合资公司开发下一代图像传感器，Sony控股。将探索机器人和汽车领域的物理AI应用，半导体巨头为AI物理世界应用布局。 --- ## 💡 行业观察 1. 🔥 **AI芯片军备竞赛白热化**：SpaceX 550亿+Nvidia 400亿，硬件投资疯涨 2. ⚖️ **Musk vs OpenAI进入决战阶段**：Murati证词成为关键转折点 3. 👷 **"AI替代就业"变为现实**：Cloudflare+Meta裁员标志大规模转型 4. 🛡️ **AI安全审计里程碑**：Claude发现271个漏洞
+[mi-zhi/sessions/e8113cc7-2594-4b9a-b789-dc2cfbf861e8.jsonl#L5] User: 你有哪些搜索skill
+[mi-zhi/sessions/e8113cc7-2594-4b9a-b789-dc2cfbf861e8.jsonl#L7] Assistant: 根据我的技能库，以下是与**搜索**相关的技能： --- ### 🔍 信息/情报搜索类 | 技能名 | 说明 | |:---|:---| | **web_search** | 网页搜索（基于 Brave API），用于实时搜索互联网信息 | | **web_fetch** | 抓取网页内容并提取为 Markdown/文本 | | **aminer-data-search** | AMiner 学术搜索，检索论文、学者等学术数据 | | **exa-search-mcp** | Exa 搜索引擎（在工具库中，用于深度语义搜索） | 
+[mi-zhi/sessions/e8113cc7-2594-4b9a-b789-dc2cfbf861e8.jsonl#L7] Assistant: 订阅源监控 | ### 📊 市场/竞品调研类 | 技能名 | 说明 | |:---|:---| | **Market Research** | 市场调研（竞品分析、行业报告） | | **SEO** | SEO 审计 + 内容 + 竞品分析 | | **a-stock-analysis** | A股行情分析搜索 | --- **最常用组合**：`web_search` + `web_fetch` 做实时信息采集，`autoglm-deepresearch` 做深度调研，`feishu_search_doc_wiki` 搜飞书内部文

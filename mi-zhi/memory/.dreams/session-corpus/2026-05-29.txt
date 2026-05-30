@@ -1,0 +1,9 @@
+[mi-zhi/sessions/1ea44f3c-0bd3-4268-bdc1-aa2664961d30.jsonl#L144] Assistant: 🤖 AI资讯早报 | 2026年5月29日 📡 采集源：TechCrunch AI · The Verge AI · Hacker News · AIHOT 🕐 采集时间：07:30 · 采集耗时：~83秒 🔥 今日共筛选10条重要资讯 ━━━━━━━━━━━━━━━━━ 🔥【TOP 1】💰 Anthropic完成650亿美元H轮融资 估值达9650亿美元，距万亿美元仅一步之遥！年化收入已破470亿美元，Claude企业部署持续增长。 🔥【TOP 2】💰 Cognition完成超10亿美元融资 Devin母公司估
+[mi-zhi/sessions/1ea44f3c-0bd3-4268-bdc1-aa2664961d30.jsonl#L144] Assistant: OpenClaw Cron自动采集
+[mi-zhi/sessions/46726a05-f0be-427e-b5d0-91f778fc75e5.jsonl#L13] Assistant: 已加载最新实战策略。现在执行今日采集任务。
+[mi-zhi/sessions/46726a05-f0be-427e-b5d0-91f778fc75e5.jsonl#L22] Assistant: 数据采集完成，开始分析和撰写早报。
+[mi-zhi/sessions/46726a05-f0be-427e-b5d0-91f778fc75e5.jsonl#L24] Assistant: 现在分析数据，生成今日早报 TOP 10 并创建双重产出。
+[mi-zhi/sessions/46726a05-f0be-427e-b5d0-91f778fc75e5.jsonl#L26] Assistant: Now let me generate the daily report and create the Feishu document:
+[mi-zhi/sessions/46726a05-f0be-427e-b5d0-91f778fc75e5.jsonl#L28] Assistant: Now let me write today's diary and send the report:
+[mi-zhi/sessions/46726a05-f0be-427e-b5d0-91f778fc75e5.jsonl#L34] Assistant: ✅ **AI资讯早报采集完成** | 2026年5月29日 07:30 --- **📊 采集概况** - 信息源：TechCrunch AI · The Verge AI · Hacker News · AIHOT - 采集耗时：~83秒 - 状态：✅ 全部成功 --- **🔥 今日 TOP 5 热点** | 排名 | 类型 | 标题 | |:---:|:---:|:---| | 1 | 💰 | **Anthropic 完成650亿美元H轮融资，估值9650亿美元** | | 2 | 💰 | **Cognition 完成超
+[mi-zhi/sessions/46726a05-f0be-427e-b5d0-91f778fc75e5.jsonl#L34] Assistant: house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/AI_资讯早报_20260529.md` ✅ - **飞书推送**：`oc_4b57e44fbd547ec868bcea38d9193241` ✅

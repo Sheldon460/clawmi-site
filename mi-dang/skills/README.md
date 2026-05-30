@@ -51,8 +51,8 @@ npx -y bun ~/.openclaw/skills/canghe-url-to-markdown/scripts/main.ts \
 # 2. 生成摘要和标签（AI 处理）
 
 # 3. 保存到 Obsidian
-mkdir -p "/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/素材"
-cat > "/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/素材/素材-主题-20260310.md"
+mkdir -p "/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/素材"
+cat > "/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/素材/素材-主题-20260310.md"
 ```
 
 **输出**:

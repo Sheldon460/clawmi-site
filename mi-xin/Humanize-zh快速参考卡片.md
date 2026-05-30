@@ -235,4 +235,4 @@
 
 **打印建议**：将以上3张卡片打印在A4纸上（正反面），塑封后放在工作台随时查阅。
 
-**电子版路径**：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-xin/Humanize-zh快速参考卡片.md`
+**电子版路径**：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-xin/Humanize-zh快速参考卡片.md`

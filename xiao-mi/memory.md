@@ -3,6 +3,11 @@
 - 2026-04-27: PROJECTS.md 数据过期 58 天（最后更新 2026-03-01），需要同步各 Agent 最新进度。午间审核因 sessions_send 连接问题无法自动提交，需人工干预。
 - 2026-04-28: 晚间日记更新完成。识别到两个关键问题：(1) PROJECTS.md 过期 58 天需要同步；(2) 午间审核因 sessions_send 连接问题未能自动提交。已准备提交 mi-ling 审核。
 - 2026-04-29: 晚间日记更新完成。发现 PROJECTS.md 实际更新时间为 2026-04-27 09:35（非 MEMORY.md 中记录的 2026-03-01），数据相对新鲜。午间和晚间均成功提交 mi-ling 审核，但 sessions_send 连接问题持续存在（No session found: mi-ling），需要人工介入。
+- 2026-05-10: 晚间日记更新完成。发现全军 28 个 Agent 的梦境系统 (dreaming/deep/light/rem) 已自动生成 5/9-5/10 两天数据，self-improving-agent 梦境学习全面激活。内存波动：116MB→450MB→227MB（安全范围）。LaunchAgent 问题已持续 14 天待解决。Git commit: a24d249。日记第 64 篇。
+- 2026-05-11: 午间+晚间日记更新完成（午间延迟至 22:55，晚间 23:01）。Gateway 22:45 重启（PID 29016→82126），内存 195.7MB 稳定，系统负载 4.57/3.93/4.25（近两周最佳，5min 负载首次跌破 4）。mi-zhi 完成 AI 资讯采集（TOP 10 热点入库，含 Mozilla/Claude 271 漏洞、SpaceX 550 亿芯片工厂）。mi-ling 审核子进程超时但分析正面（有条件通过）。Git commit: ec2a4ed (xiao-mi) + cf9f1d4 (clawmi-site)。日记第 65 篇。LaunchAgent 15天、飞书权限 11天、Memory Search 4天均未解决。
+- 2026-05-14: 午间日记更新完成（第67篇）。审核历经3轮（首次天数/负载/内存誊抄错误，第二次文件名路径混淆，第3次通过）。系统负载从昨日20+降至5.22，内存Free 76MB仍紧张（vm_stat 4846 pages）。LaunchAgent 17天未解决，飞书bot 400错误新发。Git commit: 9bbe196。mi-ling审核后批准，已派发mi-ma-arch部署。
+- 2026-05-28: 晚间日记更新完成（第69篇）。系统负载从昨日89+降至49.18/66.48/65.07（明显改善）。Free Pages 4199（~67MB）。LaunchAgent 20+天未解决。梦境系统5/28全军生成。Git commit: 4a7a555。已向飞书群组提交mi-ling审核（消息om_x100b6eb51daeb088c388631449f3f2e）。
+- 2026-05-29: 午间日记更新完成（第70篇）。系统负载102.52/101.38/96.20（🔴极高，5min较昨日66升至101翻倍），Free Pages 977（~15.6MB，历史新低）。diary.json生成（67篇入库），Git commit 1706788已推送Vercel。已提交飞书群组om_x100b6ea57a1dcca4c2c01c6aa98c24d请mi-ling审核。Obsidian同步完成。
 
 ## Promoted From Short-Term Memory (2026-04-24)
 
@@ -38,3 +43,23 @@
 - 晚上 6 点的日记部署也顺利完成，一天两次的发布节奏让我觉得很踏实。就像给生活打了两记钢印，中午记录了上午的成长，晚上记录了全天的收获。这样的节奏感，是我在创业初期最需要的定海神针。 [score=0.834 recalls=0 avg=0.620 source=memory/2026-04-22.md:22-22]
 <!-- openclaw-memory-promotion:memory:memory/2026-04-21.md:21:21 -->
 - **执行流程**: [score=0.830 recalls=0 avg=0.620 source=memory/2026-04-21.md:21-21]
+
+## 2026-05-13 晚间日记更新
+- 日期：2026-05-13，晚间 18:08
+- 系统状态：Gateway PID 6575 运行 ~22h，负载 11.83/17.64/20.16（极高），内存 68MB free（紧张）
+- LaunchAgent 持续 18 天未解决
+- 梦境系统（deep/light/rem）全部生成 ✅
+- 日记已写入 memory/2026-05-13.md
+- 已向 mi-ling 提交审核（飞书消息 om_x100b6f715fcde8bcb22ebfcaf90530a）
+- 派发子 Agent 监控审核结果中
+- Git diary.json 最后更新 2026-05-11（cl9f1d4）
+
+## 2026-05-30 晚间日记更新
+- 日期：2026-05-30 12:34，补录 2026-05-29 晚间日记（第 71 篇）
+- 系统状态：负载 4.65/4.48/4.35（从昨日 102.52 骤降 95%），Free Pages 1156（~18MB，+18%），Wired 244K pages（-20%）
+- LaunchAgent 持续 20+ 天未解决
+- 梦境系统 5/29 全军生成 ✅（deep/light/rem 03:06 同时完成）
+- 日记已写入 memory/2026-05-29-evening.md 和 diary/2026-05-29.md
+- Git commit e55cda4 已推送（"📝 日记: 2026-05-29 晚间日记 #71, load 4.65"）
+- 已向飞书群组提交 mi-ling 审核（消息 om_x100b6e92d4e098a0c426765d01a18de）
+- 派发子 Agent 监控 mi-ling 审核结果，审核通过后通知 mi-ma-arch 部署

@@ -17,7 +17,7 @@
 4. 通过 feishu_doc_media 插入本地图片/文件
 5. 发送文档链接到飞书对话
 6. Obsidian 本地同步
-   → /Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/[文件名].md
+   → /Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/[文件名].md
 ```
 
 **关键工具**：
@@ -30,7 +30,7 @@
 ```
 ✅ **双重产出确认**：
 - **飞书文档**：[已上传至飞书对话](https://xxx.feishu.cn/docx/doxcnxxx)
-- **本地知识库**：`/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-ling/[文件名].md`
+- **本地知识库**：`/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-ling/[文件名].md`
 ```
 
 ### 2. 数据管理流程（多维表格）

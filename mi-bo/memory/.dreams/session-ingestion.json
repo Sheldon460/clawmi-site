@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "files": {
+    "mi-bo:sessions/8296a96a-7c79-4d07-9e80-4f9df9df3270.jsonl.reset.2026-03-25T16-18-15.212Z": {
+      "mtimeMs": 1773011527000,
+      "size": 4100,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    }
+  },
+  "seenMessages": {
+    "mi-bo:8296a96a-7c79-4d07-9e80-4f9df9df3270": []
+  }
+}

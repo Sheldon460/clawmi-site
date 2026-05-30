@@ -1,0 +1,40 @@
+{
+  "version": 3,
+  "files": {
+    "mi-ma-arch:sessions/2ad588c0-ab77-4d16-9888-b4a568b9be9c.jsonl": {
+      "mtimeMs": 1779963214119,
+      "size": 42501,
+      "contentHash": "8f4531c030e74c1d621207bee9ce0c68599f2b4e2be1730ff5f2e87d1d73e916",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "mi-ma-arch:sessions/2ad588c0-ab77-4d16-9888-b4a568b9be9c.trajectory.jsonl": {
+      "mtimeMs": 1779963215985,
+      "size": 288614,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "mi-ma-arch:sessions/ac500b6e-5a55-4d96-934f-197b12ebe364.jsonl": {
+      "mtimeMs": 1778736188961,
+      "size": 203171,
+      "contentHash": "61b7327d775ef2a2add8a24273fb66103ba419f793f6f40193d0ccfe60981999",
+      "lineCount": 4,
+      "lastContentLine": 4
+    },
+    "mi-ma-arch:sessions/ac500b6e-5a55-4d96-934f-197b12ebe364.trajectory.jsonl": {
+      "mtimeMs": 1778736190002,
+      "size": 182301,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    }
+  },
+  "seenMessages": {
+    "mi-ma-arch:2ad588c0-ab77-4d16-9888-b4a568b9be9c": [
+      "b21f2c3433a4a3ebbfdfa4a9e5762b3569607e7a",
+      "eed30f37a7bb9711ce71a12eb3a4da7179f93da3"
+    ],
+    "mi-ma-arch:2ad588c0-ab77-4d16-9888-b4a568b9be9c.trajectory": []
+  }
+}

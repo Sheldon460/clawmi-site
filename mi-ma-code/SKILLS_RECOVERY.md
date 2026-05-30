@@ -151,7 +151,7 @@ MCP → /usr/local/lib/node_modules/openclaw/skills/mcporter/SKILL.md
   1. 本地生成 Markdown
   2. 调用 feishu_create_doc 转换为飞书文档
   3. 发送飞书文档链接到对话
-  4. 同步到 Obsidian: /Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/
+  4. 同步到 Obsidian: /Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/
 ```
 
 ### 5. Self-Improving 系统

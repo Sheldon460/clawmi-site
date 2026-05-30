@@ -1,6 +1,7 @@
 #!/bin/bash
 # AI热点情报自动采集脚本
 # 由幂智(mi-zhi)创建 - 2026-03-08
+# 版本: 3.1 (2026-05-28: 增加 aihot.virxact.com, 改本地存储路径)
 
 set -e
 
@@ -13,14 +14,17 @@ echo "🤖 AI情报采集任务启动 - $(date)" | tee -a "$LOG_FILE"
 # 配置
 URL_CHROME_PATH="/Volumes/My house/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 SKILL_PATH="$HOME/.openclaw/skills/canghe-url-to-markdown"
-OUTPUT_DIR="/tmp/ai_news"
+
+# ✅ 新的本地存储路径: Obsidian 素材收件箱/自动采集
+OUTPUT_DIR="/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/02.素材收件箱/08.自动采集"
 mkdir -p "$OUTPUT_DIR"
 
-# 采集源列表
+# 采集源列表 (新增 aihot.virxact.com)
 SOURCES=(
   "https://techcrunch.com/category/artificial-intelligence/|techcrunch_ai"
   "https://www.theverge.com/ai-artificial-intelligence|verge_ai"
   "https://news.ycombinator.com|hackernews"
+  "https://aihot.virxact.com/|aihot"
 )
 
 # 1. 采集各平台数据
@@ -29,16 +33,16 @@ echo "📡 开始采集热点资讯..." | tee -a "$LOG_FILE"
 for source in "${SOURCES[@]}"; do
   IFS='|' read -r url name <<< "$source"
   echo "  🔍 采集: $name" | tee -a "$LOG_FILE"
-  
+
   export URL_CHROME_PATH
   cd "$SKILL_PATH"
-  
+
   if bun scripts/main.ts "$url" -o "${OUTPUT_DIR}/${name}_${TIMESTAMP}.md" --timeout 45000 2>/dev/null; then
     echo "  ✅ $name 采集成功" | tee -a "$LOG_FILE"
   else
     echo "  ⚠️ $name 采集失败，跳过" | tee -a "$LOG_FILE"
   fi
-  
+
   sleep 2
 done
 
@@ -56,7 +60,7 @@ cat > "$PROCESSED_FILE" << 'EOF'
 {
   "status": "collected",
   "timestamp": "TIMESTAMP_PLACEHOLDER",
-  "sources": ["TechCrunch", "The Verge", "Hacker News"],
+  "sources": ["TechCrunch", "The Verge", "Hacker News", "AIHOT"],
   "next_step": "等待AI分析和飞书表格写入"
 }
 EOF

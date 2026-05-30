@@ -23,7 +23,7 @@
 
 ### 文件位置
 - 监控配置: `~/.openclaw/workspace-jiaoyi/skills/stock-monitor/watchlist.json`
-- 分析报告: `/Volumes/My house/Users/Sheldon/Desktop/知识库/我的知识库/OpenClaw_Output/mi-dang/板块监控预警系统配置报告_2026-03-08.md`
+- 分析报告: `/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/13.Openclaw/mi-dang/板块监控预警系统配置报告_2026-03-08.md`
 
 ### 后续行动
 - 周一 09:15 自动启动监控

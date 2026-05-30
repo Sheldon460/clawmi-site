@@ -14,7 +14,9 @@ const CONFIG = {
   appToken: 'EVxlb7yTHaw9GjsyPgncypMTnec',
   tableId: 'tbl6yIyjpyZfTHzK',
   newsCount: 10,
-  workspace: '/Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-zhi'
+  workspace: '/Volumes/My house/Users/Sheldon/.openclaw/workspace/mi-zhi',
+  // ✅ 新的本地存储路径
+  outputDir: '/Volumes/My house/Users/Sheldon/Library/Mobile Documents/iCloud~md~obsidian/Documents/02.素材收件箱/08.自动采集'
 };
 
 /**
